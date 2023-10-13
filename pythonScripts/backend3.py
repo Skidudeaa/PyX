@@ -134,8 +134,8 @@ def main():
     song_name = input("Enter the song name: ")
     artist_name = input("Enter the artist name: ")
     
-    lyrics_data = fetch_lyrics_with_timestamps(MUSIXMATCH_USER_TOKEN, song_name + " " + artist_name)
-    song_data = get_song_details_and_annotations(song_name, GENIUS_API_KEY)
+    lyrics_data = fetch_lyrics_with_timestamps("190523f77464fba06fa5f82a9bfab0aa9dc201244ecf5124a06d95", song_name + " " + artist_name)
+    song_data = get_song_details_and_annotations(song_name, "6IJtS4Xta8IPcEPwmC-8YVOXf5Eoc4RHwbhWINDbzomMcFVXQVxbVQapsFxzKewr")
 
     combined_data = {}
     if lyrics_data:

@@ -22,7 +22,7 @@ MUSIXMATCH_USER_TOKEN = "190523f77464fba06fa5f82a9bfab0aa9dc201244ecf5124a06d95"
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 # Semantic Truncate Function
-def semantic_truncate(text, max_length=450):
+def semantic_truncate(text, max_length=700):
     model = Summarizer()
     summary = model(text)
     sentences = sent_tokenize(summary)
@@ -105,18 +105,24 @@ def get_song_details_and_annotations(song_name, api_key):
     song_data['album'] = song_details['album']['name'] if song_details['album'] else None
     song_data['release_date'] = song_details['release_date']
     song_data['description'] = song_details['description']
+    # Semantically truncate description
+    full_description = song_details['description']
+    semantic_summary = semantic_truncate(full_description)
+    truncated_description = semantic_summary[:600]
+    song_data['description'] = truncated_description
     annotations = []
     for referent in referents:
         annotation_text = referent['annotations'][0]['body']['dom']['children']
         annotation_text_str = extract_text(annotation_text)
         semantic_summary = semantic_truncate(annotation_text_str)
-        truncated_annotation = semantic_summary[:550]
+        truncated_annotation = semantic_summary[:500]
         annotations.append({
             'referent': referent['fragment'],
             'annotation': truncated_annotation
         })
     song_data['annotations'] = annotations
     return song_data
+
 
 # Musixmatch Interactions
 class LRCProvider:
@@ -157,11 +163,12 @@ def fetch_lyrics_with_timestamps(user_token, search_term):
     lyrics = musixmatch_provider.get_lrc(search_term)
     lyrics_data = None
     if lyrics:
-        parsed_lyrics = [{"timestamp": round(float(ts[1:].split(':')[0])*60 + float(ts[1:].split(':')[1]), 1), "lyric": l} for ts, l in (line.split('] ') for line in lyrics.split('\n') if line)]
+        parsed_lyrics = [{"id": f"{i+1}", "timestamp": round(float(ts[1:].split(':')[0])*60 + float(ts[1:].split(':')[1]), 1), "lyric": l} for i, (ts, l) in enumerate((line.split('] ') for line in lyrics.split('\n') if line))]
         lyrics_data = {
             "lyrics": parsed_lyrics
         }
     return lyrics_data
+
 
 # Utility Functions for Video Downloading
 def create_session():
@@ -236,7 +243,19 @@ def fetch_songs(search_term, client_access_token):
     genius_search_url = f"http://api.genius.com/search?q={search_term}&access_token={client_access_token}"
     response = requests.get(genius_search_url)
     json_data = response.json()
-    songs = [(song['result']['full_title'], song['result']['stats']['pageviews'], song['result']['song_art_image_url']) for song in json_data['response']['hits']]
+    songs = []  
+    for song in json_data['response']['hits']:
+    
+      full_title = song['result']['full_title']
+      song_art_url = song['result']['song_art_image_url']
+    
+      if 'stats' in song['result'] and 'pageviews' in song['result']['stats']:
+        pageviews = song['result']['stats']['pageviews']
+      else:
+        pageviews = None
+    
+      songs.append((full_title, pageviews, song_art_url))
+
     return songs
 
 def save_album_art(songs, search_term):
@@ -271,7 +290,7 @@ def get_best_match(input_str, potential_matches):
             best_match_score = score
             best_match_string = potential
 
-    return best_match_string if best_match_score > 70 else None  # Only return matches that are more than 70% similar
+    return best_match_string if best_match_score > 60 else None  # Only return matches that are more than 60% similar
 
 
 def main():
