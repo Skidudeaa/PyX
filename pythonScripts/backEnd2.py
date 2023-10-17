@@ -340,7 +340,7 @@ def main():
         combined_data.update(song_data)
 
     if combined_data:
-        with open("combined_data.json", "w") as f:
+        with open("backEnd2.json", "w") as f:
             json.dump(combined_data, f, indent=4)
     else:
         print("No data to save.")

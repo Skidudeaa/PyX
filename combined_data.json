@@ -2,389 +2,299 @@
     "lyrics": [
         {
             "id": "1",
-            "timestamp": 1.7,
-            "lyric": "Enviyon on the mix"
+            "timestamp": 5.2,
+            "lyric": "Falling backwards"
         },
         {
             "id": "2",
-            "timestamp": 2.8,
-            "lyric": "No, no, no, no"
+            "timestamp": 9.9,
+            "lyric": "What comes after"
         },
         {
             "id": "3",
-            "timestamp": 3.8,
-            "lyric": "No, no, no, no, no, no, no, no, no, no"
+            "timestamp": 13.2,
+            "lyric": "The words you said they knocked us from our high"
         },
         {
             "id": "4",
-            "timestamp": 4.6,
-            "lyric": "No, no, no, no"
+            "timestamp": 17.6,
+            "lyric": "I always thought we'd have another life"
         },
         {
             "id": "5",
-            "timestamp": 5.5,
-            "lyric": "I still see your shadows in my room"
+            "timestamp": 23.2,
+            "lyric": "Dancing alone"
         },
         {
             "id": "6",
-            "timestamp": 8.1,
-            "lyric": "Can't take back the love that I gave you"
+            "timestamp": 27.7,
+            "lyric": "Left in shadows"
         },
         {
             "id": "7",
-            "timestamp": 11.1,
-            "lyric": "It's to the point where I love and I hate you"
+            "timestamp": 31.0,
+            "lyric": "I paint you in the corner of my mind"
         },
         {
             "id": "8",
-            "timestamp": 13.1,
-            "lyric": "And I cannot change you, so I must replace you, oh"
+            "timestamp": 35.3,
+            "lyric": "Form the colours from the rays of light"
         },
         {
             "id": "9",
-            "timestamp": 16.6,
-            "lyric": "Easier said than done, I thought you were the one"
+            "timestamp": 39.1,
+            "lyric": "Close my eyes, I can't erase you"
         },
         {
             "id": "10",
-            "timestamp": 20.2,
-            "lyric": "Listenin' to my heart instead of my head"
+            "timestamp": 44.5,
+            "lyric": "(I can't erase you)"
         },
         {
             "id": "11",
-            "timestamp": 22.9,
-            "lyric": "You found another one, but I am the better one"
+            "timestamp": 49.7,
+            "lyric": "Hallucinations"
         },
         {
             "id": "12",
-            "timestamp": 24.4,
-            "lyric": "I won't let you forget me"
+            "timestamp": 52.0,
+            "lyric": "You occupy"
         },
         {
             "id": "13",
-            "timestamp": 27.6,
-            "lyric": "I still see your shadows in my room"
+            "timestamp": 54.0,
+            "lyric": "My imagination's"
         },
         {
             "id": "14",
-            "timestamp": 31.1,
-            "lyric": "Can't take back the love that I gave you"
+            "timestamp": 56.8,
+            "lyric": "Running wild"
         },
         {
             "id": "15",
-            "timestamp": 34.2,
-            "lyric": "It's to the point where I love and I hate you"
+            "timestamp": 59.0,
+            "lyric": "New sensations"
         },
         {
             "id": "16",
-            "timestamp": 36.4,
-            "lyric": "And I cannot change you, so I must replace you, oh"
+            "timestamp": 61.2,
+            "lyric": "Sweet temptations"
         },
         {
             "id": "17",
-            "timestamp": 38.1,
-            "lyric": "Easier said than done, I thought you were the one"
+            "timestamp": 64.3,
+            "lyric": "I can't tell what's real and what's"
         },
         {
             "id": "18",
-            "timestamp": 42.8,
-            "lyric": "Listenin' to my heart instead of my head"
+            "timestamp": 67.3,
+            "lyric": "So much breakage"
         },
         {
             "id": "19",
-            "timestamp": 45.8,
-            "lyric": "You found another one, but I am the better one"
+            "timestamp": 71.7,
+            "lyric": "I see your face in blank spaces"
         },
         {
             "id": "20",
-            "timestamp": 50.1,
-            "lyric": "I won't let you forget me"
+            "timestamp": 75.5,
+            "lyric": "I'm hearing voices out of my TV"
         },
         {
             "id": "21",
-            "timestamp": 51.3,
-            "lyric": "You left me falling and landing inside my grave"
+            "timestamp": 80.1,
+            "lyric": "Silent songs but they're singing to me"
         },
         {
             "id": "22",
-            "timestamp": 56.4,
-            "lyric": "I know that you want me dead"
+            "timestamp": 83.1,
+            "lyric": "Close my eyes, I can't erase you"
         },
         {
             "id": "23",
-            "timestamp": 62.5,
-            "lyric": "I take prescriptions to make me feel a-okay"
+            "timestamp": 87.2,
+            "lyric": "(I can't erase you)"
         },
         {
             "id": "24",
-            "timestamp": 67.8,
-            "lyric": "I know it's all in my head"
+            "timestamp": 92.3,
+            "lyric": "We're not close but I still taste you"
         },
         {
             "id": "25",
-            "timestamp": 73.5,
-            "lyric": "I have these lucid dreams where I can't move a thing"
+            "timestamp": 95.5,
+            "lyric": "(Still taste you, still taste you)"
         },
         {
             "id": "26",
-            "timestamp": 79.1,
-            "lyric": "Thinking of you in my bed"
+            "timestamp": 99.2,
+            "lyric": ""
         },
         {
             "id": "27",
-            "timestamp": 85.2,
-            "lyric": "You were my everything, thoughts of a wedding ring"
+            "timestamp": 103.1,
+            "lyric": "Hallucinations"
         },
         {
             "id": "28",
-            "timestamp": 90.7,
-            "lyric": "Now I'm just better off dead (uh, uh, uh)"
+            "timestamp": 105.4,
+            "lyric": "You occupy"
         },
         {
             "id": "29",
-            "timestamp": 95.9,
-            "lyric": "I'll do it over again"
+            "timestamp": 107.4,
+            "lyric": "My imagination's"
         },
         {
             "id": "30",
-            "timestamp": 98.1,
-            "lyric": "I didn't want it to end"
+            "timestamp": 109.9,
+            "lyric": "Running wild"
         },
         {
             "id": "31",
-            "timestamp": 99.5,
-            "lyric": "I watch it blow in the wind"
+            "timestamp": 112.3,
+            "lyric": "New sensations"
         },
         {
             "id": "32",
-            "timestamp": 101.0,
-            "lyric": "I should've listened to my friends"
+            "timestamp": 114.5,
+            "lyric": "Sweet temptations"
         },
         {
             "id": "33",
-            "timestamp": 103.9,
-            "lyric": "Leave this shit in the past"
+            "timestamp": 118.0,
+            "lyric": "I can't tell what's real and what's"
         },
         {
             "id": "34",
-            "timestamp": 105.0,
-            "lyric": "But I want it to last"
+            "timestamp": 120.7,
+            "lyric": "Hallucinations"
         },
         {
             "id": "35",
-            "timestamp": 106.0,
-            "lyric": "You were made outta plastic, fake"
+            "timestamp": 123.0,
+            "lyric": "You satisfy"
         },
         {
             "id": "36",
-            "timestamp": 107.7,
-            "lyric": "I was tangled up in your drastic ways"
+            "timestamp": 125.2,
+            "lyric": "My imagination's"
         },
         {
             "id": "37",
-            "timestamp": 110.7,
-            "lyric": "Who knew evil girls have the prettiest face?"
+            "timestamp": 128.0,
+            "lyric": "Running wild"
         },
         {
             "id": "38",
-            "timestamp": 113.4,
-            "lyric": "You gave me a heart that was full of mistakes"
+            "timestamp": 130.3,
+            "lyric": "New sensations"
         },
         {
             "id": "39",
-            "timestamp": 116.4,
-            "lyric": "I gave you my heart and you made heartbreak"
+            "timestamp": 132.4,
+            "lyric": "Sweet temptations"
         },
         {
             "id": "40",
-            "timestamp": 119.5,
-            "lyric": "You made my heart break"
+            "timestamp": 135.6,
+            "lyric": "I can't tell what's real and what's"
         },
         {
             "id": "41",
-            "timestamp": 122.1,
-            "lyric": "You made my heart ache (I still see the shadows in my room)"
+            "timestamp": 138.8,
+            "lyric": "Hallucinations, nations, nations"
         },
         {
             "id": "42",
-            "timestamp": 124.9,
-            "lyric": "You made my heart break"
+            "timestamp": 143.3,
+            "lyric": "Hallucinations, nations, nations"
         },
         {
             "id": "43",
-            "timestamp": 127.8,
-            "lyric": "You made my heart ache (can't take back the love that I gave you)"
+            "timestamp": 147.7,
+            "lyric": "Hallucinations, nations, nations"
         },
         {
             "id": "44",
-            "timestamp": 130.7,
-            "lyric": "You made my heart break (were made outta plastic, fake)"
+            "timestamp": 152.0,
+            "lyric": "Hallucinations"
         },
         {
             "id": "45",
-            "timestamp": 133.3,
-            "lyric": "You made my heart ache (I still see the shadows in my room)"
+            "timestamp": 153.4,
+            "lyric": "(I can't tell what's real and what's)"
         },
         {
             "id": "46",
-            "timestamp": 136.2,
-            "lyric": "You made my heart break again (I was tangled up in your drastic ways)"
+            "timestamp": 156.7,
+            "lyric": ""
         },
         {
             "id": "47",
-            "timestamp": 140.1,
-            "lyric": "(Who knew evil girls have the prettiest face?)"
+            "timestamp": 174.4,
+            "lyric": "Hallucinations"
         },
         {
             "id": "48",
-            "timestamp": 142.0,
-            "lyric": "I still see your shadows in my room"
+            "timestamp": 176.5,
+            "lyric": "You occupy"
         },
         {
             "id": "49",
-            "timestamp": 145.3,
-            "lyric": "Can't take back the love that I gave you"
+            "timestamp": 178.3,
+            "lyric": "My imagination's"
         },
         {
             "id": "50",
-            "timestamp": 147.6,
-            "lyric": "It's to the point where I love and I hate you"
+            "timestamp": 181.3,
+            "lyric": "Running wild"
         },
         {
             "id": "51",
-            "timestamp": 150.6,
-            "lyric": "And I cannot change you so I must replace you, oh"
+            "timestamp": 183.5,
+            "lyric": "New sensations"
         },
         {
             "id": "52",
-            "timestamp": 154.7,
-            "lyric": "Easier said than done, I thought you were the one"
+            "timestamp": 185.7,
+            "lyric": "Sweet temptations"
         },
         {
             "id": "53",
-            "timestamp": 157.2,
-            "lyric": "Listening to my heart instead of my head"
+            "timestamp": 189.2,
+            "lyric": "I can't tell what's real and what's"
         },
         {
             "id": "54",
-            "timestamp": 159.9,
-            "lyric": "You found another one, but I am the better one"
+            "timestamp": 191.9,
+            "lyric": "Hallucinations, nations, nations"
         },
         {
             "id": "55",
-            "timestamp": 162.9,
-            "lyric": "I won't let you forget me"
+            "timestamp": 196.5,
+            "lyric": "Hallucinations, nations, nations"
         },
         {
             "id": "56",
-            "timestamp": 165.6,
-            "lyric": "I still see your shadows in my room"
+            "timestamp": 200.8,
+            "lyric": "Hallucinations, nations, nations"
         },
         {
             "id": "57",
-            "timestamp": 167.9,
-            "lyric": "Can't take back the love that I gave you"
+            "timestamp": 205.3,
+            "lyric": "Hallucinations"
         },
         {
             "id": "58",
-            "timestamp": 170.8,
-            "lyric": "It's to the point where I love and I hate you"
-        },
-        {
-            "id": "59",
-            "timestamp": 173.5,
-            "lyric": "And I cannot change you so I must replace you, oh"
-        },
-        {
-            "id": "60",
-            "timestamp": 175.2,
-            "lyric": "Easier said than done, I thought you were the one"
-        },
-        {
-            "id": "61",
-            "timestamp": 179.8,
-            "lyric": "Listening to my heart instead of my head"
-        },
-        {
-            "id": "62",
-            "timestamp": 182.9,
-            "lyric": "You found another one, but I am the better one"
-        },
-        {
-            "id": "63",
-            "timestamp": 186.0,
-            "lyric": "I won't let you forget me"
-        },
-        {
-            "id": "64",
-            "timestamp": 188.9,
-            "lyric": "(Leave this shit in the past but I want it to last)"
-        },
-        {
-            "id": "65",
-            "timestamp": 191.5,
-            "lyric": "(You were made outta plastic, fake)"
-        },
-        {
-            "id": "66",
-            "timestamp": 194.1,
-            "lyric": "(I was tangled up in your drastic ways)"
-        },
-        {
-            "id": "67",
-            "timestamp": 196.5,
-            "lyric": "(Who knew evil girls have the prettiest face?)"
-        },
-        {
-            "id": "68",
-            "timestamp": 199.1,
-            "lyric": "(Easier said than done, I thought you were)"
-        },
-        {
-            "id": "69",
-            "timestamp": 203.5,
-            "lyric": "(Instead of my head, you found ano-, better one)"
-        },
-        {
-            "id": "70",
-            "timestamp": 207.2,
-            "lyric": "(I won't let you forget me)"
-        },
-        {
-            "id": "71",
-            "timestamp": 210.6,
+            "timestamp": 206.7,
             "lyric": ""
         }
     ],
-    "title": "Lucid Dreams",
-    "artist": "Juice WRLD",
-    "album": "JuiceWRLD 9 9 9",
-    "release_date": "2017-07-01",
-    "description": "On \u201cLucid Dreams,\u201d Juice WRLD explores the mental anguish he feels after experiencing a break-up. Juice uses the idea of controlling a lucid dream as an analogy for his mental state; to avoid the pain of seeing his ex-lover in his dreams, Juice seeks to replace them\u2014for good.",
-    "annotations": [
-        {
-            "referent": "I still see your shadows in my room\n Can\u2019t take back the love that I gave you\n It\u2019s to the point where I love and I hate you",
-            "annotation": "When you got sleep paralysis, you see things that possibly are there, or they aren\u2019t there, you see shadows. Cause I mean, you could be attached to somebody that\u2019s no good, and you can\u2019t help your feeling at the end of the day."
-        },
-        {
-            "referent": "Enviyon on the mix",
-            "annotation": "Enviyon is a recording studio, that\u2019s the one I used to record at, I used to go two hours at a time and if I had like a little bit of money stashed up, I would go for six hours. I would either buy a two hour or six hour, nothing more, nothing less."
-        },
-        {
-            "referent": "Enviyon on the mix",
-            "annotation": "Enviyon is a recording studio, that\u2019s the one I used to record at, I used to go two hours at a time and if I had like a little bit of money stashed up, I would go for six hours. I would either buy a two hour or six hour, nothing more, nothing less."
-        },
-        {
-            "referent": "And I cannot change you, so I must replace you, oh\n Easier said than done, I thought you were the one\n Listenin\u2019 to my heart instead of my head",
-            "annotation": "I kind of figured out that I probably don\u2019t know what real love is, nine times out of ten, I don\u2019t. But I feel like if you have an attachment to somebody, if you feel strong about somebody, why would you want to cut them out of your life?"
-        },
-        {
-            "referent": "Who knew evil girls had the prettiest face?",
-            "annotation": "That\u2019s a false statement, I\u2019ve come to find out. I feel like maybe in TV it\u2019s somewhat real, \u2018cause you know how in the movies where the high school bully girls, they be all like, dumb blondes."
-        },
-        {
-            "referent": "I should\u2019ve listened to my friends",
-            "annotation": "People can see what\u2019s goin' on from the outside way better than you can see when you looking straight ahead. You\u2019re the one that\u2019s in the shit, they can see all the faults, \u2018cause I feel like, when you feel a certain type of way about someone, or something, you don\u2019t see anything wrong with it."
-        }
-    ]
+    "title": "\u200eblank spaces",
+    "artist": "Kyrstahh",
+    "album": "\u2661 \u2662 love \u2662 \u2661 ep",
+    "release_date": "2022-10-14",
+    "description": "",
+    "annotations": []
 }
