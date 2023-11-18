@@ -1,0 +1,364 @@
+{
+    "title": "This Is Kodak Black",
+    "artist": "Spotify",
+    "album": "This Is...",
+    "release_date": "2021-05-14",
+    "description": "The essential tracks, all in one playlist.",
+    "bgColor": "f5f5f7",
+    "textColors": {
+        "textColor1": "000413",
+        "textColor2": "311812",
+        "textColor3": "313441",
+        "textColor4": "58443f"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "68d140b2-eaa4-405e-a3e0-2bd76637510b",
+            "lyric": "I'm drownin'",
+            "timestamp": 4.8,
+            "annotation": null
+        },
+        {
+            "id": "51a2799b-2102-44b0-ba73-d5e2af316148",
+            "lyric": "I'm drownin'",
+            "timestamp": 6.8,
+            "annotation": null
+        },
+        {
+            "id": "62fc4db9-3a1b-4582-b1c9-106abd454217",
+            "lyric": "I'm drownin'",
+            "timestamp": 8.3,
+            "annotation": null
+        },
+        {
+            "id": "17915b2b-39c2-4ccb-9dd4-bcce2380a2af",
+            "lyric": "I'm drownin'",
+            "timestamp": 9.9,
+            "annotation": null
+        },
+        {
+            "id": "3ea07370-46f4-4164-992c-22a2b07d9970",
+            "lyric": "Wrist so icy, wonder why she like me, bitch, I'm drownin'",
+            "timestamp": 12.5,
+            "annotation": null
+        },
+        {
+            "id": "ca6a01ef-fbe5-4351-8ec4-d60db7322fe9",
+            "lyric": "In water, I just bought a Cuban, dipped it in a fountain",
+            "timestamp": 15.2,
+            "annotation": null
+        },
+        {
+            "id": "dfd4c6d3-bb22-4968-8c4c-ade9091fb0cf",
+            "lyric": "Everywhere that I go it's a light show, I'm surrounded",
+            "timestamp": 18.1,
+            "annotation": null
+        },
+        {
+            "id": "dd64c09f-1fe7-4b60-a355-57da34578eb3",
+            "lyric": "Bust down, bust down, bust down, bust down, bust down, bitch, I'm drownin'",
+            "timestamp": 21.0,
+            "annotation": null
+        },
+        {
+            "id": "08031ec3-c1d8-4371-bcc2-3d99a76f7086",
+            "lyric": "I just bought a Cuban ring and dipped it in a fountain",
+            "timestamp": 24.4,
+            "annotation": null
+        },
+        {
+            "id": "b1f76d9a-fa94-4424-8ade-d936a5cbf5c2",
+            "lyric": "Chain so heavy I feel like I'm holdin' up a mountain",
+            "timestamp": 27.5,
+            "annotation": null
+        },
+        {
+            "id": "1bdd4aff-bf89-4ffd-8d16-90567be1319c",
+            "lyric": "Everywhere that I go it's a light show, I'm surrounded",
+            "timestamp": 30.8,
+            "annotation": null
+        },
+        {
+            "id": "458b5b51-df58-4939-a3b0-bac1d89e51b7",
+            "lyric": "Bust down, bust down, bust down, bust down, bust down, bitch, I'm drownin'",
+            "timestamp": 33.7,
+            "annotation": null
+        },
+        {
+            "id": "de93596e-ff0c-4d33-80f7-ce48336413b3",
+            "lyric": "I'm with all my niggas, I don't go nowhere without 'em",
+            "timestamp": 37.0,
+            "annotation": null
+        },
+        {
+            "id": "42f27b8a-1bd4-4cf4-8959-7f8512c6ca2b",
+            "lyric": "If they don't let us in they might throw shots at the bouncer",
+            "timestamp": 40.0,
+            "annotation": null
+        },
+        {
+            "id": "41a82ca3-941c-4e2f-a447-2dcc0a4b2c79",
+            "lyric": "Actavis medicine, got it straight from out the doctor's",
+            "timestamp": 43.0,
+            "annotation": null
+        },
+        {
+            "id": "265181c0-9b26-424e-bf17-95ab6376ca1a",
+            "lyric": "I'm with RJ but I call him Wayne 'cause he's a shotta",
+            "timestamp": 46.1,
+            "annotation": null
+        },
+        {
+            "id": "27dab024-5f2e-49e8-a892-c91091dd0529",
+            "lyric": "Pick up the ladder, put it in the gun, make the nine stretch",
+            "timestamp": 49.0,
+            "annotation": null
+        },
+        {
+            "id": "536b45a8-bfb9-4cc7-8979-53150626db27",
+            "lyric": "Niggas with attitude, but we come straight out of Highbridge",
+            "timestamp": 52.4,
+            "annotation": null
+        },
+        {
+            "id": "3a2ac14f-fee1-4a83-a453-e6d74a2e5f65",
+            "lyric": "I'm gon' make her panties wet when she see the way I flex",
+            "timestamp": 55.7,
+            "annotation": null
+        },
+        {
+            "id": "71761215-992f-4a42-9990-f9891801fb28",
+            "lyric": "I'm gon' win a Grammy, move my family out the projects",
+            "timestamp": 58.3,
+            "annotation": null
+        },
+        {
+            "id": "528db11c-179a-4260-9bb3-0dcd5a6c6f02",
+            "lyric": "We went from chillin' in the projects to makin' projects",
+            "timestamp": 61.5,
+            "annotation": null
+        },
+        {
+            "id": "6a434e02-7773-4022-a610-bb767ba4298a",
+            "lyric": "We was tryna get to the top, and they tried to stop us",
+            "timestamp": 64.7,
+            "annotation": null
+        },
+        {
+            "id": "13e2f93f-21b2-4d40-8881-c203c1397d55",
+            "lyric": "I talk for myself, bitch I don't need no fucking voucher",
+            "timestamp": 67.8,
+            "annotation": null
+        },
+        {
+            "id": "26ecc1a2-1724-4f74-a7ea-494072b431a0",
+            "lyric": "She looked at my wrist and she looked at a hundred thousand",
+            "timestamp": 71.3,
+            "annotation": null
+        },
+        {
+            "id": "ce978ae2-d34e-4757-bb74-9ed1684e3598",
+            "lyric": "Wrist so icy, wonder why she like me, bitch, I'm drownin'",
+            "timestamp": 74.0,
+            "annotation": null
+        },
+        {
+            "id": "ba662385-ffee-4d7b-9ff3-f336feebfab8",
+            "lyric": "In water, I just bought a Cuban, dipped it in a fountain",
+            "timestamp": 77.2,
+            "annotation": null
+        },
+        {
+            "id": "a2184ede-36e2-472f-a82c-fb90c2c8da3f",
+            "lyric": "Everywhere that I go it's a light show, I'm surrounded",
+            "timestamp": 80.4,
+            "annotation": null
+        },
+        {
+            "id": "eb105943-dc75-471b-94f2-c5fe8827fdf8",
+            "lyric": "Bust down, bust down, bust down, bust down, bust down, bitch, I'm drownin'",
+            "timestamp": 83.4,
+            "annotation": null
+        },
+        {
+            "id": "e02a59a8-0884-4503-9c73-7044d67abe05",
+            "lyric": "I just bought a Cuban ring and dipped it in a fountain",
+            "timestamp": 86.3,
+            "annotation": null
+        },
+        {
+            "id": "fa99ac05-816c-4b39-b190-32cdc16eb9c2",
+            "lyric": "Chain so heavy I feel like I'm holdin' up a mountain",
+            "timestamp": 89.8,
+            "annotation": null
+        },
+        {
+            "id": "39b6d013-ed00-4df2-9478-46b61c291ef6",
+            "lyric": "Everywhere that I go it's a light show, I'm surrounded",
+            "timestamp": 92.8,
+            "annotation": null
+        },
+        {
+            "id": "c7fbca0e-3210-492b-801c-fd6cabb4bcc9",
+            "lyric": "Bust down, bust down, bust down, bust down, bust down, bitch, I'm drownin'",
+            "timestamp": 95.6,
+            "annotation": null
+        },
+        {
+            "id": "29f26e7f-1dd3-4264-a4e0-917a11ae0f4f",
+            "lyric": "Just bought a brand new chain from Avianne",
+            "timestamp": 99.0,
+            "annotation": null
+        },
+        {
+            "id": "afca6a52-d23d-4f73-a062-dcf0d1eb9df8",
+            "lyric": "Nigga with attitude, but I ain't from Compton",
+            "timestamp": 102.6,
+            "annotation": null
+        },
+        {
+            "id": "d923f72a-407b-4183-804f-822442aae57d",
+            "lyric": "Lil Kodak, bitch, I'm Polo'd down like Carlton",
+            "timestamp": 105.7,
+            "annotation": null
+        },
+        {
+            "id": "c1c126cc-97c1-405d-b8cf-83cff0ca280d",
+            "lyric": "Sniper Gang, I put a nigga on a carton",
+            "timestamp": 108.7,
+            "annotation": null
+        },
+        {
+            "id": "7374ead6-8496-4eff-a643-ea5c5584b3ff",
+            "lyric": "I'm the shit I'm fartin', I don't know how to potty",
+            "timestamp": 111.3,
+            "annotation": null
+        },
+        {
+            "id": "1a2798c4-3fb2-4d19-b659-cc2f705b23be",
+            "lyric": "Pull up in a 'Rari, I'm in the Yo like Gotti",
+            "timestamp": 114.5,
+            "annotation": null
+        },
+        {
+            "id": "a3fba46a-a440-4b24-8e25-603403bd2db2",
+            "lyric": "A Boogie, I'm goin' Scottie, nigga drop my deposit",
+            "timestamp": 117.5,
+            "annotation": null
+        },
+        {
+            "id": "b3758d3b-9782-4842-b290-f17b4352bc7e",
+            "lyric": "I ain't Jamaican, bitch, I'm Haitian, but I got them shottas",
+            "timestamp": 120.5,
+            "annotation": null
+        },
+        {
+            "id": "2a39bb9c-01c9-4f9b-94d9-c1a8d7a425fe",
+            "lyric": "Harley Davidson every day, I'm ridin' with the chopper",
+            "timestamp": 123.4,
+            "annotation": null
+        },
+        {
+            "id": "d2e2abc0-e041-4698-8e28-5976a00d2814",
+            "lyric": "They hatin', I know they don't wanna see a nigga prosper",
+            "timestamp": 127.0,
+            "annotation": null
+        },
+        {
+            "id": "8e03a213-6448-4fcf-bdcf-51aa31177713",
+            "lyric": "I ain't doing trims, I'm in the cut like I'm a barber",
+            "timestamp": 129.8,
+            "annotation": null
+        },
+        {
+            "id": "3bb28e52-d0bb-42c4-8b39-73e541764119",
+            "lyric": "She call me daddy, but I ain't her motherfucking father",
+            "timestamp": 132.7,
+            "annotation": null
+        },
+        {
+            "id": "08d9b8aa-7fa0-4bbc-b206-610188b90b39",
+            "lyric": "Wrist so icy, wonder why she like me, bitch, I'm drownin'",
+            "timestamp": 136.1,
+            "annotation": null
+        },
+        {
+            "id": "7219ad80-fe85-47e6-9d34-3e44c1821762",
+            "lyric": "In water, I just bought a Cuban, dipped it in a fountain",
+            "timestamp": 138.9,
+            "annotation": null
+        },
+        {
+            "id": "aa4af5e7-662e-4105-bd27-adfaf2a28355",
+            "lyric": "Everywhere that I go it's a light show, I'm surrounded",
+            "timestamp": 142.4,
+            "annotation": null
+        },
+        {
+            "id": "999e4140-4467-454b-9472-2c467ae18865",
+            "lyric": "Bust down, bust down, bust down, bust down, bust down, bitch, I'm drownin'",
+            "timestamp": 145.3,
+            "annotation": null
+        },
+        {
+            "id": "871f9cec-2134-41fd-a2d4-30108f245a46",
+            "lyric": "I just bought a Cuban ring and dipped it in a fountain",
+            "timestamp": 148.7,
+            "annotation": null
+        },
+        {
+            "id": "b73b9fd9-b55a-49a8-98c8-3fc60191f5db",
+            "lyric": "Chain so heavy I feel like I'm holdin' up a mountain",
+            "timestamp": 151.5,
+            "annotation": null
+        },
+        {
+            "id": "19a5ffd6-55da-440f-a9cc-429a2701534c",
+            "lyric": "Everywhere that I go it's a light show, I'm surrounded",
+            "timestamp": 154.7,
+            "annotation": null
+        },
+        {
+            "id": "01711fe3-6401-4192-b006-74bed8ba796a",
+            "lyric": "Bust down, bust down, bust down, bust down, bust down, bitch, I'm drownin'",
+            "timestamp": 158.0,
+            "annotation": null
+        },
+        {
+            "id": "c9f67440-4e44-415f-b5a5-e4e61ad0332a",
+            "lyric": "Bitch, I'm drownin', yeah",
+            "timestamp": 163.3,
+            "annotation": null
+        },
+        {
+            "id": "408aeb39-9b70-4a28-ab3c-227912a88d3d",
+            "lyric": "Bitch, I'm drownin'",
+            "timestamp": 166.4,
+            "annotation": null
+        },
+        {
+            "id": "bd5f0d5c-ce00-4db0-9f2a-70cd53d3f2a1",
+            "lyric": "I'm drownin'",
+            "timestamp": 168.3,
+            "annotation": null
+        },
+        {
+            "id": "4527a4dc-f49d-40f4-b671-ec5916ea0ffe",
+            "lyric": "I'm drownin'",
+            "timestamp": 170.0,
+            "annotation": null
+        },
+        {
+            "id": "aee99cf6-4b60-4586-933e-b6d673321a65",
+            "lyric": "I'm drownin'",
+            "timestamp": 171.3,
+            "annotation": null
+        },
+        {
+            "id": "6753a643-2a45-4396-a4c3-31afd79ecfaa",
+            "lyric": "",
+            "timestamp": 173.6,
+            "annotation": null
+        }
+    ]
+}

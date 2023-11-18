@@ -18,6 +18,7 @@ from summarizer import Summarizer
 from nltk.tokenize import sent_tokenize
 from typing import Optional
 from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 from uuid import uuid4
 
 # Initialization
@@ -246,8 +247,10 @@ class Musixmatch(LRCProvider):
         return body.get("subtitle", {}).get("subtitle_body")
 
 
-    def get_lrc(self, search_term: str) -> Optional[str]:
-        url = self.SEARCH_ENDPOINT.format(q=search_term, token=self.user_token)
+
+
+    def get_lrc(self, search_term: str, artist_name: str) -> Optional[str]:
+        url = self.SEARCH_ENDPOINT.format(q=f"{search_term} {artist_name}", token=self.user_token)
         r = self.session.get(url)
         if not r.ok:
             return
@@ -260,12 +263,29 @@ class Musixmatch(LRCProvider):
         tracks = body.get("track_list", [])
         if not tracks:
             return
-        return self.get_lrc_by_id(tracks[0]["track"]["track_id"])
 
+        # Normalize the search term and track names
+        search_term = f"{search_term} {artist_name}".lower()
+        track_names = [f"{track['track']['track_name']} {track['track']['artist_name']}".lower() for track in tracks]
 
-def fetch_lyrics_with_timestamps(user_token, search_term):
+        # Use FuzzyWuzzy to find the best match
+        best_match = None
+        best_score = 0
+        for track in tracks:
+            track_name = f"{track['track']['track_name']} {track['track']['artist_name']}".lower()
+            score = fuzz.ratio(search_term, track_name)
+            if score > best_score and score > 80:  # Increase the threshold to 80
+                best_score = score
+                best_match = track
+
+        if best_match is None:
+            return
+
+        return self.get_lrc_by_id(best_match["track"]["track_id"])
+
+def fetch_lyrics_with_timestamps(user_token, search_term, artist_name):
     musixmatch_provider = Musixmatch(user_token)
-    lyrics = musixmatch_provider.get_lrc(search_term)
+    lyrics = musixmatch_provider.get_lrc(search_term, artist_name)
     lyrics_data = None
     if lyrics:
         parsed_lyrics = [{"id": f"{i+1}", "timestamp": round(float(ts[1:].split(':')[0])*60 + float(ts[1:].split(':')[1]), 1), "lyric": l} for i, (ts, l) in enumerate((line.split('] ') for line in lyrics.split('\n') if line))]
@@ -276,6 +296,9 @@ def fetch_lyrics_with_timestamps(user_token, search_term):
 
 def combine_lyrics_and_annotations(lyrics_data, annotations_data):
     lyrics_and_annotations = []
+    added_annotations = set()  # Set to keep track of added annotations
+    last_lyric_had_annotation = False  # Flag to check if the last lyric had an annotation
+
     for lyric in lyrics_data.get('lyrics', []):
         annotation = None  # Default value if no matching annotation is found
         lyric_text = lyric['lyric']
@@ -283,8 +306,15 @@ def combine_lyrics_and_annotations(lyrics_data, annotations_data):
         # Search for a matching annotation based on the referent
         for ann in annotations_data.get('annotations', []):
             referent = ann['referent']
+            annotation_text = ann['annotation']
+
+            # Check if the annotation has already been added or if the last lyric had an annotation
+            if annotation_text in added_annotations or last_lyric_had_annotation:
+                continue
+
             if fuzz.ratio(referent.lower(), lyric_text.lower()) > 60:  # You can adjust the threshold
-                annotation = ann['annotation']
+                annotation = annotation_text
+                added_annotations.add(annotation_text)  # Add the annotation to the set of added annotations
                 break
                 
         lyrics_and_annotations.append({
@@ -293,6 +323,9 @@ def combine_lyrics_and_annotations(lyrics_data, annotations_data):
             'timestamp': lyric['timestamp'],
             'annotation': annotation
         })
+
+        # Update the flag for the next iteration
+        last_lyric_had_annotation = annotation is not None
         
     return lyrics_and_annotations
 
@@ -301,6 +334,8 @@ def main():
     # User input for song and artist
     song_title = input("Enter song title: ")
     artist_name = input("Enter artist name: ")
+    lyrics_data = fetch_lyrics_with_timestamps(MUSIXMATCH_USER_TOKEN, song_title, artist_name)
+
 
     # Apple Music API: Fetch and Download Video
     song_urls = get_song_urls(song_title, artist_name)
@@ -327,7 +362,7 @@ def main():
 
     # Genius and Musixmatch Functionality
     # Use `song_title` and `artist_name` to fetch Genius and Musixmatch data
-    lyrics_data = fetch_lyrics_with_timestamps(MUSIXMATCH_USER_TOKEN, song_title)
+    lyrics_data = fetch_lyrics_with_timestamps(MUSIXMATCH_USER_TOKEN, song_title, artist_name)
     song_data = get_song_details_and_annotations(song_title, GENIUS_API_KEY)
     combined_lyrics_and_annotations = combine_lyrics_and_annotations(lyrics_data, song_data)
 
@@ -341,7 +376,7 @@ def main():
     }
 
     if final_data:
-        with open("sendTo.json", "w") as f:
+        with open("sendToS.json", "w") as f:
             json.dump(final_data, f, indent=4)
     else:
         print("No data to save.")

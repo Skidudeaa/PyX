@@ -1,0 +1,148 @@
+{
+    "title": "Fell in Love with a Girl",
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "release_date": "2002-04-23",
+    "description": "\u201cFell In Love With A Girl\u201d was released as the second single off of  White Blood Cells . The video for this song was one of the first  brickfilms  to get mainstream attention.",
+    "bgColor": "000000",
+    "textColors": {
+        "textColor1": "e4e8e9",
+        "textColor2": "d2b8a5",
+        "textColor3": "b6babb",
+        "textColor4": "a89384"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "9ea07291-f019-4c8f-9497-e490274f92cd",
+            "lyric": "Fell in love with a girl",
+            "timestamp": 5.0,
+            "annotation": "Jack White mentioned the following statement in a 2007 interview with GQ Magazine, which confirmed his appreciation for red-haired women. Karen ElsonThis personal preference manifested itself in his 8-year marriage to redhead model Karen Elson, whom he maintained a good relationship with even after the divorce was finalized."
+        },
+        {
+            "id": "c0aea0b5-9738-4155-b256-8e5c29a06721",
+            "lyric": "I fell in love once and almost completely",
+            "timestamp": 7.0,
+            "annotation": null
+        },
+        {
+            "id": "a740b9cb-b41b-4e74-9ab2-c07b7f4efe26",
+            "lyric": "She's in love with the world",
+            "timestamp": 10.1,
+            "annotation": null
+        },
+        {
+            "id": "932b67de-733f-406c-abc2-6bb287c85a66",
+            "lyric": "But sometimes these feelings can be so misleading",
+            "timestamp": 12.0,
+            "annotation": null
+        },
+        {
+            "id": "a015a6a7-b227-417b-9c76-ead1676d902b",
+            "lyric": "She turns and says, \"Are you alright?\"",
+            "timestamp": 15.0,
+            "annotation": null
+        },
+        {
+            "id": "f3c51cd0-38a5-4b8a-b162-47fdc729f7e4",
+            "lyric": "I said, \"I must be fine 'cause my heart's still beating\"",
+            "timestamp": 17.0,
+            "annotation": null
+        },
+        {
+            "id": "b95e231f-eff9-4633-b445-cdf532bc348b",
+            "lyric": "\"Come and kiss me by the riverside, yeah\"",
+            "timestamp": 20.1,
+            "annotation": null
+        },
+        {
+            "id": "4f61b339-2154-46bd-ba9c-fee70e76e8da",
+            "lyric": "\"Bobby says it's fine, he don't consider it cheating now\"",
+            "timestamp": 22.0,
+            "annotation": null
+        },
+        {
+            "id": "c93f96e2-882b-4e16-9457-2e8f2678b50e",
+            "lyric": "Red hair with a curl",
+            "timestamp": 25.0,
+            "annotation": null
+        },
+        {
+            "id": "c0f041d9-2d18-436c-884f-af34dafd763e",
+            "lyric": "Mello-Roll for the flavor and the eyes for peepin'",
+            "timestamp": 27.0,
+            "annotation": "They sit and eat Mello-Roll Ice cream, bizarre little roll-shaped ice cream cones. They\u2019ve been off the market for decades, so this is our best hint that this song is set when Jack White was very young."
+        },
+        {
+            "id": "d8d95a9a-06f9-4bf5-a4bb-ed9c5fd9165a",
+            "lyric": "Can't keep away from the girl",
+            "timestamp": 30.0,
+            "annotation": null
+        },
+        {
+            "id": "98408607-af2e-4f2d-b8c7-6b96d65be79d",
+            "lyric": "These two sides of my brain need to have a meeting",
+            "timestamp": 32.1,
+            "annotation": "The practical left brain and the intuitive, romantic right brain are at war with each other. He knows this relationship is a bad idea but he cannot stop himself; the internal conflict is tearing him apart and he needs to find a way to reconcile his contradictory feelings."
+        },
+        {
+            "id": "331f357f-6d41-48a2-a21d-facee71e3c3e",
+            "lyric": "Can't think of anything to do, yeah",
+            "timestamp": 35.1,
+            "annotation": null
+        },
+        {
+            "id": "78af4154-1616-4c9c-af0a-4261c349d2fb",
+            "lyric": "My left brain knows that all my love is fleeting",
+            "timestamp": 37.0,
+            "annotation": "In pop psychology, the left brain is typically associated with logic-based analytical thinking, while the right brain is more intuitive. (In real scientific psychology, it\u2019s nonsense based on a misunderstanding of how brain lateralization works).So in the narrator\u2019s case, the left, logical side of his brain \u201cknows\u201d that the relationship is hopeless and it is implied that the right, intuitive/emotional side of the brain doesn\u2019t care and wants to pursue this woman in spite of the danger of imminent heartbreak."
+        },
+        {
+            "id": "68867c43-c90b-44a7-928d-7d19e4d0b59b",
+            "lyric": "She's just looking for something new, yeah",
+            "timestamp": 40.1,
+            "annotation": null
+        },
+        {
+            "id": "452e2813-77eb-4534-a628-c01135dda96a",
+            "lyric": "Said it once before but it bears repeating now",
+            "timestamp": 42.0,
+            "annotation": "The frustration is neverending, especially because the narrator knows his Girl doesn\u2019t love him\u2026 but his impulse to be physical with her always wins out."
+        },
+        {
+            "id": "8e7b1f63-6b4b-403f-99d4-6466ef393ac5",
+            "lyric": "",
+            "timestamp": 45.6,
+            "annotation": null
+        },
+        {
+            "id": "7270747e-a0d9-4d05-9727-c983514865ce",
+            "lyric": "Can't think of anything to do, yeah",
+            "timestamp": 55.1,
+            "annotation": null
+        },
+        {
+            "id": "7a0fe142-0831-4176-a5af-8dbe898422eb",
+            "lyric": "My left brain knows that all my love is fleeting",
+            "timestamp": 57.1,
+            "annotation": null
+        },
+        {
+            "id": "a3365ca3-3927-4fe2-ac89-469ab142a5f9",
+            "lyric": "She's just looking for something new, well",
+            "timestamp": 60.0,
+            "annotation": null
+        },
+        {
+            "id": "d7b969a3-bb93-48bd-a829-7287286fd10d",
+            "lyric": "Said it once before but it bears repeating now",
+            "timestamp": 62.0,
+            "annotation": null
+        },
+        {
+            "id": "daa074b2-bd32-4233-86ba-f23fa13fd494",
+            "lyric": "Fell in love with a girl",
+            "timestamp": 65.0,
+            "annotation": null
+        }
+    ]
+}

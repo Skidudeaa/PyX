@@ -17,6 +17,7 @@ import warnings
 from typing import Optional
 import json
 from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 from uuid import uuid4
 
 # Initialization
@@ -25,7 +26,7 @@ MUSIXMATCH_USER_TOKEN = "190523f77464fba06fa5f82a9bfab0aa9dc201244ecf5124a06d95"
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 # Semantic Truncate Function
-def semantic_truncate(text, max_length=700):
+def semantic_truncate(text, max_length=800):
     model = Summarizer()
     summary = model(text)
     sentences = sent_tokenize(summary)
@@ -87,7 +88,7 @@ def get_song_details(song_id, api_key):
     return song_details
 
 # Get Referents and Annotations Function
-def get_referents_and_annotations(song_id, api_key, limit=6):
+def get_referents_and_annotations(song_id, api_key, limit=8):
     url = f"https://api.genius.com/referents?song_id={song_id}"
     headers = {"Authorization": f"Bearer {api_key}"}
     response = requests.get(url, headers=headers)
@@ -127,7 +128,6 @@ def get_song_details_and_annotations(song_name, api_key):
         })
     song_data['annotations'] = annotations
     return song_data
-
 
 
 # Musixmatch Interactions
@@ -171,26 +171,6 @@ class Musixmatch(LRCProvider):
             return
         return self.get_lrc_by_id(tracks[0]["track"]["track_id"])
 
-    def get_lrc(self, search_term: str) -> Optional[str]:
-        url = self.SEARCH_ENDPOINT.format(q=search_term, token=self.user_token)
-        r = self.session.get(url)
-        if not r.ok:
-            return
-        body = r.json().get("message", {}).get("body", {})
-
-        # Debugging lines to print the type and content of body
-        print("Body type:", type(body))
-        #print("Body content:", body)
-
-        if isinstance(body, list):
-            print("Received list instead of expected dict. Aborting.")
-            #print("Full response:", r.json())  # Print the full response
-            return None
-
-        tracks = body.get("track_list", [])
-        if not tracks:
-            return
-        return self.get_lrc_by_id(tracks[0]["track"]["track_id"])
 
 
 def fetch_lyrics_with_timestamps(user_token, search_term):
@@ -352,7 +332,7 @@ def combine_lyrics_and_annotations(lyrics_data, annotations_data):
 
 def main():
     # Prompt user for song and artist details
-    song_and_artist = input("Enter the song followed by the artist name (e.g. 'Shape of You by Ed Sheeran' or 'Shape of You, Ed Sheeran'): ")
+    song_and_artist = input("Enter the song followed by the artist name (e.g. 'Wishing Well by Juice WRLD' or 'Wishing Well, Juice WRLD'): ")
     
     # Prompt user for video URL
     video_url = input("Please enter the video URL: ")

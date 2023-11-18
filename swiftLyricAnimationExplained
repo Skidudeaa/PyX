@@ -1,0 +1,10 @@
+
+This document outlines the design and functionality of a dynamic lyrics display created using SwiftUI. The display is designed to auto-update and auto-scroll in sync with a song's progression, providing a seamless and immersive user experience.
+
+The display consists of a scroll view that presents the lyrics. At any given time, it shows about 6-8 lines – the past, current, and upcoming lyrics, providing a lyrical context. The scroll view auto-scrolls smoothly, keeping pace with the song, making it a set-it-and-forget-it style display.
+
+The current lyric, displayed in a bold font, is the centerpiece of the display, easily identifiable even at a quick glance. Surrounding lyrics are subtly blurred and faded, creating a depth effect that emphasizes the current line. This visual hierarchy draws the user's attention to the current lyric.
+
+The display is not just a static text list but a canvas for a rich, immersive musical experience. The smooth animations and transitions add to the aesthetic appeal, making the lyrics display pleasing to the eye.
+
+In conclusion, this dynamic lyrics display exemplifies the power of SwiftUI in creating complex, dynamic interfaces. It embodies modern UI design principles – simplicity, clarity, and a strong focus on user experience.

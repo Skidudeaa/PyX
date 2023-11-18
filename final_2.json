@@ -1,0 +1,15 @@
+{
+    "title": "",
+    "artist": "",
+    "album": "",
+    "release_date": "",
+    "description": "",
+    "bgColor": "fdfeff",
+    "textColors": {
+        "textColor1": "141414",
+        "textColor2": "3a2c21",
+        "textColor3": "424343",
+        "textColor4": "61564e"
+    },
+    "lyrics_and_annotations": []
+}

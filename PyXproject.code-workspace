@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "replitCode"
 		}
 	],
 	"settings": {
@@ -11,6 +14,19 @@
 		],
 		"python.autoComplete.extraPaths": [
 			"/Users/thomasamosson/.vscode/extensions/continue.continue-0.0.412-darwin-arm64"
-		]
+		],
+		"aws.telemetry": false,
+		"codeium.enableSearch": true,
+		"workbench.colorTheme": "Ayu Mirage Bordered",
+		"workbench.preferredDarkColorTheme": "Ayu Mirage Bordered",
+		"workbench.tree.indent": 4,
+		"window.density.editorTabHeight": "compact",
+		"git.autoRepositoryDetection": false,
+		"gitHistory.showEditorTitleMenuBarIcons": false,
+		"gitHistory.showFileHistorySplit": false,
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.black-formatter"
+		},
+		"python.formatting.provider": "none"
 	}
 }

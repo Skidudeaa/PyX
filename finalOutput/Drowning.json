@@ -1,0 +1,430 @@
+{
+    "title": "Drowning",
+    "artist": "A Boogie wit da Hoodie",
+    "album": "The Bigger Artist",
+    "release_date": "2017-03-10",
+    "description": "On \u201cDrowning,\u201d A Boogie and Kodak rap about flexing jewelry and riches as they made it from the bottom and are now two of the hottest rappers in the game.",
+    "bgColor": "f5f5f7",
+    "textColors": {
+        "textColor1": "000413",
+        "textColor2": "311812",
+        "textColor3": "313441",
+        "textColor4": "58443f"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "502c8160-12fa-4374-81a7-ee097b612431",
+            "lyric": "Ness on the beat",
+            "timestamp": 3.0,
+            "annotation": null
+        },
+        {
+            "id": "b25a2a04-8aaa-4861-824c-f1e5be4fbd57",
+            "lyric": "What the fuck I'm supposed to say?",
+            "timestamp": 3.4,
+            "annotation": "That line right there came from people talking about, \u201cHow much this cost. Because I don\u2019t really be saying it in public."
+        },
+        {
+            "id": "a7bf5da1-57d1-4d6d-8252-4d81077aa1fa",
+            "lyric": "What the fuck I'm supposed to say, ayy",
+            "timestamp": 5.1,
+            "annotation": null
+        },
+        {
+            "id": "da20cded-947a-4838-8e55-9c66eba7d3c2",
+            "lyric": "What the fuck I'm supposed to say?",
+            "timestamp": 13.7,
+            "annotation": null
+        },
+        {
+            "id": "1e2df6a8-34b7-4d3c-9933-68d8038d2526",
+            "lyric": "Police pull me over, they ain't got nothing to say",
+            "timestamp": 16.1,
+            "annotation": "A prescient observation, given what would soon happen to Kodak!"
+        },
+        {
+            "id": "01c444bf-bda0-4fa6-81cc-09e59cd9f3ab",
+            "lyric": "I told 'em, \"I got tints because I'm rich\", they said, \"Okay\", ayy",
+            "timestamp": 18.7,
+            "annotation": null
+        },
+        {
+            "id": "f7c0b4cb-2397-46c2-827e-ca7833bb81f2",
+            "lyric": "Gotta pray a lot niggas get shot up everyday, ayy",
+            "timestamp": 21.6,
+            "annotation": null
+        },
+        {
+            "id": "79888e90-12f7-4d55-a8f4-98198ad9352e",
+            "lyric": "Hold up",
+            "timestamp": 24.6,
+            "annotation": null
+        },
+        {
+            "id": "0e2e9c18-bfcb-49d0-b77d-1842c3e7e244",
+            "lyric": "What the fuck I'm supposed to say?",
+            "timestamp": 25.8,
+            "annotation": null
+        },
+        {
+            "id": "1e3aa50d-bbcf-4a98-941b-c37a33f8774d",
+            "lyric": "Police pull me over, they ain't got nothing to say",
+            "timestamp": 27.9,
+            "annotation": "That\u2019s the goal, winning a Grammy right there. I can\u2019t have one billion, I gotta have two billion and keep on stacking."
+        },
+        {
+            "id": "e4e717e8-f33c-4de6-a019-b452a93d0295",
+            "lyric": "I told 'em, \"I got tints because I'm rich\", they said, \"Okay\", ayy",
+            "timestamp": 30.0,
+            "annotation": null
+        },
+        {
+            "id": "2c0ae706-43c7-497c-80d1-fc2160ed814d",
+            "lyric": "Gotta pray a lot niggas get shot up everyday, ayy",
+            "timestamp": 33.5,
+            "annotation": null
+        },
+        {
+            "id": "923420a8-7f4b-47c3-a48a-d17ba780476c",
+            "lyric": "Heard you got a big body, but a little face, ayy",
+            "timestamp": 36.4,
+            "annotation": "I know I\u2019m doing too much when I can\u2019t really walk fast with my chains on. When they hurting and twisting up on my neck."
+        },
+        {
+            "id": "0ec4f137-7a2a-438f-b254-5d84fac52ac7",
+            "lyric": "Got a 41 bezel, it's 100k, ayy",
+            "timestamp": 39.2,
+            "annotation": null
+        },
+        {
+            "id": "742ba327-e5b4-432d-b03d-dcedd0bad0f5",
+            "lyric": "If I feel a way then I'm gone say it to your face, ayy",
+            "timestamp": 42.4,
+            "annotation": "It doesn\u2019t look like it\u2019s as heavy as it is, but it\u2019s 400 grams right here. Matter of fact, it ain\u2019t really gonna get heavier when you put more diamonds in it."
+        },
+        {
+            "id": "6a7134f5-ddee-4839-844b-d3d27f18dfcd",
+            "lyric": "If I play the block today, I'll make 100k, ayy",
+            "timestamp": 45.5,
+            "annotation": null
+        },
+        {
+            "id": "e84848ee-7af2-41a5-a0b9-815f698a2842",
+            "lyric": "Yeah, I just might make 100k, yeah",
+            "timestamp": 48.5,
+            "annotation": null
+        },
+        {
+            "id": "e4fcb713-ee84-43ae-bbc2-6cfabb79158a",
+            "lyric": "If they put a price on me, I'll double what they pay, yeah",
+            "timestamp": 51.3,
+            "annotation": "They start it off in Jamaica came to America and he was back and forth."
+        },
+        {
+            "id": "4d1b4f05-7c7e-4a1f-8b43-a2e47f6621c9",
+            "lyric": "They say they don't like me, give a fuck about what they say, yeah",
+            "timestamp": 54.2,
+            "annotation": null
+        },
+        {
+            "id": "39249790-4190-4b44-ad61-4c356f8aa194",
+            "lyric": "I could take your bitch and make you think about what you say, yeah",
+            "timestamp": 57.2,
+            "annotation": null
+        },
+        {
+            "id": "a828ab02-4dac-4b60-8e69-ca3d4054f749",
+            "lyric": "I'm gone put her in a leg lock like MMA, yeah",
+            "timestamp": 60.1,
+            "annotation": null
+        },
+        {
+            "id": "a439de93-e2da-4006-a836-71d860b06587",
+            "lyric": "I'm gon' let her give me head twice if she don't say shit",
+            "timestamp": 63.1,
+            "annotation": "That line came to me, of course, watching the movie and just being interactive with their music and all that. Even though it\u2019s not as real as it was with the police and all that, it\u2019s still real."
+        },
+        {
+            "id": "6b317401-8712-4d9e-8110-c34a66230d32",
+            "lyric": "If she ever turn sherm on me then she basic",
+            "timestamp": 66.2,
+            "annotation": null
+        },
+        {
+            "id": "dd3e97d1-9923-4816-9071-95e59e697550",
+            "lyric": "Couple bitches had to swerve on 'em, I updated",
+            "timestamp": 69.0,
+            "annotation": null
+        },
+        {
+            "id": "e49c1870-0dc3-4ba7-a784-f737fea22f22",
+            "lyric": "You pulled up with her, she ain't leave with who she came with",
+            "timestamp": 72.4,
+            "annotation": null
+        },
+        {
+            "id": "dd131a1d-57e9-4a82-96aa-dd5b23207776",
+            "lyric": "She deserve better, you's a bird, you's a wasteman",
+            "timestamp": 75.3,
+            "annotation": null
+        },
+        {
+            "id": "ce870716-4e09-4ea0-b1c3-4461d34e2baa",
+            "lyric": "Fuck a umbrella, change weather in my spaceship",
+            "timestamp": 78.2,
+            "annotation": null
+        },
+        {
+            "id": "9f93d17a-3ee3-4c26-b16a-650112fa862e",
+            "lyric": "Diamonds dancing, I'm two-stepping with my bracelet",
+            "timestamp": 81.0,
+            "annotation": null
+        },
+        {
+            "id": "bc08c3a5-afc5-4894-a2d1-d0b038dd4328",
+            "lyric": "So, get the fuck up out my face",
+            "timestamp": 84.2,
+            "annotation": null
+        },
+        {
+            "id": "b9d04b63-75fc-493b-83d6-465d5bbf79be",
+            "lyric": "I'm just on my way to get this money and I'm late, okay",
+            "timestamp": 87.1,
+            "annotation": null
+        },
+        {
+            "id": "94e3fc7e-12b4-465c-b675-460e32e38c90",
+            "lyric": "In the strip club throwing twenties like \"I'll be okay\"",
+            "timestamp": 90.0,
+            "annotation": null
+        },
+        {
+            "id": "3c7d71f9-b86a-4fd0-a73c-8878ad11babc",
+            "lyric": "100k a day, trap booming like an 808",
+            "timestamp": 92.9,
+            "annotation": null
+        },
+        {
+            "id": "e1805e56-505f-4c7c-8f00-474c3eb3fbf0",
+            "lyric": "What the fuck I'm supposed to say?",
+            "timestamp": 95.8,
+            "annotation": null
+        },
+        {
+            "id": "44a1a4c8-9347-4443-a864-3a9623c7ade8",
+            "lyric": "Police pull me over, they ain't got nothing to say",
+            "timestamp": 99.0,
+            "annotation": null
+        },
+        {
+            "id": "5ee905be-951b-4767-b209-837a2d91a5b1",
+            "lyric": "I told 'em, \"I got tints because I'm rich\", they said, \"Okay\", ayy",
+            "timestamp": 101.8,
+            "annotation": null
+        },
+        {
+            "id": "33e17e89-3175-4008-92d5-42385409d4d5",
+            "lyric": "Gotta pray a lot niggas get shot up everyday, ayy",
+            "timestamp": 105.1,
+            "annotation": null
+        },
+        {
+            "id": "d88503db-3819-4000-8d8c-3de03b0e7c65",
+            "lyric": "Heard you got a big body, but a little face, ayy",
+            "timestamp": 108.0,
+            "annotation": null
+        },
+        {
+            "id": "a12d0166-f236-4829-bccf-bb0afd21d0a5",
+            "lyric": "Got a 41 bezel, it's 100k, ayy",
+            "timestamp": 111.0,
+            "annotation": null
+        },
+        {
+            "id": "d4d6c500-da27-46bc-b302-69ab1cca5339",
+            "lyric": "If I feel a way then I'm gone say it to your face, ayy",
+            "timestamp": 113.8,
+            "annotation": null
+        },
+        {
+            "id": "31ba651a-be09-4b0f-ba3d-6f14cae4a5c3",
+            "lyric": "If I play the block today, I'll make 100k, ayy",
+            "timestamp": 116.7,
+            "annotation": null
+        },
+        {
+            "id": "c76b5fea-9501-46b2-8f96-b0bf0d9e7907",
+            "lyric": "Hold up, talking shit don't ever get to me",
+            "timestamp": 119.7,
+            "annotation": null
+        },
+        {
+            "id": "4c3bb8ac-efb5-49e2-86d7-5c9fef3c242d",
+            "lyric": "When they see me now, they'd better have that same energy",
+            "timestamp": 122.8,
+            "annotation": null
+        },
+        {
+            "id": "4744c768-9017-4bb7-b42f-475ac352b1dd",
+            "lyric": "In abandoned houses, in and out, it wasn't shit to me",
+            "timestamp": 125.8,
+            "annotation": null
+        },
+        {
+            "id": "8f712b55-9462-4ae7-91c5-4b5110e0c41d",
+            "lyric": "When you see me now, don't try to act like you remember me",
+            "timestamp": 128.8,
+            "annotation": null
+        },
+        {
+            "id": "98706887-058f-496c-a7c6-72951a7de61d",
+            "lyric": "Then look at me now, bitch I'm drowning",
+            "timestamp": 131.8,
+            "annotation": "Let\u2019s say I got a gold padded on and it\u2019s no ice on it. Throw the ice on, that\u2019s what \u201cbust down\u201d means."
+        },
+        {
+            "id": "3364936d-99d5-41a7-a6b5-aa2289729129",
+            "lyric": "And my hoodie Saint Laurent, it's a thousand",
+            "timestamp": 134.0,
+            "annotation": null
+        },
+        {
+            "id": "e39cdd8b-5a04-43f3-b394-f851d347ca70",
+            "lyric": "And we come straight out the Bronx, so we wildin'",
+            "timestamp": 137.0,
+            "annotation": null
+        },
+        {
+            "id": "cfc9ac36-447b-464f-871a-0fb7f48a8b84",
+            "lyric": "Shoutout BK, Free Bobby, and Free Rowdy",
+            "timestamp": 139.9,
+            "annotation": null
+        },
+        {
+            "id": "aadcf76c-7d4a-4ba5-8535-ff48ff5ba97a",
+            "lyric": "Free my nigga V12",
+            "timestamp": 143.1,
+            "annotation": null
+        },
+        {
+            "id": "6ba78080-b75b-4497-8231-d2529038286e",
+            "lyric": "Holla if you see 12",
+            "timestamp": 144.7,
+            "annotation": null
+        },
+        {
+            "id": "5d4ddd2a-a0e3-4c4c-ac2d-c83721db4dde",
+            "lyric": "Febreeze, believe me, it'll cover the weed smell",
+            "timestamp": 146.0,
+            "annotation": null
+        },
+        {
+            "id": "0ad91019-cd2f-4ddf-b9f1-ecc0eaf78792",
+            "lyric": "I probably got 3 mill, sitting in my email",
+            "timestamp": 149.0,
+            "annotation": null
+        },
+        {
+            "id": "d7905b15-09ec-475a-9245-91f3438d6320",
+            "lyric": "So much on me, they second guessing what we sell",
+            "timestamp": 151.9,
+            "annotation": null
+        },
+        {
+            "id": "8cb861de-63ca-443f-9015-ef7daf6ec357",
+            "lyric": "So much money on me, fuck it if it's dirty money",
+            "timestamp": 154.9,
+            "annotation": null
+        },
+        {
+            "id": "13507c63-1638-452a-b3e9-0517cce1e5ad",
+            "lyric": "Because I earned it, you get murked if you come searchin' for me",
+            "timestamp": 158.6,
+            "annotation": null
+        },
+        {
+            "id": "e7e2b4a0-8b15-4d56-b08b-2ef716102912",
+            "lyric": "When the police pulled me over, I had 30 on me",
+            "timestamp": 161.3,
+            "annotation": null
+        },
+        {
+            "id": "e4cf4502-d0fa-4779-8718-4e2619f97f00",
+            "lyric": "What the fuck I look like with less than 30 on me, nigga",
+            "timestamp": 164.4,
+            "annotation": null
+        },
+        {
+            "id": "9ac19406-dd19-403b-b54f-900a11aede07",
+            "lyric": "What the fuck I'm supposed to say?",
+            "timestamp": 167.3,
+            "annotation": null
+        },
+        {
+            "id": "74eea4fe-a882-4a13-86cb-83913a4f5f96",
+            "lyric": "Police pull me over, they ain't got nothing to say",
+            "timestamp": 170.6,
+            "annotation": null
+        },
+        {
+            "id": "06c45354-1cd1-4a4f-8d20-937041ae7e25",
+            "lyric": "I told 'em, \"I got tints because I'm rich\", they said, \"Okay\", ayy",
+            "timestamp": 173.4,
+            "annotation": null
+        },
+        {
+            "id": "267e9c50-fc0d-4402-a9c6-307242d69624",
+            "lyric": "Gotta pray a lot niggas get shot up everyday, ayy",
+            "timestamp": 176.4,
+            "annotation": null
+        },
+        {
+            "id": "74488eda-ac3d-494b-9c12-2486d570aa3e",
+            "lyric": "Heard you got a big body, but a little face, ayy",
+            "timestamp": 179.6,
+            "annotation": null
+        },
+        {
+            "id": "8d44ff64-dba2-4663-8132-f59f93143f10",
+            "lyric": "Got a 41 bezel, it's 100k, ayy",
+            "timestamp": 182.6,
+            "annotation": null
+        },
+        {
+            "id": "e5eb5183-2d42-4d09-8987-59f692962ded",
+            "lyric": "If I play the block today, I'll make 100k, ayy",
+            "timestamp": 185.6,
+            "annotation": null
+        },
+        {
+            "id": "715a2ec2-e404-49c8-970e-46f099b39c2f",
+            "lyric": "If I play the block today, I'll make 100k, yeah",
+            "timestamp": 188.7,
+            "annotation": null
+        },
+        {
+            "id": "fd6bcb5b-b40b-4983-9f85-ecf8bf9c6566",
+            "lyric": "I make her say a'",
+            "timestamp": 193.9,
+            "annotation": null
+        },
+        {
+            "id": "0d4a42d5-e022-4a0d-9bf0-fc77659bdf34",
+            "lyric": "I make her say a'",
+            "timestamp": 196.4,
+            "annotation": null
+        },
+        {
+            "id": "8295b533-17d2-44c5-8e14-a6fff83416ca",
+            "lyric": "I make her say a'",
+            "timestamp": 199.3,
+            "annotation": null
+        },
+        {
+            "id": "2dd352b9-ad16-4197-8d51-67d557ad0cf6",
+            "lyric": "",
+            "timestamp": 208.9,
+            "annotation": null
+        }
+    ]
+}

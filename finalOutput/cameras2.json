@@ -1,0 +1,442 @@
+{
+    "title": "Cameras",
+    "artist": "Wiz Khalifa",
+    "album": "Rolling Papers",
+    "release_date": "2011-03-29",
+    "description": "Wiz Khalifa- Cameras Album: Rolling Papers (2011) Wiz raps on how his fame and fortune changing his old life.",
+    "bgColor": "040203",
+    "textColors": {
+        "textColor1": "e1e745",
+        "textColor2": "c1d35d",
+        "textColor3": "b5b938",
+        "textColor4": "9ba94b"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "24ed4002-4404-490d-aa33-c04142c2e498",
+            "lyric": "Uh, it's hardly a secret",
+            "timestamp": 40.9,
+            "annotation": null
+        },
+        {
+            "id": "1280c000-3902-4e60-8db0-fe7340383ead",
+            "lyric": "You ain't gonna stop trying to get where you going until you reach it",
+            "timestamp": 42.9,
+            "annotation": "Watch Wiz\u2019s play on the word shot hereHe and his friends no longer have to \u201cduck shots\u201d (stray bullets), they just pour up shots of alcohol and chase them down with something else."
+        },
+        {
+            "id": "b407f13a-0dc5-42d5-8723-7062abe56ef8",
+            "lyric": "Always had them bars back in the day",
+            "timestamp": 45.8,
+            "annotation": null
+        },
+        {
+            "id": "cdf24286-64e7-4b5c-8a54-4fd3c700c0e0",
+            "lyric": "When the same ones running up on you wasn't speaking",
+            "timestamp": 48.2,
+            "annotation": "Record Labels nowadays try and take over the artist. Wiz was hungry for the top spot but at the same time played the game smart."
+        },
+        {
+            "id": "c6e1f80e-99b2-4927-893e-e119eaaaffad",
+            "lyric": "Look at all your achievements",
+            "timestamp": 50.9,
+            "annotation": null
+        },
+        {
+            "id": "c16ff3d7-aa6a-4a8c-8aef-08c4082a3e60",
+            "lyric": "You work hard so it'd be kinda hard not to believe that",
+            "timestamp": 52.7,
+            "annotation": null
+        },
+        {
+            "id": "cd754c31-5b91-432f-ac95-87d30625a70f",
+            "lyric": "You party every weekend",
+            "timestamp": 56.0,
+            "annotation": null
+        },
+        {
+            "id": "6bee9495-56bc-4b5a-b727-cd81d8035ec0",
+            "lyric": "Fuck 'em all who act like they ain't see it then",
+            "timestamp": 57.8,
+            "annotation": null
+        },
+        {
+            "id": "d46989b8-a9db-4154-bd1f-273c382a9d44",
+            "lyric": "All them nights on the plane",
+            "timestamp": 62.0,
+            "annotation": null
+        },
+        {
+            "id": "3043af25-e3b2-4a07-a090-0a844eb94b92",
+            "lyric": "Losses a nigga took, had to charge it to the game",
+            "timestamp": 63.6,
+            "annotation": null
+        },
+        {
+            "id": "125bd7a3-d6e6-4c18-a997-0dbe11a8b949",
+            "lyric": "Always wanted stardom and the fame",
+            "timestamp": 65.8,
+            "annotation": null
+        },
+        {
+            "id": "29c93d43-bfa7-425f-b062-1d80924fd817",
+            "lyric": "Learned to outsmart 'em and now it",
+            "timestamp": 69.5,
+            "annotation": null
+        },
+        {
+            "id": "c04f41a7-a1e5-43e0-ac47-6dca24a4b00c",
+            "lyric": "Ain't no stopping the champagne from popping",
+            "timestamp": 71.2,
+            "annotation": "Bitten verbatim from Jay-Z\u2019s \u201cPolitics As Usual\u201d off of his Reasonable Doubt album. Ain\u2019t no stoppin' the champagne from poppin'The drawers from droppin', the law from watchin' \u2013 I hate \u2018emPolitics as usual"
+        },
+        {
+            "id": "57f29b79-3ac1-44ec-8c1f-38202755a4fa",
+            "lyric": "The drawers from dropping or seeing muscle cars and copping 'em",
+            "timestamp": 73.2,
+            "annotation": null
+        },
+        {
+            "id": "54739e70-36c9-457f-b17a-dabc4178dfc3",
+            "lyric": "Started off just a little less popular, yeah",
+            "timestamp": 76.0,
+            "annotation": null
+        },
+        {
+            "id": "37f710ee-a0a7-4ea7-aa21-1eb79cc70a1c",
+            "lyric": "Now you got a new place, you drive a new car",
+            "timestamp": 78.8,
+            "annotation": null
+        },
+        {
+            "id": "91a49a64-ddbe-47cd-87a5-ff53718101a9",
+            "lyric": "You smile for the cameras, live life like a super star",
+            "timestamp": 84.7,
+            "annotation": null
+        },
+        {
+            "id": "a6113247-45c6-4bbf-ad75-b4c74cea3b2f",
+            "lyric": "Don't care what they say, you reach for the stars",
+            "timestamp": 89.8,
+            "annotation": null
+        },
+        {
+            "id": "db3d136c-2ccb-4dfb-8da0-905946b10c10",
+            "lyric": "Got everything you always dreamed and thought about",
+            "timestamp": 94.9,
+            "annotation": null
+        },
+        {
+            "id": "947c19e3-2f93-4ce8-b726-f3a78eec2e7b",
+            "lyric": "And everyone knows who you are",
+            "timestamp": 99.6,
+            "annotation": null
+        },
+        {
+            "id": "47b00a5c-aada-4112-8a2a-64e0b0152904",
+            "lyric": "Never gets boring, them haters in your face, you just ignore 'em",
+            "timestamp": 102.0,
+            "annotation": null
+        },
+        {
+            "id": "baaa844b-4794-47e5-93cd-6f487a1409d4",
+            "lyric": "Don't know what they talking shit for",
+            "timestamp": 105.8,
+            "annotation": null
+        },
+        {
+            "id": "98c4481b-b77e-4f77-8470-39c0986e5d47",
+            "lyric": "Seen niggas get theirs, you just trying to get yours",
+            "timestamp": 108.1,
+            "annotation": null
+        },
+        {
+            "id": "7c9b1393-5b32-4bf5-b07a-355ca152dc4d",
+            "lyric": "Therefore, you left all the people you care for",
+            "timestamp": 110.9,
+            "annotation": null
+        },
+        {
+            "id": "7e006365-31ab-49a4-a0f9-7ea63ca0c507",
+            "lyric": "Hopped on a plane, got airborne",
+            "timestamp": 114.0,
+            "annotation": null
+        },
+        {
+            "id": "a1c195df-bd7f-438b-a8d0-90d70c5e5123",
+            "lyric": "Seen the bullshit coming and fell for it",
+            "timestamp": 116.9,
+            "annotation": null
+        },
+        {
+            "id": "2e662cea-02d5-4ba7-8f4c-fc2e2c745055",
+            "lyric": "But it's all good now 'cause the same ones that talked shit",
+            "timestamp": 119.1,
+            "annotation": null
+        },
+        {
+            "id": "67d6acba-d577-48ef-8244-16564f47bd1a",
+            "lyric": "Are telling everyone you made it",
+            "timestamp": 123.1,
+            "annotation": null
+        },
+        {
+            "id": "70dc8c8c-c68d-427f-8602-5309fd4a456e",
+            "lyric": "Then you start seeing hoes you dated",
+            "timestamp": 124.1,
+            "annotation": null
+        },
+        {
+            "id": "4c531597-546f-41f6-8ab2-9102a722a3aa",
+            "lyric": "And your thoughts start getting jaded",
+            "timestamp": 127.3,
+            "annotation": null
+        },
+        {
+            "id": "151eed95-394b-470f-be50-2c1dc2615d5b",
+            "lyric": "Now your life is sorta different, ain't it",
+            "timestamp": 129.8,
+            "annotation": null
+        },
+        {
+            "id": "40c91bf2-565b-4fec-91ee-f23f4382ce33",
+            "lyric": "Feel your scars, know what your pain is",
+            "timestamp": 132.8,
+            "annotation": null
+        },
+        {
+            "id": "2b6eb078-ba44-4acc-ae36-4ffe6cbed3f1",
+            "lyric": "But what's it all worth if it's painless",
+            "timestamp": 135.2,
+            "annotation": null
+        },
+        {
+            "id": "433143d0-feb7-4548-aab6-9773769283de",
+            "lyric": "Say you wanna be famous, yeah",
+            "timestamp": 137.3,
+            "annotation": null
+        },
+        {
+            "id": "d1bf66e2-0ec5-493f-94cc-4a2e35b1afa2",
+            "lyric": "Now you got a new place, you drive a new car",
+            "timestamp": 140.4,
+            "annotation": null
+        },
+        {
+            "id": "1b5c6fee-7884-44a5-9de8-78d1d739a65b",
+            "lyric": "You smile for the cameras, live life like a super star",
+            "timestamp": 144.9,
+            "annotation": null
+        },
+        {
+            "id": "b0e65dbe-7cf9-4e96-8945-a0b137786cdc",
+            "lyric": "Don't care what they say, you reach for the stars",
+            "timestamp": 150.6,
+            "annotation": null
+        },
+        {
+            "id": "8df9ee3d-1101-4ce1-a19d-db4cd43699c8",
+            "lyric": "Got everything you always dreamed and thought about",
+            "timestamp": 155.1,
+            "annotation": null
+        },
+        {
+            "id": "6b9ced8f-4f4c-4b0d-9113-1a1e3bbe4879",
+            "lyric": "And everyone knows who you are",
+            "timestamp": 159.8,
+            "annotation": null
+        },
+        {
+            "id": "095f4e58-43d2-4fd2-856e-3f908c6e74ac",
+            "lyric": "Oh, oh, oh, oh, oh, oh, oh",
+            "timestamp": 161.9,
+            "annotation": null
+        },
+        {
+            "id": "7e966968-5bf0-456f-953a-18229b296474",
+            "lyric": "Oh, oh, oh, oh, oh, oh, oh",
+            "timestamp": 162.8,
+            "annotation": null
+        },
+        {
+            "id": "0bb1178b-595b-488e-9b4d-36d8e96a58ed",
+            "lyric": "Who you are",
+            "timestamp": 170.4,
+            "annotation": null
+        },
+        {
+            "id": "de1a9c98-3b8b-4df8-8ff6-53c450a6c243",
+            "lyric": "Oh, oh, oh, oh, oh, oh, oh",
+            "timestamp": 173.8,
+            "annotation": null
+        },
+        {
+            "id": "d5d0a634-5c3b-448a-b6a3-844661497f2b",
+            "lyric": "Oh, oh, oh, oh, ooh",
+            "timestamp": 174.2,
+            "annotation": null
+        },
+        {
+            "id": "9cc54183-a2fc-4a81-bbee-af990e86a866",
+            "lyric": "Who you are, oh",
+            "timestamp": 181.4,
+            "annotation": null
+        },
+        {
+            "id": "3479f5eb-32c1-475c-b829-eb177f4377cc",
+            "lyric": "Always knew I was this good",
+            "timestamp": 183.2,
+            "annotation": null
+        },
+        {
+            "id": "1757c1bb-ec2d-450e-904c-fdd06051d5e2",
+            "lyric": "But never knew I'd be this good",
+            "timestamp": 185.7,
+            "annotation": null
+        },
+        {
+            "id": "d4c75ecf-fe54-4ce7-9972-fa61a07b53c8",
+            "lyric": "Them niggas just starting, I've been doing it",
+            "timestamp": 188.1,
+            "annotation": null
+        },
+        {
+            "id": "40eb6954-b78b-4d93-a612-6b485e666b9d",
+            "lyric": "Hear 'em talk but they ain't living my life",
+            "timestamp": 190.8,
+            "annotation": null
+        },
+        {
+            "id": "ed64b5de-552f-4101-9f46-681951a3f4e3",
+            "lyric": "In the dark, trying to get in my light",
+            "timestamp": 193.5,
+            "annotation": null
+        },
+        {
+            "id": "99b39965-d135-4c6d-a58d-3928feb2c2c0",
+            "lyric": "But chances, I don't give them guys twice",
+            "timestamp": 195.9,
+            "annotation": null
+        },
+        {
+            "id": "ecc3528f-5536-4970-84f5-6c99f584ce5f",
+            "lyric": "Spending grands for hoes, this is a highlight",
+            "timestamp": 197.9,
+            "annotation": null
+        },
+        {
+            "id": "7322e143-8340-4d94-97ce-e5f7ada55ef0",
+            "lyric": "And for them cameras posing, this the high life",
+            "timestamp": 200.3,
+            "annotation": null
+        },
+        {
+            "id": "5c4047de-4ac3-45ea-a86b-9b8e07facbc0",
+            "lyric": "Bottles raising for my niggas not here, I pour out a couple sips",
+            "timestamp": 202.8,
+            "annotation": null
+        },
+        {
+            "id": "1d44b51b-8bf5-4571-b7bd-5fd5eaa8a63a",
+            "lyric": "Pour 'em on the beach, I smoke for you on my trips",
+            "timestamp": 207.2,
+            "annotation": null
+        },
+        {
+            "id": "ca455bd7-b93f-4757-baee-b728e3bc2099",
+            "lyric": "Them days I was younger I knew this life was the shit but never like this",
+            "timestamp": 210.0,
+            "annotation": null
+        },
+        {
+            "id": "cc377860-d1d8-4895-b426-e09a4a76e0af",
+            "lyric": "It's so amazing, we don't gotta duck shots, we just pour and chase 'em",
+            "timestamp": 212.6,
+            "annotation": null
+        },
+        {
+            "id": "bd227fc1-a0b0-4b90-b43a-b480d7e37b68",
+            "lyric": "Ain't worried 'bout it 'cause they gonna hate, know where I'm going",
+            "timestamp": 216.9,
+            "annotation": null
+        },
+        {
+            "id": "fc417934-3685-4dfb-abfd-fe1547b0176a",
+            "lyric": "Look where I came from",
+            "timestamp": 221.1,
+            "annotation": null
+        },
+        {
+            "id": "196e595c-ae82-4791-80fa-941becb5a47d",
+            "lyric": "Now you got a new place, you drive a new car",
+            "timestamp": 222.0,
+            "annotation": null
+        },
+        {
+            "id": "121ae762-9e46-475c-81a4-cae987f9b48b",
+            "lyric": "You smile for the cameras, live life like a super star",
+            "timestamp": 225.8,
+            "annotation": null
+        },
+        {
+            "id": "859dc8c3-b43d-4ca8-9576-1d75a9c56e92",
+            "lyric": "Don't care what they say, you reach for the stars",
+            "timestamp": 231.3,
+            "annotation": null
+        },
+        {
+            "id": "9e3da835-d603-4f7d-88c5-2f7d30fd819a",
+            "lyric": "Got everything you always dreamed and thought about",
+            "timestamp": 236.0,
+            "annotation": null
+        },
+        {
+            "id": "e535053f-24e4-4f09-9ff9-094a3f203de4",
+            "lyric": "And everyone knows who you are",
+            "timestamp": 240.2,
+            "annotation": null
+        },
+        {
+            "id": "16c3e316-a74f-4e34-9c3d-893db1086dc8",
+            "lyric": "Oh, oh, oh, oh, oh, oh, oh",
+            "timestamp": 245.9,
+            "annotation": null
+        },
+        {
+            "id": "cdb9df52-c1c2-48a0-9011-5a4dc7203bd1",
+            "lyric": "Oh, oh, oh, oh, oh, oh, oh",
+            "timestamp": 246.4,
+            "annotation": null
+        },
+        {
+            "id": "18fc220f-e92e-4182-85ba-2ef419b30494",
+            "lyric": "Who you are",
+            "timestamp": 251.4,
+            "annotation": null
+        },
+        {
+            "id": "a85873b2-f864-4f98-93a5-f635e1d8bd7b",
+            "lyric": "Oh, oh, oh, oh, oh, oh, oh",
+            "timestamp": 255.5,
+            "annotation": null
+        },
+        {
+            "id": "b365e5f9-2733-4519-9297-4d9e0149f5ac",
+            "lyric": "Oh, oh, oh, oh, ooh",
+            "timestamp": 256.0,
+            "annotation": null
+        },
+        {
+            "id": "2c1d49e5-8283-446a-8da1-b5bf8f0c44b0",
+            "lyric": "Who you are, oh",
+            "timestamp": 261.8,
+            "annotation": null
+        },
+        {
+            "id": "5c8f1415-5027-4a24-8983-7f02560e8f3e",
+            "lyric": "",
+            "timestamp": 264.8,
+            "annotation": null
+        }
+    ]
+}

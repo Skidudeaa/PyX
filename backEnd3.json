@@ -1,140 +1,380 @@
 {
-    "title": "Sparks Will Fly",
-    "artist": "J. Cole",
-    "album": "Born Sinner (Deluxe Version)",
-    "release_date": "2013-06-18",
-    "description": "On \u201cSparks Will Fly,\u201d Cole describes how his newfound fame has put strain on his relationship. It marks the first collaboration between Cole and Jhen\u00e9 Aiko. \u201c",
+    "title": "Righteous",
+    "artist": "Juice WRLD",
+    "album": "Legends Never Die",
+    "release_date": "2020-04-24",
+    "description": "The first posthumous single put out by his estate, \u201cRighteous\u201d is an emotional ballad for Juice WRLD fans. One day prior the release, Juice\u2019s fianc\u00e9 posted on Twitter  explaining what the song meant to her .",
     "lyrics_and_annotations": [
         {
-            "id": "705e7895-ad54-4156-abde-da62691d6813",
-            "lyric": "Did I drive you away?",
+            "id": "0ff4cd4f-1cd3-4669-a793-eb0ba1d05df0",
+            "lyric": "Tell me, is you still up? (Up)",
+            "timestamp": 18.2,
+            "annotation": null
+        },
+        {
+            "id": "060d64f6-a081-4f19-a2fe-a0c65107a84b",
+            "lyric": "It's 5 a.m. and I'm drunk right now",
+            "timestamp": 20.0,
+            "annotation": null
+        },
+        {
+            "id": "bb21f738-aa81-47f4-811f-92af78e83a44",
+            "lyric": "Tell me, can we still fuck? (Fuck that shit)",
+            "timestamp": 22.0,
+            "annotation": null
+        },
+        {
+            "id": "556399e0-57b8-45b7-9024-4f10c0bdac9f",
+            "lyric": "One of one, I'm in the zone right now",
+            "timestamp": 24.0,
+            "annotation": null
+        },
+        {
+            "id": "8b1cffaa-661b-42a7-93a9-e5c0d45b923b",
+            "lyric": "Tell me, am I still? Mmm",
+            "timestamp": 26.0,
+            "annotation": null
+        },
+        {
+            "id": "18a8a17b-6361-4aa7-8d99-8e8bddfa710c",
+            "lyric": "Tellin' you just how I feel right now",
+            "timestamp": 28.3,
+            "annotation": null
+        },
+        {
+            "id": "70e92bda-c5ba-459d-b369-d3a77c14699b",
+            "lyric": "You said it's just the drugs and I know",
+            "timestamp": 30.2,
+            "annotation": null
+        },
+        {
+            "id": "c8022e24-8168-4f7d-a8de-4784fb82701f",
+            "lyric": "I know, I know, I know, I know, I know, I know",
             "timestamp": 32.8,
             "annotation": null
         },
         {
-            "id": "390bf1fd-0743-4158-8fe5-9f22c32999ac",
-            "lyric": "I know what you'll say",
-            "timestamp": 38.1,
+            "id": "f9512748-6681-4650-9200-baf1d1bdcd1e",
+            "lyric": "I lied too, way before (let's go), before",
+            "timestamp": 38.5,
             "annotation": null
         },
         {
-            "id": "f7894ee4-d4ef-4346-b653-6e0221a2742f",
-            "lyric": "You say, \"Oh, sing one we know\"",
-            "timestamp": 41.6,
+            "id": "d322ba7e-fb09-4d90-8156-ca18b59f0975",
+            "lyric": "Before I had you right inside my arms",
+            "timestamp": 42.2,
             "annotation": null
         },
         {
-            "id": "58ca0063-26af-4d29-b963-283dab5a8f96",
-            "lyric": "But I promise you this",
-            "timestamp": 53.7,
+            "id": "8a87f11a-a603-4019-8b2b-3a9168b839ea",
+            "lyric": "But then again, I could be drunk (it's lit, yeah)",
+            "timestamp": 47.5,
             "annotation": null
         },
         {
-            "id": "65821a46-745c-4542-b909-bcc8db5f8898",
-            "lyric": "I'll always look out for you",
-            "timestamp": 58.9,
+            "id": "6cd5f732-8e95-4fad-acee-5236a2359e4c",
+            "lyric": "Baby, I don't wanna sound righteous (yeah)",
+            "timestamp": 50.6,
             "annotation": null
         },
         {
-            "id": "b5cd7071-1d5c-437f-841c-68ef14feee71",
-            "lyric": "Yeah, that's what I'll do",
-            "timestamp": 66.9,
+            "id": "8048c70d-7abb-4e85-845f-6cce5b6e523d",
+            "lyric": "I got 20 bitches suckin' like bisons",
+            "timestamp": 52.6,
             "annotation": null
         },
         {
-            "id": "c9c30a10-f6c5-4e04-b2e5-e6fd3a3247ba",
-            "lyric": "I say, \"Ohh\"",
-            "timestamp": 73.1,
+            "id": "be75016d-9f35-4e21-bd81-0373833d5f0c",
+            "lyric": "I just eeny, meeny, miney, roll the dices, I pick her (pop It, pop It)",
+            "timestamp": 54.2,
             "annotation": null
         },
         {
-            "id": "22ec4767-af0e-44fb-9d71-c666ee0bc2fa",
-            "lyric": "I say, \"Ohh\"",
-            "timestamp": 83.3,
+            "id": "efe39560-5483-49d5-84df-ee0eb8b11833",
+            "lyric": "She ain't really even my type, been out here",
+            "timestamp": 58.3,
             "annotation": null
         },
         {
-            "id": "732b260a-b26c-4066-9209-e388307cb823",
-            "lyric": "My heart is yours",
-            "timestamp": 116.4,
+            "id": "145ff68a-8559-421c-974c-e730882f4af9",
+            "lyric": "She been losin' herself to the night shift",
+            "timestamp": 61.0,
             "annotation": null
         },
         {
-            "id": "051cfc60-6691-4c96-989f-eeeed2b63090",
-            "lyric": "It's you that I hold on to",
-            "timestamp": 121.8,
+            "id": "b8d60be7-2955-40d0-b3b5-6d48c098eb4d",
+            "lyric": "She been losin' herself, and I get it, oh, girl, yeah, I get it",
+            "timestamp": 63.2,
             "annotation": null
         },
         {
-            "id": "50e38bbd-cf32-42a5-9fd8-4cceb52f77d7",
-            "lyric": "Yeah, that's what I do",
-            "timestamp": 129.3,
+            "id": "b830309b-4edc-40ac-ab9f-6b24ec7c2598",
+            "lyric": "Yeah, yeah, you've been fightin' for your shot",
+            "timestamp": 67.6,
             "annotation": null
         },
         {
-            "id": "d1d6ea7d-0ffa-4a65-ac54-c8d159452b0c",
-            "lyric": "And I know, I was wrong",
-            "timestamp": 137.2,
+            "id": "3cc22953-3347-4256-8192-705d64a8854c",
+            "lyric": "And you've been searchin' for your spot",
+            "timestamp": 70.5,
             "annotation": null
         },
         {
-            "id": "47a85a05-9a4d-4557-8082-2f9f69775386",
-            "lyric": "But I won't let you down",
-            "timestamp": 142.5,
+            "id": "23e9d50b-368e-49bc-924e-6341d63698b5",
+            "lyric": "Girl, I feel it, yeah, girl, I feel it, yeah",
+            "timestamp": 72.4,
             "annotation": null
         },
         {
-            "id": "5d2e99e7-fdec-44f0-9a98-9ead214373cd",
-            "lyric": "Oh, yeah, yeah, yeah, I will, yes, I will",
-            "timestamp": 146.8,
+            "id": "16f050fc-07f8-4658-8170-515b7a3c51aa",
+            "lyric": "Oh, you think you got your groove",
+            "timestamp": 76.7,
             "annotation": null
         },
         {
-            "id": "8c48a812-e63e-4986-b854-e8a4213a250f",
-            "lyric": "I said, \"Ohh\"",
-            "timestamp": 156.5,
+            "id": "c3939b74-4dfa-4e77-9e5a-2f10ebdb191c",
+            "lyric": "But you want someone like you (let's go)",
+            "timestamp": 79.0,
             "annotation": null
         },
         {
-            "id": "ae5c8ce8-69c1-42d7-ac6e-a5f1e098a42c",
-            "lyric": "I cry, \"Ohh\"",
-            "timestamp": 166.7,
+            "id": "b12af3dd-6790-4ea4-ba10-dd889f166223",
+            "lyric": "Tell me, is you still up? (Up)",
+            "timestamp": 83.2,
             "annotation": null
         },
         {
-            "id": "a4df0d2c-aca1-4ea1-a9a2-50234f1c499a",
-            "lyric": "Yeah, I saw sparks",
-            "timestamp": 176.7,
+            "id": "f17cfe95-f054-4881-aa73-cc3099c28e20",
+            "lyric": "It's 5 a.m. and I'm drunk right now",
+            "timestamp": 85.1,
             "annotation": null
         },
         {
-            "id": "dff80dac-cb9e-4ddb-b2ae-93175c27658d",
-            "lyric": "Yeah, I saw sparks",
-            "timestamp": 181.7,
+            "id": "adc63af4-4165-4d13-a5f5-29dc649c4d4d",
+            "lyric": "Tell me, can we still fuck? (Fuck that shit)",
+            "timestamp": 87.1,
             "annotation": null
         },
         {
-            "id": "abd0650d-6886-4723-a0e3-93643fe6a8f1",
-            "lyric": "And I saw sparks",
-            "timestamp": 187.0,
+            "id": "dd857663-d7c7-4311-a4fc-200feca846a4",
+            "lyric": "One of one, I'm in the zone right now",
+            "timestamp": 89.2,
             "annotation": null
         },
         {
-            "id": "44021ba8-077f-474c-8e79-aafeee6520c8",
-            "lyric": "Yeah, I saw sparks",
-            "timestamp": 192.2,
+            "id": "b8735793-9155-4209-b25b-603de167d0e4",
+            "lyric": "Tell me, am I still? Mmm",
+            "timestamp": 91.2,
             "annotation": null
         },
         {
-            "id": "7375e2ab-aa83-4aeb-b76e-d9555df3c7ce",
-            "lyric": "Sing it out",
-            "timestamp": 198.3,
+            "id": "05ccd95b-c454-4642-9c4b-127dfcb727e7",
+            "lyric": "Tellin' you just how I feel right now",
+            "timestamp": 93.3,
             "annotation": null
         },
         {
-            "id": "600c1b1c-c9d1-49b8-99e5-c1340cdbf91a",
+            "id": "43372af0-506b-4b11-9e7e-1c8e045c539f",
+            "lyric": "You said it's just the drugs and I know",
+            "timestamp": 95.5,
+            "annotation": null
+        },
+        {
+            "id": "c318240c-5a0c-4cb4-9662-b285156c8936",
+            "lyric": "I know, I know, I know, I know, I know, I know (ooh, it's the kid, know it, damn it)",
+            "timestamp": 98.3,
+            "annotation": null
+        },
+        {
+            "id": "650b19a8-03b5-48b2-840c-e1dd1811cd5e",
+            "lyric": "I lied too, way before (how they feelin'), before (how they feelin', ooh)",
+            "timestamp": 103.9,
+            "annotation": null
+        },
+        {
+            "id": "54199f75-a944-4192-b73c-e8b0d4c5544a",
+            "lyric": "Before I had you right inside my arms (feelin' like some money tonight)",
+            "timestamp": 107.6,
+            "annotation": null
+        },
+        {
+            "id": "ee79d0bf-8c8f-47de-9d3e-c6fb1855dbd3",
+            "lyric": "But then again, I could be drunk (yeah)",
+            "timestamp": 112.8,
+            "annotation": null
+        },
+        {
+            "id": "cc16477c-e3fa-427f-b8d9-361282540c50",
+            "lyric": "I know, mami, I know (know), It's 2 a.m., don't stress (stress)",
+            "timestamp": 114.9,
+            "annotation": null
+        },
+        {
+            "id": "83d9ed72-59eb-46d8-8325-4dad6dfc536b",
+            "lyric": "At 3, that bullshit kick in, in thirty, you'll feel your best",
+            "timestamp": 119.5,
+            "annotation": null
+        },
+        {
+            "id": "be35f810-eacc-4d12-bd11-7a2a51899dce",
+            "lyric": "I turned my whole spot to crucial, it's crucial, the way I left (it's lit)",
+            "timestamp": 123.3,
+            "annotation": null
+        },
+        {
+            "id": "eda8bbfa-60b5-4bdc-a7b4-2ce0edee8771",
+            "lyric": "Upstairs is like a low, my new bitches be the best (let's go)",
+            "timestamp": 127.4,
+            "annotation": null
+        },
+        {
+            "id": "a69aea1f-959a-4d87-9953-e3e3ab6b231b",
+            "lyric": "I'm lookin' at her, and her startin' to turn into you (her)",
+            "timestamp": 131.4,
+            "annotation": null
+        },
+        {
+            "id": "88726559-3255-4fbb-a529-c31f7bd02668",
+            "lyric": "Now you startin' to fuck up my mind, is it you, is it her?",
+            "timestamp": 133.7,
+            "annotation": null
+        },
+        {
+            "id": "512f3818-8d36-4628-86eb-b7280700c1f4",
+            "lyric": "We brought booby trap to the 'burbs",
+            "timestamp": 136.2,
+            "annotation": null
+        },
+        {
+            "id": "057ebdd8-e0ec-4bdf-9772-6dec02233872",
+            "lyric": "F29 Is my address, in case you ain't heard",
+            "timestamp": 138.1,
+            "annotation": null
+        },
+        {
+            "id": "23be1457-1deb-4284-a5f2-ccadfbb040c8",
+            "lyric": "It's floodin' upstairs, it's a leak",
+            "timestamp": 140.5,
+            "annotation": null
+        },
+        {
+            "id": "5b8ab35f-19d6-48e5-8977-ff24bd5f6e52",
+            "lyric": "I don't make it squeak, make it squirt",
+            "timestamp": 142.1,
+            "annotation": null
+        },
+        {
+            "id": "3ca7a4b4-24d2-4b19-82fd-b63c358111da",
+            "lyric": "I make this shit beat, bon app\u00e9tit when I feast",
+            "timestamp": 143.8,
+            "annotation": null
+        },
+        {
+            "id": "abbbce8d-b187-4535-8117-9bc9ca10d05a",
+            "lyric": "Slippin' and slide through the streets, it takes a finesse",
+            "timestamp": 146.2,
+            "annotation": null
+        },
+        {
+            "id": "dd379409-5b27-4acf-bd6e-b168dc6bf993",
+            "lyric": "Especially in this Cabriolet Jeep, engine make it hard to creep",
+            "timestamp": 148.7,
+            "annotation": null
+        },
+        {
+            "id": "eb62dc53-4750-47e3-852f-6e4529a713e4",
+            "lyric": "Just leave the gate open, through the side door, I'ma creep (ooh, Ooh)",
+            "timestamp": 151.9,
+            "annotation": null
+        },
+        {
+            "id": "ddedd6e1-0cff-411e-92dc-ccb6e78cb39a",
+            "lyric": "Are you 'bout it? Too real, and are the kids downstairs asleep?",
+            "timestamp": 154.1,
+            "annotation": null
+        },
+        {
+            "id": "c46a9f2e-6b6e-4c11-8d04-73977f1bcb42",
+            "lyric": "And are you upstairs by yourself? A minute from there",
+            "timestamp": 156.9,
+            "annotation": null
+        },
+        {
+            "id": "b300a67b-d069-4bc2-8cbb-15d919f90ec7",
+            "lyric": "Is there some room for me? Baby, do tell, do tell",
+            "timestamp": 159.3,
+            "annotation": null
+        },
+        {
+            "id": "4e9293c4-ba1d-40e3-9dbb-94591323668f",
+            "lyric": "Tell me, is you still up? (Up)",
+            "timestamp": 164.3,
+            "annotation": null
+        },
+        {
+            "id": "d1d6af1b-0f84-44f5-a537-9c1d1fa775ca",
+            "lyric": "It's 5 a.m. and I'm drunk right now",
+            "timestamp": 166.3,
+            "annotation": null
+        },
+        {
+            "id": "f99ef6ae-272b-43a2-9c1b-d4b9cbe4f7bb",
+            "lyric": "Tell me, can we still fuck? (Fuck that shit)",
+            "timestamp": 168.4,
+            "annotation": null
+        },
+        {
+            "id": "97e90fd3-749f-439e-854a-d06457dc998a",
+            "lyric": "One of one, I'm in the zone right now",
+            "timestamp": 170.5,
+            "annotation": null
+        },
+        {
+            "id": "f554f744-647e-4aff-ba12-02d0efe49daf",
+            "lyric": "Tell me, am I still? Mmm",
+            "timestamp": 172.6,
+            "annotation": null
+        },
+        {
+            "id": "25f6abd2-1871-4a82-a664-59d02f7973a8",
+            "lyric": "Tellin' you just how I feel right now",
+            "timestamp": 174.7,
+            "annotation": null
+        },
+        {
+            "id": "3f438943-5c5b-4853-8af0-78761e06cec9",
+            "lyric": "You said it's just the drugs and I know",
+            "timestamp": 176.6,
+            "annotation": null
+        },
+        {
+            "id": "dd373057-b851-45a1-bdd0-a6bd245fb4ab",
+            "lyric": "I know, I know, I know, I know, I know, I know",
+            "timestamp": 179.4,
+            "annotation": null
+        },
+        {
+            "id": "13426380-e0ff-4a56-84db-07bd0d4fcdf4",
+            "lyric": "I lied too, way before (let's go), before",
+            "timestamp": 185.0,
+            "annotation": null
+        },
+        {
+            "id": "f17f97ab-673b-4284-b69c-594a387a6ab7",
+            "lyric": "Before I had you right inside my arms",
+            "timestamp": 188.4,
+            "annotation": null
+        },
+        {
+            "id": "8a65d916-d80c-49c3-9974-df023530fe3e",
+            "lyric": "But then again, I could be drunk",
+            "timestamp": 194.0,
+            "annotation": null
+        },
+        {
+            "id": "d638460f-19b0-47a4-8da5-2fa34b5447b4",
             "lyric": "",
-            "timestamp": 199.6,
+            "timestamp": 195.4,
             "annotation": null
         }
     ]

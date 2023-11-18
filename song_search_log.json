@@ -1,0 +1,64 @@
+{
+    "searched_songs": [
+        {
+            "title": "Yellow",
+            "artist": "Coldplay",
+            "album": "Parachutes",
+            "has_lyrics": false,
+            "color_data": {
+                "bgColor": "000000",
+                "textColors": {
+                    "textColor1": "e9a84c",
+                    "textColor2": "df8f39",
+                    "textColor3": "bb863d",
+                    "textColor4": "b3722e"
+                }
+            }
+        }
+    ],
+    "selected_match": {
+        "title": "Yellow",
+        "artist": "Coldplay",
+        "album": "Parachutes",
+        "has_lyrics": false,
+        "color_data": {
+            "bgColor": "000000",
+            "textColors": {
+                "textColor1": "e9a84c",
+                "textColor2": "df8f39",
+                "textColor3": "bb863d",
+                "textColor4": "b3722e"
+            }
+        }
+    },
+    "static_cover_match": {
+        "title": "Yellow",
+        "artist": "Coldplay",
+        "album": "Parachutes",
+        "has_lyrics": false,
+        "color_data": {
+            "bgColor": "000000",
+            "textColors": {
+                "textColor1": "e9a84c",
+                "textColor2": "df8f39",
+                "textColor3": "bb863d",
+                "textColor4": "b3722e"
+            }
+        }
+    },
+    "animated_cover_match": {
+        "title": "Yellow",
+        "artist": "Coldplay",
+        "album": "Parachutes",
+        "has_lyrics": false,
+        "color_data": {
+            "bgColor": "000000",
+            "textColors": {
+                "textColor1": "e9a84c",
+                "textColor2": "df8f39",
+                "textColor3": "bb863d",
+                "textColor4": "b3722e"
+            }
+        }
+    }
+}

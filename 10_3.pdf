@@ -1,0 +1,256 @@
+
+
+import SwiftUI
+import Foundation
+
+struct Song: Codable, Identifiable {
+    let id = UUID()
+    let title: String
+    let artist: String
+    let album: String
+    let release_date: String
+    let description: String
+    let bgColor: String
+    let textColors: TextColors
+    let lyrics_and_annotations: [Lyric]
+}
+
+struct TextColors: Codable {
+    let textColor1: String
+    let textColor2: String
+    let textColor3: String
+    let textColor4: String
+}
+
+struct Lyric: Codable, Identifiable {
+    let id: UUID
+    let lyric: String
+    let timestamp: Double
+    let annotation: String?
+}
+
+struct ContentView: View {
+    @State var song: Song = Song(title: "", artist: "", album: "", release_date: "", description: "", bgColor: "", textColors: TextColors(textColor1: "", textColor2: "", textColor3: "", textColor4: ""), lyrics_and_annotations: [])
+    @State var startTime: Date? = nil
+    @State var timer: Timer?
+    @State var currentLyricIndex: Int = 0
+    @State private var currentTime: Double = 0.0
+    @State private var songDuration: Double = 0.0
+    @State var displayedAnnotations: [String] = []
+    @State private var lyricsScaleFactor: CGFloat = 1.0 // For scaling the current lyric
+    @State private var fade_value = 0.0 // This variable controls the opacity of the annotations
+    
+    var body: some View {
+        ZStack {
+            Color.gray.opacity(0.4)
+                .edgesIgnoringSafeArea(.all)
+            
+            VStack(spacing: 20) {
+                Spacer().frame(height: UIScreen.main.bounds.height / 5)
+                
+                TitleView(song: song)
+                ProgressView(currentTime: $currentTime, songDuration: $songDuration)
+                
+                HStack {
+                    Spacer().frame(width: UIScreen.main.bounds.width * 0.2)
+                    
+                    LyricView(currentLyricIndex: $currentLyricIndex, lyrics: [], displayedAnnotations: $displayedAnnotations) // Provided an empty array since 'lyrics' does not exist in 'Song'
+                    
+                    VStack(alignment: .center) {
+                        ForEach(displayedAnnotations, id: \.self) { annotation in
+                            Text(annotation)
+                                .font(.system(size: 22))
+                                .shadow(color: .black, radius: 0.1, x: 0.2, y: 0.2)
+                                .opacity(fade_value)  // Adjust the opacity of the text based on fade_value
+                        }
+                    }
+                    .frame(maxWidth: .infinity, alignment: .center)
+                    .padding(.leading, UIScreen.main.bounds.width * 0.2)
+                    .onAppear {
+                        for i in 0..<10 { // This loop will run for 5 seconds (assuming a frame rate of 60fps)
+                            DispatchQueue.main.asyncAfter(deadline: .now() + Double(i)/60) {
+                                self.fade_value = Double(i) / 10 // Increase the fade value from 0 to 1 over 5 seconds
+                            }
+                        }
+                    }
+                    
+                    Spacer()
+                }
+                .onAppear {
+                    loadSongFromJSON()
+                    startTimer()
+                    startTime = Date()
+                }
+            }
+        }
+    }
+    
+    func loadSongFromJSON() {
+        if let url = Bundle.main.url(forResource: "Song", withExtension: "json") {
+            do {
+                let data = try Data(contentsOf: url)
+                let decoder = JSONDecoder()
+                if let jsonData = try? decoder.decode(Song.self, from: data) {
+                    self.song = jsonData
+                }
+            } catch {
+                print("Error: \(error)")
+            }
+        }
+    }
+    
+    func startTimer() {
+        timer = Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { _ in
+            let currentTimeStamp = Date().timeIntervalSince(self.startTime ?? Date())
+            if let index = self.song.lyrics_and_annotations.lastIndex(where: { \$0.timestamp <= currentTimeStamp }) {
+                self.currentLyricIndex = index
+            }
+            
+            self.currentTime = currentTimeStamp
+            self.songDuration = self.song.lyrics_and_annotations.last?.timestamp ?? 0
+        }
+        RunLoop.current.add(timer!, forMode: .common)
+    }
+}
+
+struct TitleView: View {
+    let song: Song
+    
+    var body: some View {
+        HStack {
+            Text(song.album)
+                .frame(width: 75, height: 75)
+                .background(Color.gray)
+            VStack(alignment: .leading) {
+                Text(song.title)
+                    .foregroundColor(.primary)
+                    .bold()
+                Text(song.artist)
+                    .foregroundColor(.secondary)
+            }
+            Spacer()
+        }
+        .padding(.horizontal)
+    }
+}
+
+struct ProgressView: View {
+    @Binding var currentTime: Double
+    @Binding var songDuration: Double
+    
+    var body: some View {
+        VStack {
+            GeometryReader { geometry in
+                ZStack(alignment: .leading) {
+                    Rectangle()
+                        .foregroundColor(Color.black.opacity(0.7))
+                        .frame(width: geometry.size.width,
+                               height: geometry.size.height)
+                    if songDuration > 0 {
+                        Rectangle()
+                            .foregroundColor(.blue)
+                            .frame(width: max(CGFloat(self.currentTime/self.songDuration) * geometry.size.width, 0),
+                                   height: geometry.size.height)
+                            .animation(.linear(duration: 1.0), value: currentTime)
+                    }
+                }
+                .cornerRadius(15)
+                .overlay(
+                    HStack {
+                        Text(" \(currentTime, specifier: "%.2f")")
+                            .font(.caption2)
+                            .foregroundColor(.white)
+                            .padding(.all, 5)
+                            .background(Color.blue.opacity(0.6))
+                            .clipShape(RoundedRectangle(cornerRadius: 5, style: .continuous))
+                        Spacer()
+                        Text("Song Duration: \(songDuration, specifier: "%.2f")")
+                            .font(.caption2)
+                            .foregroundColor(.white)
+                            .padding(.all, 5)
+                            .background(Color.red.opacity(0.7))
+                            .clipShape(RoundedRectangle(cornerRadius: 5, style: .continuous))
+                    }
+                        .padding(.horizontal, 30)
+                )
+            }
+            .frame(height: 30)
+            .padding(.vertical, 10)
+        }
+    }
+}
+
+struct LyricView: View {
+    @Binding var currentLyricIndex: Int
+    private let lyrics: [Lyric]
+    @Binding var displayedAnnotations: [String]
+    @State private var lyricsScaleFactor: CGFloat = 1.0
+    @State private var scrollTarget: Int? = nil
+    
+    var body: some View {
+        GeometryReader { geometry in
+            ScrollViewReader { scrollView in
+                ScrollView {
+                    VStack(alignment: .leading) {
+                        ForEach(lyrics.indices, id: \.self) { index in
+                            let isCurrentIndex = (index == currentLyricIndex)
+                            let distance = abs(currentLyricIndex - index)
+                            let blurRadius = CGFloat(distance) * 1
+                            let scaleFactor = CGFloat(1 - (Double(distance) * 0.1))
+                            let offset = CGFloat(distance) * 1
+                            
+                            let lyricText = createLyricText(isCurrentIndex: isCurrentIndex, lyrics: lyrics, index: index)
+                            let blurredLyricText = createBlurredLyricText(distance: distance, lyrics: lyrics, index: index, blurRadius: blurRadius, scaleFactor: scaleFactor, offset: offset)
+                            
+                            HStack {
+                                Spacer().frame(width: geometry.size.width * 0.1)
+                                lyricText.background(GeometryReader { _ in blurredLyricText })
+                            }
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .transition(.opacity)
+                            .id(index)
+                        }
+                    }
+                    .padding(.horizontal, geometry.size.width * 0.1)
+                    .background(Color( "543763"))
+                    .onChange(of: currentLyricIndex, perform: { newValue in
+                        if newValue > currentLyricIndex, let annotation = lyrics[newValue].annotation {
+                            withAnimation {
+                                displayedAnnotations.removeAll()
+                                displayedAnnotations.append(annotation)
+                                scrollTarget = newValue
+                            }
+                        }
+                    })
+                    .onChange(of: scrollTarget) { target in
+                        withAnimation {
+                            scrollView.scrollTo(target, anchor: .center)
+                        }
+                    }
+                }
+            }
+        }
+        .onAppear(perform: processAnnotation)
+    }
+    
+    private func processAnnotation() {
+        if currentLyricIndex < lyrics.count, let annotation = lyrics[currentLyricIndex].annotation {
+            let displayTime = lyrics[currentLyricIndex].timestamp
+            displayedAnnotations.append(annotation)
+            
+            DispatchQueue.main.asyncAfter(deadline: .now() + displayTime) {
+                displayedAnnotations.removeAll { \$0 == annotation }
+            }
+        }
+    }
+    
+    private func createLyricText(isCurrentIndex: Bool, lyrics: [Lyric], index: Int) -> some View {
+        Text(lyrics[index].lyric)
+            .font(.custom("Helvetica", size: isCurrentIndex ? 20 : 15))
+            .fontWeight(isCurrentIndex ? .bold : .none)
+            .foregroundColor(Color.black)
+            .scaleEffect(isCurrentIndex ? lyricsScaleFactor : 1)
+            .fixedSize(horizontal: false, vertical: true)
+            .padding(.vertical, 5)
+           ```
+

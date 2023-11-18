@@ -1,0 +1,148 @@
+{
+    "title": "Sparks Will Fly",
+    "artist": "J. Cole",
+    "album": "Born Sinner (Deluxe Version)",
+    "release_date": "2013-06-18",
+    "description": "On \u201cSparks Will Fly,\u201d Cole describes how his newfound fame has put strain on his relationship. It marks the first collaboration between Cole and Jhen\u00e9 Aiko. \u201c",
+    "bgColor": "000000",
+    "textColors": {
+        "textColor1": "e9a84c",
+        "textColor2": "df8f39",
+        "textColor3": "bb863d",
+        "textColor4": "b3722e"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "e71b29c0-d17a-4f1e-b801-760283f345d2",
+            "lyric": "Did I drive you away?",
+            "timestamp": 32.8,
+            "annotation": null
+        },
+        {
+            "id": "cbe0b178-a141-4a59-b519-b9d9bb7a4e6d",
+            "lyric": "I know what you'll say",
+            "timestamp": 38.1,
+            "annotation": "The Michelin Man is a character created by Michelin, a large, you guessed it, tire manufacture."
+        },
+        {
+            "id": "66b16ead-d8d0-4e3f-aac9-116d7e768778",
+            "lyric": "You say, \"Oh, sing one we know\"",
+            "timestamp": 41.6,
+            "annotation": null
+        },
+        {
+            "id": "83b7fa7e-1d26-4394-baee-27aff2ba483f",
+            "lyric": "But I promise you this",
+            "timestamp": 53.7,
+            "annotation": null
+        },
+        {
+            "id": "7a06020e-dda2-408c-a094-784a1ea48fb6",
+            "lyric": "I'll always look out for you",
+            "timestamp": 58.9,
+            "annotation": null
+        },
+        {
+            "id": "35112c67-2aa2-42b4-a77e-484737f7de04",
+            "lyric": "Yeah, that's what I'll do",
+            "timestamp": 66.9,
+            "annotation": null
+        },
+        {
+            "id": "00a0d16b-c1fa-415e-8be6-6c2925df6f75",
+            "lyric": "I say, \"Ohh\"",
+            "timestamp": 73.1,
+            "annotation": null
+        },
+        {
+            "id": "82b193c5-41f6-48ab-92be-46cd63c2249b",
+            "lyric": "I say, \"Ohh\"",
+            "timestamp": 83.3,
+            "annotation": null
+        },
+        {
+            "id": "948dd935-b450-4d01-84cb-bc28e032ceec",
+            "lyric": "My heart is yours",
+            "timestamp": 116.4,
+            "annotation": null
+        },
+        {
+            "id": "3fc3edec-d3b9-4466-bd2e-ee5f873667fa",
+            "lyric": "It's you that I hold on to",
+            "timestamp": 121.8,
+            "annotation": "In the sitcom Martin, character Gina\u2019s best friend, Pam, always tried to convince her to leave her boyfriend (later husband), Martin."
+        },
+        {
+            "id": "a16959c9-902d-4ef2-9009-58ba2da5fecf",
+            "lyric": "Yeah, that's what I do",
+            "timestamp": 129.3,
+            "annotation": null
+        },
+        {
+            "id": "0d0aaaad-fc9e-49e8-b370-234838eab309",
+            "lyric": "And I know, I was wrong",
+            "timestamp": 137.2,
+            "annotation": null
+        },
+        {
+            "id": "ca93d9a1-06ca-4c6b-93a4-3fb181100028",
+            "lyric": "But I won't let you down",
+            "timestamp": 142.5,
+            "annotation": null
+        },
+        {
+            "id": "22e32c51-7280-4750-8ccc-fa7580422889",
+            "lyric": "Oh, yeah, yeah, yeah, I will, yes, I will",
+            "timestamp": 146.8,
+            "annotation": null
+        },
+        {
+            "id": "57560368-19f3-4590-946e-cafa42cf2ced",
+            "lyric": "I said, \"Ohh\"",
+            "timestamp": 156.5,
+            "annotation": null
+        },
+        {
+            "id": "bc1c516a-68ba-4ef7-b6bf-938fd2a67d7d",
+            "lyric": "I cry, \"Ohh\"",
+            "timestamp": 166.7,
+            "annotation": null
+        },
+        {
+            "id": "7a9a90d2-2458-40e8-8003-c84b4dff240a",
+            "lyric": "Yeah, I saw sparks",
+            "timestamp": 176.7,
+            "annotation": null
+        },
+        {
+            "id": "f323312d-4fda-4572-ab51-97ac59abb528",
+            "lyric": "Yeah, I saw sparks",
+            "timestamp": 181.7,
+            "annotation": null
+        },
+        {
+            "id": "5479f2cb-a5f1-4bf1-ab26-e6acf8a83ba5",
+            "lyric": "And I saw sparks",
+            "timestamp": 187.0,
+            "annotation": null
+        },
+        {
+            "id": "b0870149-f8dc-48f9-b4fb-b7cf575ff02e",
+            "lyric": "Yeah, I saw sparks",
+            "timestamp": 192.2,
+            "annotation": null
+        },
+        {
+            "id": "092eab94-2256-450c-8b1c-6a959b5e6821",
+            "lyric": "Sing it out",
+            "timestamp": 198.3,
+            "annotation": null
+        },
+        {
+            "id": "2171804a-fe87-435a-ac80-b2fe08cc30fb",
+            "lyric": "",
+            "timestamp": 199.6,
+            "annotation": null
+        }
+    ]
+}

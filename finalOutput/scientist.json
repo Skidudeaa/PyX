@@ -1,0 +1,178 @@
+{
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "album": "A Rush of Blood to the Head",
+    "release_date": "2002-08-26",
+    "description": "\u201cThe Scientist\u201d is a very mellow song about trying to analyze a broken relationship. The music video is famous for its reverse chronology (which required Chris Martin to learn the song backwards in order to make it look like he was singing forwards as he walked backwards\u2026).",
+    "bgColor": "ffffff",
+    "textColors": {
+        "textColor1": "0e0e0d",
+        "textColor2": "2d2928",
+        "textColor3": "3e3e3d",
+        "textColor4": "575453"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "32560d13-8f87-4070-acec-1f6346184f7c",
+            "lyric": "Come up to meet you, tell you I'm sorry",
+            "timestamp": 14.8,
+            "annotation": "Once everything is said and done, we often wish we could turn back time and begin again with a clean slate."
+        },
+        {
+            "id": "fb95b98f-bc1a-421b-b94b-d12685687c6d",
+            "lyric": "You don't know how lovely you are",
+            "timestamp": 22.1,
+            "annotation": null
+        },
+        {
+            "id": "959e70ab-eec2-454c-af6c-8438d6470a08",
+            "lyric": "I had to find you, tell you I need you",
+            "timestamp": 27.9,
+            "annotation": "The singer here is not explicitly clear, but his begging may be an indication of what he longs for in his relationship. He wants to have his significant other affirm their love for him, but as the second line indicates, its a bit late for this."
+        },
+        {
+            "id": "020d27c0-d693-418d-97fb-19247e3c0888",
+            "lyric": "Tell you I set you apart",
+            "timestamp": 34.1,
+            "annotation": null
+        },
+        {
+            "id": "3f080258-2de7-4f50-a8e1-57a99f945165",
+            "lyric": "Tell me your secrets and ask me your questions",
+            "timestamp": 40.4,
+            "annotation": null
+        },
+        {
+            "id": "f3db8c2c-43d2-449f-82c0-4c027b3cd4bd",
+            "lyric": "Oh, let's go back to the start",
+            "timestamp": 47.2,
+            "annotation": null
+        },
+        {
+            "id": "65c16e49-4eed-44f0-b096-53a9c99bbf32",
+            "lyric": "Running in circles, coming up tails",
+            "timestamp": 53.2,
+            "annotation": "Martin and this girl have been stuck in the same place relationship-wise, doing the same things and drawing the same conclusions. The situation just keeps on getting replayed over and over again and each time, it\u2019s still a problem."
+        },
+        {
+            "id": "7a71cf8e-eeaa-4625-8708-d82cffb82641",
+            "lyric": "Heads on a science apart",
+            "timestamp": 59.6,
+            "annotation": null
+        },
+        {
+            "id": "452c1f88-9026-4fe9-93b7-f29cf04af044",
+            "lyric": "Nobody said it was easy",
+            "timestamp": 65.9,
+            "annotation": null
+        },
+        {
+            "id": "b6e26a6b-b80a-4dcf-a6d8-d33f26ece3b0",
+            "lyric": "It's such a shame for us to part",
+            "timestamp": 71.6,
+            "annotation": "This line ties into the song title, \u201cThe Scientist,\u201d because it describes what most scientists deal with, numbers, figures, complex puzzles, etc."
+        },
+        {
+            "id": "f22f2ef9-edcf-415c-8832-569e6ce0bc00",
+            "lyric": "Nobody said it was easy",
+            "timestamp": 77.6,
+            "annotation": null
+        },
+        {
+            "id": "71826b60-f608-44f0-a66d-b4d780e533d8",
+            "lyric": "No one ever said it would be this hard",
+            "timestamp": 85.3,
+            "annotation": "When two people are truly in love, break-ups, no matter if mutually agreed on or initiated by one party to another, are rarely smooth and are often tinged with regret. It\u2019s hard to keep the relationship, but it\u2019d be sad for it to end."
+        },
+        {
+            "id": "e4c46fa8-4985-416b-8418-543b9e1cd451",
+            "lyric": "Oh, take me back to the start",
+            "timestamp": 93.9,
+            "annotation": null
+        },
+        {
+            "id": "ef492baa-b002-4ba6-a53b-09c40b3cdc66",
+            "lyric": "I was just guessing at numbers and figures",
+            "timestamp": 111.0,
+            "annotation": null
+        },
+        {
+            "id": "5c492219-38a5-4828-8e1a-c00496b61eb5",
+            "lyric": "Pulling the puzzles apart",
+            "timestamp": 117.6,
+            "annotation": null
+        },
+        {
+            "id": "3f35d9dd-824a-4808-8092-ff8fcbc80161",
+            "lyric": "Questions of science, science and progress",
+            "timestamp": 123.7,
+            "annotation": "This problematic pattern never fails to repeat, but that\u2019s part of the relation and is what makes them what they are. Chris compares this cycle to a dog chasing its tail; a common action animals often perform."
+        },
+        {
+            "id": "1db5dc39-75ec-43e0-9ee3-f847be0a19b0",
+            "lyric": "Do not speak as loud as my heart",
+            "timestamp": 130.2,
+            "annotation": null
+        },
+        {
+            "id": "dc5e8145-2f70-4105-a2a0-2cf86464d138",
+            "lyric": "But tell me you love me, come back and haunt me",
+            "timestamp": 136.5,
+            "annotation": null
+        },
+        {
+            "id": "9c01c200-90a4-4b6c-ab77-e8326a2d6d2a",
+            "lyric": "Oh and I rush to the start",
+            "timestamp": 143.0,
+            "annotation": null
+        },
+        {
+            "id": "81fd9405-a99f-4b42-9e5f-560a4dd70afe",
+            "lyric": "Running in circles, chasing our tails",
+            "timestamp": 149.5,
+            "annotation": null
+        },
+        {
+            "id": "a78be74d-95a3-4384-acd2-f9cac6711e1e",
+            "lyric": "Coming back as we are",
+            "timestamp": 156.6,
+            "annotation": null
+        },
+        {
+            "id": "295acc6c-b485-4731-a755-9e241ce5377d",
+            "lyric": "Nobody said it was easy",
+            "timestamp": 161.8,
+            "annotation": null
+        },
+        {
+            "id": "148993de-5809-483a-aff6-3c6426fb6aa7",
+            "lyric": "Oh, it's such a shame for us to part",
+            "timestamp": 167.9,
+            "annotation": null
+        },
+        {
+            "id": "529f20c9-ff3f-4c23-afc4-021685e6caae",
+            "lyric": "Nobody said it was easy",
+            "timestamp": 174.7,
+            "annotation": null
+        },
+        {
+            "id": "0be0f13c-8a0e-4099-a08d-a8dff9101bcd",
+            "lyric": "No one ever said it would be so hard",
+            "timestamp": 181.6,
+            "annotation": null
+        },
+        {
+            "id": "2fec51ba-0b53-4933-8f33-95004d11ecab",
+            "lyric": "I'm going back to the start",
+            "timestamp": 190.2,
+            "annotation": null
+        },
+        {
+            "id": "de860a86-b16b-4d5c-970c-9f26c40f669d",
+            "lyric": "",
+            "timestamp": 232.2,
+            "annotation": null
+        }
+    ]
+}

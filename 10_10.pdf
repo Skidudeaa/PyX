@@ -1,0 +1,249 @@
+
+import SwiftUI
+import Foundation
+
+struct SongInfo: Codable {
+    let title: String
+    let artist: String
+    let album: String
+    let release_date: String?
+    let description: String
+    let lyrics: [Lyric]
+    let annotations: [Annotation]
+}
+
+struct Lyric: Codable, Identifiable {
+    let id: String
+    let timestamp: Double
+    let lyric: String
+}
+
+struct Annotation: Codable {
+    let referent: String
+    let annotation: String
+}
+
+func loadSongInfo() -> SongInfo? {
+    if let url = Bundle.main.url(forResource: "song", withExtension: "json") {
+        do {
+            let data = try Data(contentsOf: url)
+            let decoder = JSONDecoder()
+            decoder.keyDecodingStrategy = .convertFromSnakeCase
+            return try decoder.decode(SongInfo.self, from: data)
+        } catch {
+            print("Error loading or parsing song.json: \(error)")
+        }
+    }
+    return nil
+}
+
+func levenshtein(a: String, b: String) -> Int {
+    if a.isEmpty { return b.count }
+    if b.isEmpty { return a.count }
+    var dp = Array(repeating: Array(repeating: 0, count: b.count + 1), count: a.count + 1)
+    for i in 0...a.count {
+        dp[i][0] = i
+    }
+    for j in 0...b.count {
+        dp[0][j] = j
+    }
+    for i in 1...a.count {
+        for j in 1...b.count {
+            let cost = a[a.index(a.startIndex, offsetBy: i - 1)] == b[b.index(b.startIndex, offsetBy: j - 1)] ? 0 : 1
+            dp[i][j] = min(dp[i-1][j] + 1, dp[i][j-1] + 1, dp[i-1][j-1] + cost)
+        }
+    }
+    return dp[a.count][b.count]
+}
+
+extension Array {
+    subscript(safe index: Int) -> Element? {
+        return indices ~= index ? self[index] : nil
+    }
+}
+
+func countPunctuations(in text: String) -> Int {
+    return text.filter { ".,!?;:".contains($0) }.count
+}
+
+func isComplex(lyric: String) -> Bool {
+    return lyric.split(separator: " ").count > 5
+}
+
+func adjustedTimestamp(originalTimestamp: Double, lyricText: String) -> Double {
+    var adjustedTime = originalTimestamp
+    // Punctuation timing
+    let punctuationCount = countPunctuations(in: lyricText)
+    adjustedTime += Double(punctuationCount) * 0.1  // Adding 0.1 seconds for each punctuation
+    // Lyric complexity
+    if isComplex(lyric: lyricText) {
+        adjustedTime += 0.5  // Adding 0.5 seconds for complex lyrics
+    }
+    return adjustedTime
+}
+
+struct ContentView: View {
+    @State private var songInfo: SongInfo? = loadSongInfo()
+    @State private var currentTime: Double = 0.0
+    @State private var nextLyricIndex: Int = 0
+    @State private var activeAnnotation: Annotation? = nil
+    @State private var displayedAnnotations: Set<String> = []
+    @State private var isPlaying: Bool = true
+    @State private var annotationTimer: Timer? = nil
+    
+    var body: some View {
+            GeometryReader { geometry in
+                VStack(alignment: .leading) {
+                    // Reduced padding to make containers smaller
+                    VStack {
+                        ZStack {
+                            RoundedRectangle(cornerRadius: 20).fill(Color.black)
+                            VStack {
+                                Text("Title: \(songInfo?.title ?? "")").font(.headline)
+                                Text("Artist: \(songInfo?.artist ?? "")")
+                                Text("Album: \(songInfo?.album ?? "")")
+                                Text("Release Date: \(songInfo?.release_date ?? "")")
+                            }
+                            .foregroundColor(.white)
+                        }
+                        .padding(.vertical, 10)
+                        
+                        ZStack {
+                            RoundedRectangle(cornerRadius: 20)
+                                .fill(LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .leading, endPoint: .trailing))
+                                .opacity(0.8)
+                            Text("Description: \(songInfo?.description ?? "")")
+                                .foregroundColor(.white)
+                        }
+                        .padding(.vertical, 10)
+                    }
+                    .padding(.bottom, 10)
+                
+                // Play/Pause Button
+                Button("Play/Pause") {
+                    startAnnotationTimer()
+                }
+                .foregroundColor(.white)
+                .padding()
+                .background(RoundedRectangle(cornerRadius: 20).fill(Color.blue))
+                
+                    Spacer(minLength: 0)  // Use minimum Spacer to move the annotation container higher
+
+                // Lyrics and Annotations
+                    HStack {
+                        ScrollViewReader { scrollView in
+                            ScrollView {
+                                ForEach(songInfo?.lyrics ?? [], id: \.id) { lyric in
+                                    if abs((songInfo?.lyrics.firstIndex(where: { $0.id == lyric.id }) ?? 0) - (nextLyricIndex - 1)) <= 2 { // Only show the current lyric and the two lyrics before and after it
+                                        Text(lyric.lyric)
+                                            .font(.system(size: lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 1]?.id ? 24 : lyric.id == songInfo?.lyrics[safe: nextLyricIndex]?.id || lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 2]?.id ? 18 : 12))
+                                            .padding(8)
+                                            .foregroundColor(.black)
+                                            .background(Color.yellow.opacity(lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 1]?.id ? 0.8 : 0.2))
+                                            .cornerRadius(15)
+                                            .shadow(color: Color.gray, radius: lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 1]?.id ? 10 : lyric.id == songInfo?.lyrics[safe: nextLyricIndex]?.id || lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 2]?.id ? 5 : 0, x: 0, y: 0)
+                                            .blur(radius: lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 1]?.id ? 0 : lyric.id == songInfo?.lyrics[safe: nextLyricIndex]?.id || lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 2]?.id ? 1 : 2)
+                                            .scaleEffect(lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 1]?.id ? 1.2 : lyric.id == songInfo?.lyrics[safe: nextLyricIndex]?.id || lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 2]?.id ? 1.15 : 1, anchor: .center)
+                                            .opacity(lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 1]?.id ? 1 : lyric.id == songInfo?.lyrics[safe: nextLyricIndex]?.id || lyric.id == songInfo?.lyrics[safe: nextLyricIndex - 2]?.id ? 0.7 : 0.3)
+                                            .animation(Animation.easeInOut(duration: 0.7).delay(0.1))
+                                            .transition(.fade)
+                                            .id(lyric.id)
+                                    }
+                                }
+                            }
+                            .onChange(of: nextLyricIndex) { value in
+                                if value > 0, let lyricId = songInfo?.lyrics[safe: value - 1]?.id {
+                                    withAnimation(.spring()) {
+                                        scrollView.scrollTo(lyricId, anchor: .center)
+                                    }
+                                }
+                            }
+                        }
+                    
+                    
+                    
+                    Spacer()
+                    // Annotations
+                    if let annotationText = activeAnnotation?.annotation {
+                                       Text(annotationText)
+                                           .font(.title)
+                                           .foregroundColor(.black)
+                                           .multilineTextAlignment(.center)  // Center align text
+                                           .padding()
+                                           .background(RoundedRectangle(cornerRadius: 20).fill(Color.orange.opacity(0.4)))
+                                           .frame(minWidth: geometry.size.width * 0.5, minHeight: geometry.size.height * 0.2)  // Increased size
+                                   }
+                               }
+            }
+            .padding(.leading, 15)
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
+            .background(Color.gray.ignoresSafeArea())
+        }
+        .onAppear {
+            startAnnotationTimer()
+        }
+    }
+    
+    func startAnnotationTimer() {
+        annotationTimer?.invalidate()
+            var annotationQueue: [Annotation] = []
+            var isAnnotationBeingDisplayed = false
+            
+            annotationTimer = Timer.scheduledTimer(withTimeInterval: 1.0, repeats: true) { _ in
+                currentTime += 1.0
+                print("Current Time: \(currentTime)")
+            
+            if let lyrics = songInfo?.lyrics.sorted(by: { $0.timestamp < $1.timestamp }) {
+                while nextLyricIndex < lyrics.count {
+                    let lyric = lyrics[nextLyricIndex]
+                    let adjustedTime = adjustedTimestamp(originalTimestamp: lyric.timestamp, lyricText: lyric.lyric)
+                    
+                    if adjustedTime <= currentTime {
+                        nextLyricIndex += 1
+                        
+                        // Sort and filter annotations based on the current lyric
+                        if let annotations = songInfo?.annotations.sorted(by: { annotation1, annotation2 in
+                            levenshtein(a: lyric.lyric, b: annotation1.referent) < levenshtein(a: lyric.lyric, b: annotation2.referent)
+                        }) {
+                            for annotation in annotations {
+                                if !displayedAnnotations.contains(annotation.referent) {
+                                    annotationQueue.append(annotation)
+                                    displayedAnnotations.insert(annotation.referent)
+                                }
+                            }
+                        }
+                    } else {
+                        // Break the loop if the adjusted timestamp is greater than the current time.
+                        break
+                    }
+                }
+                
+                if !isAnnotationBeingDisplayed, let nextAnnotation = annotationQueue.first {
+                    let wordsInAnnotation = nextAnnotation.annotation.split(separator: " ").count
+                    let annotationDuration = Double(wordsInAnnotation) * 0.5
+                    activeAnnotation = nextAnnotation
+                    isAnnotationBeingDisplayed = true
+                    
+                    // Remove the annotation from the queue
+                    annotationQueue.removeFirst()
+                    
+                    // Schedule a new timer to hide the annotation
+                    Timer.scheduledTimer(withTimeInterval: annotationDuration, repeats: false) { _ in
+                        activeAnnotation = nil
+                        isAnnotationBeingDisplayed = false
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@main
+struct MusicLyricApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "title": "I Fought Piranhas",
+    "artist": "The White Stripes",
+    "album": "The White Stripes",
+    "release_date": "1999-06-15",
+    "description": "Jack used his 1960s Crestwood Astral guitar on this Jack White once mentioned that there is a song on this album about Moby Dick. This is the only one that it could be, with its references to holding the rope and sail, and its tale of a cold protagonist fighting a sea creature.",
+    "bgColor": "bd0a0e",
+    "textColors": {
+        "textColor1": "fffaf7",
+        "textColor2": "eff0df",
+        "textColor3": "f1cac8",
+        "textColor4": "e5c2b5"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "0d104a8c-8000-44ec-bb94-20d6197e0e97",
+            "lyric": "Well, I hold the rope, and I hold the sail",
+            "timestamp": 16.4,
+            "annotation": null
+        },
+        {
+            "id": "8be222b0-28e9-4348-98db-d2a01f8fadeb",
+            "lyric": "And I kept my papers, to keep from landin' in jail",
+            "timestamp": 22.9,
+            "annotation": "\u201cPapers\u201d often refers to legal documents, such as passports, permits, etc."
+        },
+        {
+            "id": "81c95dcf-02b1-4243-98e3-61c832b792e2",
+            "lyric": "And I fought piranhas, and I fought the cold",
+            "timestamp": 30.3,
+            "annotation": null
+        },
+        {
+            "id": "f0d9af3b-aabd-408c-948f-7db1afd5bc87",
+            "lyric": "There was no one with me, I was all alone, yeah",
+            "timestamp": 38.0,
+            "annotation": null
+        },
+        {
+            "id": "ee6a16ef-6c21-4f6e-b6ab-653df26b48d3",
+            "lyric": "Yeah",
+            "timestamp": 50.8,
+            "annotation": null
+        },
+        {
+            "id": "ddd6a859-4f73-46cf-8f41-b815b7d2a406",
+            "lyric": "Well, it's Easter mornin' now, and there's no one around",
+            "timestamp": 75.3,
+            "annotation": null
+        },
+        {
+            "id": "5d842d73-c632-4234-a820-76b4c2b853e9",
+            "lyric": "So I unroll the cement and walk into the town",
+            "timestamp": 81.1,
+            "annotation": null
+        },
+        {
+            "id": "258062e9-1c4a-4ed1-a321-9910ff0dfbc9",
+            "lyric": "There was no one with me, I was all alone",
+            "timestamp": 88.6,
+            "annotation": null
+        },
+        {
+            "id": "64655d2c-4540-4169-a236-c82d0cf80be0",
+            "lyric": "And I fought piranhas, and I fought the cold, yeah",
+            "timestamp": 96.7,
+            "annotation": null
+        },
+        {
+            "id": "8e3b4cfe-7b5a-480c-b8a0-485437de4173",
+            "lyric": "Yeah",
+            "timestamp": 114.7,
+            "annotation": null
+        },
+        {
+            "id": "078a934d-5168-425b-bf45-98cbaeda377c",
+            "lyric": "Well, you know what it's like, I don't got to tell you",
+            "timestamp": 134.7,
+            "annotation": null
+        },
+        {
+            "id": "b229f8d3-ef35-435b-9391-d1a81d4d15df",
+            "lyric": "Who puts up a fight, walking out of Hell now?",
+            "timestamp": 140.7,
+            "annotation": null
+        },
+        {
+            "id": "32dfa5a8-e5bb-44a4-9a80-b4a0ad7eaaa9",
+            "lyric": "When you fought piranhas, and you fought the cold",
+            "timestamp": 148.9,
+            "annotation": null
+        },
+        {
+            "id": "108d6f4a-d0c1-44e7-b020-5fa911699fe3",
+            "lyric": "There's nobody with you, yes, you're all alone, yeah",
+            "timestamp": 156.1,
+            "annotation": null
+        },
+        {
+            "id": "8f6d1ab6-1b30-4aba-9497-8523b9bfaa6e",
+            "lyric": "",
+            "timestamp": 164.2,
+            "annotation": null
+        }
+    ]
+}

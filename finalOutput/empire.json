@@ -1,0 +1,526 @@
+{
+    "title": "Empire State of Mind",
+    "artist": "JAY-Z",
+    "album": "The Blueprint 3",
+    "release_date": "2009-10-20",
+    "description": "The Blueprint 3 \u2019s third single is a love song to Jay-Z and Alicia Keys' home city of New York, which is also known as \u201cthe Empire State.\u201d It was the first Jay-Z-lead single to ever top the  Billboard  \u201cHot 100,\u201d sitting at #1 for five consecutive weeks (also being the last number #1 in the 2000s).",
+    "bgColor": "fcfbf7",
+    "textColors": {
+        "textColor1": "000000",
+        "textColor2": "313431",
+        "textColor3": "323231",
+        "textColor4": "5a5b59"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "e00d4636-7755-42fb-80ad-a4667662efb7",
+            "lyric": "Yeah, yeah, I'm out that Brooklyn, now I'm down in Tribeca",
+            "timestamp": 10.9,
+            "annotation": "Shawn Carter was born and raised in Brooklyn\u2019s Marcy Houses. Back in 2012, DeNiro and Jay shared a few unpleasant words (mostly on DeNiro\u2019s part) after he repeatedly failed to call the movie star back, and never delivered on a promise to record a song for the Tribeca Film Festival. DeNiro called him \u201crude [and] disrespectful,\u201d with Hov replying that the veteran actor hadn\u2019t shown him enough respect:It doesn\u2019t matter who you are, everybody has to be respectful and everybody has to be a human bein"
+        },
+        {
+            "id": "548782ab-31a4-4b4b-83d3-5159a1673ee3",
+            "lyric": "Right next to De Niro, but I'll be hood forever",
+            "timestamp": 14.3,
+            "annotation": null
+        },
+        {
+            "id": "18196792-6da6-475c-bb49-8f4ea4085522",
+            "lyric": "I'm the new Sinatra, and since I made it here",
+            "timestamp": 15.8,
+            "annotation": "In the greatest Yankees rap reference of all-time, Jay-Z proclaims that he is a major reason for the high sales of New York Yankees headwear. Since the beginning of his career Hov has proudly worn a Yankees fitted to show support for his favorite MLB team; and his influence has rubbed off on the general public."
+        },
+        {
+            "id": "2b3c1bfd-0a44-45b6-a729-f23842ecb060",
+            "lyric": "I can make it anywhere, yeah, they love me everywhere",
+            "timestamp": 19.2,
+            "annotation": null
+        },
+        {
+            "id": "8649425e-acf5-44f5-820e-db0aa47c9038",
+            "lyric": "I used to cop in Harlem, Hola my Dominicanos",
+            "timestamp": 21.7,
+            "annotation": null
+        },
+        {
+            "id": "5a20c0ca-6ba4-4c5e-9b5f-f3a42fd00125",
+            "lyric": "Right there up on Broadway",
+            "timestamp": 24.1,
+            "annotation": null
+        },
+        {
+            "id": "6aa63703-d903-4026-9209-5f5b1f206599",
+            "lyric": "Brought me back to that McDonald's",
+            "timestamp": 26.0,
+            "annotation": null
+        },
+        {
+            "id": "7ee6be12-bf4d-4241-b21f-ebfbfe444352",
+            "lyric": "Took it to my stash spot, 560 State Street",
+            "timestamp": 27.6,
+            "annotation": "A \u201cstash spot\u201d is a place to safely store cash and drugs. As you can see in the below photo, the Barclays Center, which Hov is an investor in, is now a stones throw away from Hov\u2019s old bachelor pad."
+        },
+        {
+            "id": "bec9a991-3b1a-4b44-a72b-2d71b6fbe368",
+            "lyric": "Catch me in the Kitchen like a Simmons whipping pastry",
+            "timestamp": 28.5,
+            "annotation": null
+        },
+        {
+            "id": "69a308b2-015f-4334-83e1-a44052b1e662",
+            "lyric": "Cruising down 8th Street, off-white Lexus",
+            "timestamp": 32.3,
+            "annotation": null
+        },
+        {
+            "id": "81a9c76f-7605-4119-8ebb-76ea2f6a4b75",
+            "lyric": "Driving so slow, but BK is from Texas",
+            "timestamp": 34.4,
+            "annotation": null
+        },
+        {
+            "id": "e0667171-66b4-44a9-aa88-398a0ce616ba",
+            "lyric": "Me?, I'm out at Bed-Stuy, home of that boy Biggie",
+            "timestamp": 36.8,
+            "annotation": "Jay-Z and his close friend The Notorious B.I.G. were both born and raised in the Brooklyn neighborhood of Bedford-Stuyvesant."
+        },
+        {
+            "id": "cbddf0c6-0410-498d-ade9-9fe2d640d0c4",
+            "lyric": "Now I live on Billboard, and I brought my boys with me",
+            "timestamp": 38.9,
+            "annotation": null
+        },
+        {
+            "id": "41130797-7428-4074-8a4d-4590a9cce072",
+            "lyric": "Say \"what up?\" to Ty Ty, still sippin' Mai Tais",
+            "timestamp": 41.4,
+            "annotation": "Tyran \u201cTy Ty\u201d Smith is Jay\u2019s right-hand man, who has been working alongside him since the early Roc-A-Fella Records days. He is currently an A&R executive at Roc Nation, an entertainment company he co-founded with Hov in 2008.Since the \u201890s Hov and Ty Ty have been together, ordering themselves a Mai Tai, which is an alcoholic cocktail based on rum, Cura\u00e7ao liqueur, orgeat syrup and lime juice."
+        },
+        {
+            "id": "b87f561d-0777-4f22-a1d0-dd80f1488e02",
+            "lyric": "Sitting courtside, Knicks and Nets give me high fives",
+            "timestamp": 45.4,
+            "annotation": null
+        },
+        {
+            "id": "92dcada8-7793-42ad-854d-751c53c841d7",
+            "lyric": "Nigga, I be spiked out, I could trip a referee",
+            "timestamp": 49.8,
+            "annotation": "Referencing the horrific attacks on the World Trade Center on September 11th, 2001, where 2 planes were hijacked and flown right into the 2 buildings causing both of the towers to collapse killing around 3000 people."
+        },
+        {
+            "id": "160cc2f0-db98-42b1-83af-5bf77c57897c",
+            "lyric": "Tell by my attitude that I am most definitely from",
+            "timestamp": 52.8,
+            "annotation": null
+        },
+        {
+            "id": "948592ad-43d3-4253-9155-b694f430cec7",
+            "lyric": "In New York, concrete jungle where dreams are made of (Ayy, uh, yeah, yeah)",
+            "timestamp": 56.1,
+            "annotation": null
+        },
+        {
+            "id": "5b9b7f04-93d3-4956-8df2-0f9b17655bdd",
+            "lyric": "There's nothing you can't do (Yeah, okay)",
+            "timestamp": 62.2,
+            "annotation": null
+        },
+        {
+            "id": "c0b35ae2-cb1c-4cec-a780-4542385134f6",
+            "lyric": "Now you're in New York (Aha, aha, aha)",
+            "timestamp": 64.9,
+            "annotation": null
+        },
+        {
+            "id": "36dcfa99-4330-4f09-8a36-34fb44ea3b2e",
+            "lyric": "These streets will make you feel brand new (New)",
+            "timestamp": 69.0,
+            "annotation": null
+        },
+        {
+            "id": "02ba3c39-56f3-4bca-9cbb-4737c1a90a78",
+            "lyric": "Big lights will inspire you (Come on)",
+            "timestamp": 73.5,
+            "annotation": null
+        },
+        {
+            "id": "bb817e0a-ecb0-42b6-b211-a8a5bda1314f",
+            "lyric": "Let's hear it for New York (You welcome, OG)",
+            "timestamp": 76.2,
+            "annotation": "Yankee Stadium is in Morrissania, a section of the Bronx which is oft nicknamed \u201cThe X.\u201d Jay is at the game with his close friend and 40/40 Club co-owner Juan \u201cOG\u201d Perez, who Hov also shouts out in \u201cMy 1st Song\u201d and \u201cSuccess. \u201dJuan\u2019s wife, Desiree Perez, is a close friend and adviser to Yankee\u2019s controversial player Alex Rodriguez, so it\u2019s no coincidence that Hov is there with him."
+        },
+        {
+            "id": "2325c140-d42b-4762-a473-95c67939d7af",
+            "lyric": "New York, New York (I made you hot, nigga)",
+            "timestamp": 80.0,
+            "annotation": null
+        },
+        {
+            "id": "d787aa12-ada9-4f4f-97a2-e1ba1f3bbfe9",
+            "lyric": "Catch me at the X with OG at a Yankees game",
+            "timestamp": 83.3,
+            "annotation": null
+        },
+        {
+            "id": "3bb90354-4bc0-4967-8de2-3dc61ff5a933",
+            "lyric": "Shit, I made the Yankee hat more famous than a Yankee can",
+            "timestamp": 85.9,
+            "annotation": null
+        },
+        {
+            "id": "9fa69b65-108f-4ad1-96fc-48fe2f701149",
+            "lyric": "You should know I bleed blue, but I ain't a Crip though",
+            "timestamp": 87.6,
+            "annotation": null
+        },
+        {
+            "id": "783db951-a539-4de9-8898-08a04a0ec330",
+            "lyric": "But I got a gang of niggas walking with my clique, though",
+            "timestamp": 91.2,
+            "annotation": null
+        },
+        {
+            "id": "03d1f24c-ffa2-4ff9-affc-48c8f206dea7",
+            "lyric": "Welcome to the melting pot, corners where we selling rock",
+            "timestamp": 93.7,
+            "annotation": null
+        },
+        {
+            "id": "638b70d8-ea8f-4b5c-a1ed-675291ecfd31",
+            "lyric": "Afrika Bambaataa shit, home of the hip hop",
+            "timestamp": 96.9,
+            "annotation": null
+        },
+        {
+            "id": "bb25f9b9-0d8a-4612-9be5-97bfc723badb",
+            "lyric": "Yellow Cab, Gypsy Cab, Dollar Cab, holla back",
+            "timestamp": 99.0,
+            "annotation": null
+        },
+        {
+            "id": "102b958b-ebb3-4cdb-a179-956093cc55ad",
+            "lyric": "For foreigners that ain't fair, they act like they forgot how to add",
+            "timestamp": 101.4,
+            "annotation": null
+        },
+        {
+            "id": "c04b39ec-f130-449e-8f24-75a0c435462a",
+            "lyric": "Eight million stories out there in the naked",
+            "timestamp": 104.8,
+            "annotation": "At the time of recording Jay-Z was a co-owner of the NBA\u2019s Brooklyn Nets, and Brooklyn\u2019s own Spike Lee is known as the quintessential court-side sitter at New York Knicks games. Like Spike, Hov sits so close to the court that he could stick his foot out a little too far and trip a referee."
+        },
+        {
+            "id": "6c8d7dc4-ea53-4393-a572-383dc6fd052c",
+            "lyric": "City it's a pity, half of y'all won't make it",
+            "timestamp": 107.6,
+            "annotation": null
+        },
+        {
+            "id": "9c98cff4-9470-4479-9f78-edc0bc2b57a7",
+            "lyric": "Me?, I gotta plug, Special Ed \"I Got It Made\"",
+            "timestamp": 110.6,
+            "annotation": null
+        },
+        {
+            "id": "3b2ae8a6-f2b1-47d9-9263-3180075f8423",
+            "lyric": "If Jeezy payin' LeBron, I'm paying Dwyane Wade",
+            "timestamp": 112.9,
+            "annotation": null
+        },
+        {
+            "id": "459ba125-7aeb-436b-b392-7f36e590a73d",
+            "lyric": "Three dice, Cee-lo, three-card Monte",
+            "timestamp": 116.6,
+            "annotation": null
+        },
+        {
+            "id": "3cdc011d-7bae-4508-b53c-b44480af8886",
+            "lyric": "Labor Day Parade, rest in peace, Bob Marley",
+            "timestamp": 118.6,
+            "annotation": null
+        },
+        {
+            "id": "2cea6bec-e204-433d-b323-534912cbe08c",
+            "lyric": "Statue of Liberty, long live the World Trade",
+            "timestamp": 120.3,
+            "annotation": null
+        },
+        {
+            "id": "9f880f8b-b405-467d-8f43-391d11e77bb2",
+            "lyric": "Long live the king, yo, I'm from the Empire State that's",
+            "timestamp": 123.6,
+            "annotation": null
+        },
+        {
+            "id": "c9482924-7802-4d1c-ace6-429c0b8e940a",
+            "lyric": "In New York (Yeah), concrete jungle where dreams are made of",
+            "timestamp": 126.3,
+            "annotation": null
+        },
+        {
+            "id": "92d48a0a-6107-407d-950c-b3466eb3552d",
+            "lyric": "There's nothing you can't do (That boy good, okay)",
+            "timestamp": 133.4,
+            "annotation": null
+        },
+        {
+            "id": "cf84b7cf-3109-46c4-bc41-1baeffa4a69f",
+            "lyric": "Now you're in New York (Uh, yeah)",
+            "timestamp": 136.4,
+            "annotation": null
+        },
+        {
+            "id": "3402a25d-4034-4648-af21-36e35b48430b",
+            "lyric": "(Welcome to the bright lights, baby) These streets will make you feel brand new",
+            "timestamp": 139.6,
+            "annotation": null
+        },
+        {
+            "id": "8f3959ec-c2af-4074-b3bd-a10a56847084",
+            "lyric": "Big lights will inspire you (Okay)",
+            "timestamp": 144.9,
+            "annotation": null
+        },
+        {
+            "id": "ef07e2d5-50f4-4fb4-b428-e7144501905f",
+            "lyric": "Let's hear it for New York",
+            "timestamp": 147.5,
+            "annotation": null
+        },
+        {
+            "id": "daecd0c5-fbcc-400e-ab37-cfbb268ec3ba",
+            "lyric": "New York, New York",
+            "timestamp": 150.4,
+            "annotation": null
+        },
+        {
+            "id": "3f4686cd-31dc-4eee-ae3c-d82355378a1f",
+            "lyric": "Lights is blinding, girls need blinders",
+            "timestamp": 154.8,
+            "annotation": null
+        },
+        {
+            "id": "40945fcf-e978-4037-ad0f-40db0ebb8f7b",
+            "lyric": "So they can step out of bounds quick the side lines is",
+            "timestamp": 157.9,
+            "annotation": null
+        },
+        {
+            "id": "734b716a-f06f-40fe-8671-d4a80f050e38",
+            "lyric": "Lined with casualties who sip the life casually",
+            "timestamp": 159.9,
+            "annotation": null
+        },
+        {
+            "id": "09231949-f862-4564-8e17-52b82d1a2ab5",
+            "lyric": "Then gradually become worse",
+            "timestamp": 162.5,
+            "annotation": null
+        },
+        {
+            "id": "f291e758-9ac0-4941-92f1-8a1b6c343b7e",
+            "lyric": "Don't bite the apple, Eve!",
+            "timestamp": 165.2,
+            "annotation": null
+        },
+        {
+            "id": "02d8e233-6cb1-4c2d-adbf-f46b4d01609d",
+            "lyric": "Caught up in the in-crowd now you're in-style",
+            "timestamp": 166.8,
+            "annotation": null
+        },
+        {
+            "id": "51d1b37f-2610-4b1a-9c28-6bb9e3c08c38",
+            "lyric": "Into the winter gets cold en Vogue with your skin out",
+            "timestamp": 169.0,
+            "annotation": null
+        },
+        {
+            "id": "d7b36a12-eff9-48a8-9c68-a27c26c83b8c",
+            "lyric": "The city of sin is a pity on a whim",
+            "timestamp": 170.8,
+            "annotation": null
+        },
+        {
+            "id": "0a477bca-240e-4360-87cf-7b5f90ec87ad",
+            "lyric": "Good girls gone bad, the city's filled with them",
+            "timestamp": 172.4,
+            "annotation": null
+        },
+        {
+            "id": "6074759d-be0b-440d-8ea7-e3d7b927bfb3",
+            "lyric": "Mami took a bus trip, now she got her bust out",
+            "timestamp": 175.2,
+            "annotation": null
+        },
+        {
+            "id": "cecf66e2-be71-4449-ab23-6edd2ff7ad6b",
+            "lyric": "Everybody ride her just like a bus route",
+            "timestamp": 178.0,
+            "annotation": null
+        },
+        {
+            "id": "7db0b74b-d3c5-4a37-9c14-dd0a60686a35",
+            "lyric": "\"Hail Mary\" to the city, you're a virgin",
+            "timestamp": 180.4,
+            "annotation": null
+        },
+        {
+            "id": "7fbe70bb-3750-4a79-aae0-00d0682f640a",
+            "lyric": "And Jesus can't save you, life starts when the church ends",
+            "timestamp": 185.2,
+            "annotation": null
+        },
+        {
+            "id": "55410dcb-d658-4495-ac50-ef2cb272c4a3",
+            "lyric": "Came here for school, graduated to the high life",
+            "timestamp": 188.3,
+            "annotation": null
+        },
+        {
+            "id": "12bed4bc-8efb-4322-afde-3c1c2e49b227",
+            "lyric": "Ball players, rap stars addicted to the limelight",
+            "timestamp": 192.2,
+            "annotation": null
+        },
+        {
+            "id": "27fe2f83-8ebb-49d8-ac98-39db97dbaf8a",
+            "lyric": "MDMA got you feeling like a champion",
+            "timestamp": 194.2,
+            "annotation": null
+        },
+        {
+            "id": "43458af0-74f9-4ad3-bc4f-2bb52a3034ca",
+            "lyric": "The city never sleeps, better slip you an Ambien",
+            "timestamp": 196.4,
+            "annotation": null
+        },
+        {
+            "id": "a1bd62ec-0be9-4adb-83c1-ea9386c47a61",
+            "lyric": "In New York (Ayy, ow, uh, yeah), concrete jungle where dreams are made of",
+            "timestamp": 200.1,
+            "annotation": null
+        },
+        {
+            "id": "e0e207f8-2d5d-4f1c-92b9-ff97b86f79b9",
+            "lyric": "There's nothing you can't do (Okay)",
+            "timestamp": 206.2,
+            "annotation": null
+        },
+        {
+            "id": "a8453eeb-cfb0-43a4-b382-897a3c67d85b",
+            "lyric": "Now you're in New York (Uh, yeah)",
+            "timestamp": 208.9,
+            "annotation": null
+        },
+        {
+            "id": "89ef30ec-5b1a-462f-a37c-54d996528caa",
+            "lyric": "These streets will make you feel brand new",
+            "timestamp": 211.5,
+            "annotation": null
+        },
+        {
+            "id": "f951c5f7-c8f4-4295-8632-33041dbea3ef",
+            "lyric": "Big lights will inspire you (Okay)",
+            "timestamp": 217.2,
+            "annotation": null
+        },
+        {
+            "id": "d676dc32-eed9-4649-931d-b9a633d8403a",
+            "lyric": "Let's hear it for New York",
+            "timestamp": 222.7,
+            "annotation": null
+        },
+        {
+            "id": "06de5fb3-e885-4b7e-b0d1-1e6ed17f2dfe",
+            "lyric": "New York, New York",
+            "timestamp": 224.0,
+            "annotation": null
+        },
+        {
+            "id": "b69c3d03-661a-428c-9902-6cdd4e6dec85",
+            "lyric": "One hand in the air for the big city",
+            "timestamp": 227.5,
+            "annotation": null
+        },
+        {
+            "id": "815af517-13ed-4f88-a0ef-04ea688e1762",
+            "lyric": "Street lights, big dreams all looking pretty",
+            "timestamp": 230.2,
+            "annotation": null
+        },
+        {
+            "id": "6546f7e3-800b-42bb-9552-c870fa5a419e",
+            "lyric": "No place in the world that could compare",
+            "timestamp": 233.0,
+            "annotation": null
+        },
+        {
+            "id": "e9aa3d1d-e71a-4605-9c52-58881155fa0d",
+            "lyric": "Put your lighters in the air, everybody say",
+            "timestamp": 236.0,
+            "annotation": null
+        },
+        {
+            "id": "7192393e-2c77-4527-b532-02e3e67b91b4",
+            "lyric": "Yeah, yeah (Come on, come on)",
+            "timestamp": 238.1,
+            "annotation": null
+        },
+        {
+            "id": "a3e3aef6-1168-4039-8db0-117ae68b3e4d",
+            "lyric": "Yeah, yeah (Come on)",
+            "timestamp": 241.0,
+            "annotation": null
+        },
+        {
+            "id": "b0444dc4-8190-4754-a98a-86083e7edd92",
+            "lyric": "In New York (Uh, yeah, oh), concrete jungle where dreams are made of",
+            "timestamp": 243.5,
+            "annotation": null
+        },
+        {
+            "id": "ad246bb6-3e69-4cf8-8e19-1bc69d0c09ee",
+            "lyric": "There's nothing you can't do (Okay)",
+            "timestamp": 250.0,
+            "annotation": null
+        },
+        {
+            "id": "080c9f8e-4b61-44b4-9e9f-5395b017f178",
+            "lyric": "Now you're in New York (Uh, yeah, yeah)",
+            "timestamp": 252.8,
+            "annotation": null
+        },
+        {
+            "id": "6b0c190f-83ac-44bf-ac14-0b770eca587e",
+            "lyric": "These streets will make you feel brand new",
+            "timestamp": 257.7,
+            "annotation": null
+        },
+        {
+            "id": "05ed02c4-b5c6-4752-9dc1-caa0b1d99907",
+            "lyric": "Big lights will inspire you (Okay)",
+            "timestamp": 262.1,
+            "annotation": null
+        },
+        {
+            "id": "c6232f24-2008-4645-bc86-ff436af34c6b",
+            "lyric": "Let's hear it for New York (Uh)",
+            "timestamp": 264.7,
+            "annotation": null
+        },
+        {
+            "id": "97604ecf-1732-40ca-9c1f-ec89157ead5a",
+            "lyric": "New York (Yeah), New York (Uh)",
+            "timestamp": 267.2,
+            "annotation": null
+        },
+        {
+            "id": "7b83ae70-d642-42bd-b82c-aef137ba06d7",
+            "lyric": "",
+            "timestamp": 269.1,
+            "annotation": null
+        }
+    ]
+}

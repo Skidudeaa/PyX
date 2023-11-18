@@ -1,0 +1,93 @@
+{
+    "searched_songs": [
+        {
+            "title": "Ironic",
+            "artist": "Alanis Morissette",
+            "album": "Jagged Little Pill (Collector's Edition)",
+            "has_lyrics": false,
+            "color_data": {
+                "bgColor": "e1d9cc",
+                "textColors": {
+                    "textColor1": "0a0805",
+                    "textColor2": "0b0a07",
+                    "textColor3": "35322d",
+                    "textColor4": "36332e"
+                }
+            },
+            "song_id": "Ironic_Alanis_Morissette"
+        },
+        {
+            "title": "Ironic",
+            "artist": "Alanis Morissette",
+            "album": "Jagged Little Pill (2015 Remaster)",
+            "has_lyrics": false,
+            "color_data": {
+                "bgColor": "f1eee9",
+                "textColors": {
+                    "textColor1": "0b0e09",
+                    "textColor2": "452314",
+                    "textColor3": "393b36",
+                    "textColor4": "684c3e"
+                }
+            },
+            "song_id": "Ironic_Alanis_Morissette"
+        }
+    ],
+    "selected_match": {
+        "title": "Ironic",
+        "artist": "Alanis Morissette",
+        "album": "Jagged Little Pill (Collector's Edition)",
+        "has_lyrics": false,
+        "color_data": {
+            "bgColor": "e1d9cc",
+            "textColors": {
+                "textColor1": "0a0805",
+                "textColor2": "0b0a07",
+                "textColor3": "35322d",
+                "textColor4": "36332e"
+            }
+        },
+        "song_id": "Ironic_Alanis_Morissette"
+    },
+    "static_cover_match": {
+        "title": "Ironic",
+        "artist": "Alanis Morissette",
+        "album": "Jagged Little Pill (2015 Remaster)",
+        "has_lyrics": false,
+        "color_data": {
+            "bgColor": "f1eee9",
+            "textColors": {
+                "textColor1": "0b0e09",
+                "textColor2": "452314",
+                "textColor3": "393b36",
+                "textColor4": "684c3e"
+            }
+        },
+        "song_id": "Ironic_Alanis_Morissette"
+    },
+    "animated_cover_match": {
+        "title": "Ironic",
+        "artist": "Alanis Morissette",
+        "album": "Jagged Little Pill (2015 Remaster)",
+        "has_lyrics": false,
+        "color_data": {
+            "bgColor": "f1eee9",
+            "textColors": {
+                "textColor1": "0b0e09",
+                "textColor2": "452314",
+                "textColor3": "393b36",
+                "textColor4": "684c3e"
+            }
+        },
+        "song_id": "Ironic_Alanis_Morissette"
+    },
+    "color_data": {
+        "bgColor": "e1d9cc",
+        "textColors": {
+            "textColor1": "0a0805",
+            "textColor2": "0b0a07",
+            "textColor3": "35322d",
+            "textColor4": "36332e"
+        }
+    }
+}

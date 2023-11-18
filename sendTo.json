@@ -1,326 +1,350 @@
 {
-    "title": "Wishing Well",
-    "artist": "Juice WRLD",
-    "album": "Legends Never Die",
-    "release_date": "2020-07-10",
-    "description": "On \u201cWishing Well,\u201c the late rapper Juice WRLD discusses substance abuse and fame, dropping references to his drug of choice,  Percocet . Juice seemingly predicted his own demise on his June 2018  tribute  to  XXXTENTACION  and  Lil Peep , who also died young: On December 8, 2019, Juice WRLD suffered an  accidental overdose at Midway International Airport  in Chicago.",
+    "title": "Paranoid",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "release_date": "2018-04-27",
+    "description": "\u201cParanoid\u201d is the opening track to Post Malone\u2019s long-awaited  . He feels as if people could be manipulating him for his fame and fortune and begins taking more precautions to protect himself.",
     "lyrics_and_annotations": [
         {
-            "id": "4c246587-b862-4b4c-90b6-cc8da69dc8fb",
-            "lyric": "I can't breathe (Chopsquad), I can't breathe, 999",
-            "timestamp": 5.9,
+            "id": "862e9962-1663-4db4-a2ba-b6b1588bf0ee",
+            "lyric": "Never know when someone comes and tries to take my life",
+            "timestamp": 14.0,
+            "annotation": "Right from the beginning, it becomes clear that it is Post himself who is \u201cparanoid\u201d..45 caliber ammunition is typically used in handguns and pistols. Post raps that he used to sleep with a gun to defend himself from a potential threat, suggesting that he is fearful for his life and secu10_212rity."
+        },
+        {
+            "id": "d800cf83-993e-482f-9926-1d767864d92a",
+            "lyric": "I've been sleepin' with the .45 like every night",
+            "timestamp": 16.6,
             "annotation": null
         },
         {
-            "id": "fc66a452-bc49-4270-8566-aa75afea1e6c",
-            "lyric": "Waiting for the exhale",
-            "timestamp": 13.5,
+            "id": "8c46b557-b8bd-4546-bd2c-2fd2deb3173a",
+            "lyric": "In the whip, I pray to God I don't see flashin' lights",
+            "timestamp": 19.7,
+            "annotation": "Here, \u201cflashing lights\u201d may refer to the red and blue lights from a police cruiser, lights from the cameras used by the paparazzi, or even (since Post mentions praying to God) the stereotypical bright light some who\u2019ve had near-death experiences often report. This ties into other religious themes on beerbongs & bentleys, like on \u201cOver Now\u201d where Post sings:Ain\u2019t religious, only Christian when it\u2019s DiorOnly prayin' for the Amex and the gold"
+        },
+        {
+            "id": "654d4cb4-fe28-4cf2-aa6f-fd579f420400",
+            "lyric": "Goddamn, they right behind me",
+            "timestamp": 22.8,
             "annotation": null
         },
         {
-            "id": "f4325405-fad0-4103-8617-6b72fdc1c869",
-            "lyric": "I toss my pain with my wishes in a wishing well",
-            "timestamp": 18.6,
+            "id": "97faf722-03e1-4695-9913-ff39699c363e",
+            "lyric": "And I wake up everyday",
+            "timestamp": 25.8,
             "annotation": null
         },
         {
-            "id": "9e90675f-a179-445d-911d-c130efe5b52d",
+            "id": "fa018c20-533b-4c12-a828-6510058c89b7",
+            "lyric": "I wake up every day with this anxiety",
+            "timestamp": 27.6,
+            "annotation": "Post has shared that he struggles with anxiety. However, it is typical for \u2018creative geniuses\u2019 like Malone to suffer from conditions like anxiety and depression."
+        },
+        {
+            "id": "74bd8c6e-5ab5-4084-bd12-a41741d4b3c5",
+            "lyric": "And they know where I stay",
+            "timestamp": 31.2,
+            "annotation": null
+        },
+        {
+            "id": "159f1f85-6c1d-4747-bc4c-ded3487a2d1e",
+            "lyric": "Got \"Malone\" on my plates",
+            "timestamp": 33.4,
+            "annotation": null
+        },
+        {
+            "id": "0a988434-9c57-402d-a11a-ffb6116c5911",
+            "lyric": "And they followin' me",
+            "timestamp": 34.9,
+            "annotation": null
+        },
+        {
+            "id": "78c9942b-3619-4242-9136-736374a3a52a",
+            "lyric": "Two hundred bands under the floor of the kitchen",
+            "timestamp": 37.1,
+            "annotation": null
+        },
+        {
+            "id": "fdddb596-6452-4830-a53a-25a638ddba48",
+            "lyric": "A little more up in the walls and the ceilin'",
+            "timestamp": 39.6,
+            "annotation": null
+        },
+        {
+            "id": "9149d184-7127-4a01-9cfb-85beb993b5cd",
+            "lyric": "Even family and friends started switchin'",
+            "timestamp": 42.7,
+            "annotation": "Post is stating that people in his life close to him  and many social media haters have been switching up and constantly wanting him to fail. Post said he doesn\u2019t want everyone to think of him being a \u201crapper\u201d and that he is a artist stating."
+        },
+        {
+            "id": "039c914d-3d4f-4b57-a051-be41cff112b0",
+            "lyric": "Ever since I got that check, seen 'em itchin'",
+            "timestamp": 45.6,
+            "annotation": null
+        },
+        {
+            "id": "a72f4733-cb81-40e1-b994-37eb59b312c4",
+            "lyric": "Eyes open, I see you, I'm watchin' you",
+            "timestamp": 49.4,
+            "annotation": null
+        },
+        {
+            "id": "17518887-f1ca-47ba-a2b3-a805b87562b4",
             "lyric": "",
-            "timestamp": 23.0,
+            "timestamp": 52.8,
             "annotation": null
         },
         {
-            "id": "82785241-7de9-4d35-88a5-cd689b2ebf88",
-            "lyric": "I can't breathe, I'm waiting for the exhale",
-            "timestamp": 25.1,
+            "id": "96229821-3767-4dfb-859d-f242097ae6a9",
+            "lyric": "More people wanna be you, don't trust no one",
+            "timestamp": 55.4,
             "annotation": null
         },
         {
-            "id": "b7e5c851-81bd-4a46-a673-f1f52484f37d",
-            "lyric": "Toss my pain with my wishes in a wishing well",
-            "timestamp": 28.3,
+            "id": "b400fa52-58a3-48cd-9cba-b854ec94bf67",
+            "lyric": "Tell me why I can get no relief (I can't get no sleep)",
+            "timestamp": 60.7,
             "annotation": null
         },
         {
-            "id": "e477315d-ffd1-48fb-ac93-7fb9ee970b51",
-            "lyric": "Still no luck, but oh, well",
-            "timestamp": 31.1,
+            "id": "80e93835-26d0-419c-9406-77a23ed04518",
+            "lyric": "Wonderin' when they'll come for me",
+            "timestamp": 66.8,
             "annotation": null
         },
         {
-            "id": "e87cafda-94fc-49d4-8b88-5b2ae9c1c2fe",
-            "lyric": "I still try even though I know I'm gon' fail",
-            "timestamp": 34.8,
-            "annotation": null
-        },
-        {
-            "id": "37ab9d6d-f19e-4b17-b0ea-e4dfd8e9f539",
-            "lyric": "Stress on my shoulders like a anvil",
-            "timestamp": 38.2,
-            "annotation": null
-        },
-        {
-            "id": "4295b8cc-91e2-40b2-ae21-f9c63b8916dd",
-            "lyric": "Perky got me itching like a anthill",
-            "timestamp": 41.7,
-            "annotation": null
-        },
-        {
-            "id": "644a84e4-c864-47be-aab6-ab3cc25b1d64",
-            "lyric": "Drugs killing me softly, Lauryn Hill",
-            "timestamp": 44.5,
-            "annotation": null
-        },
-        {
-            "id": "a20f264b-247f-42b4-9a72-dbf2b2a0bdef",
-            "lyric": "Sometimes I don't know how to feel",
-            "timestamp": 47.5,
-            "annotation": "Juice refers to having mixed emotions as he enjoys the satisfaction of taking pills yet knowing that the drugs are slowly taking over him and killing him \u201csoftly. \u201cJuice has rapped about having two-sided feelings on his drug addiction multiple times, and expanded on how they help him feel more within the chorus of his March 2019 track, \u201cFeeling,\" where he raps:I got a feelingPercs help me feel it, I feel it, uhProblems, I numb and conceal themKinda like my feelings, but I still feel them"
-        },
-        {
-            "id": "7b117ff4-facb-4e9d-bf10-f28145383682",
-            "lyric": "Ring-ring, phone call from depression",
-            "timestamp": 50.8,
-            "annotation": null
-        },
-        {
-            "id": "74fc920e-253b-46c5-b8bb-e1a2477505d4",
-            "lyric": "You used my past and my memories as a weapon",
-            "timestamp": 53.8,
-            "annotation": "While experiencing depression, a person\u2019s negative memories can often feel even worse, as they tend to ruminate over and over again over tense times, making the symptoms worsen. In this hypothetical phone call, Juice speaks to his other main struggle, addiction."
-        },
-        {
-            "id": "6a136791-c8e9-40da-8784-9e0dc03177da",
-            "lyric": "On the other line, I talk to addiction, huh",
-            "timestamp": 57.2,
-            "annotation": "While experiencing depression, a person\u2019s negative memories can often feel even worse, as they tend to ruminate over and over again over tense times, making the symptoms worsen. In this hypothetical phone call, Juice speaks to his other main struggle, addiction."
-        },
-        {
-            "id": "ec23b0dd-b41a-46f7-ab32-89b757f9b4bf",
-            "lyric": "Speaking of the devil, all the drugs, I miss them",
-            "timestamp": 60.8,
-            "annotation": null
-        },
-        {
-            "id": "8afb844c-098e-4817-8b4b-825e071cf721",
-            "lyric": "This can't be real, is it fiction?",
-            "timestamp": 64.1,
-            "annotation": null
-        },
-        {
-            "id": "c683c35e-7f47-4bac-8204-de5dc1935751",
-            "lyric": "Somethin' feels broke, need to fix it",
-            "timestamp": 66.9,
-            "annotation": "The drugs have destroyed his life yet he isn\u2019t sure that is the issue because he is addicted."
-        },
-        {
-            "id": "a908a487-8768-4817-a941-2e2e5500b1bb",
-            "lyric": "I cry out for help, do they listen?",
-            "timestamp": 70.0,
-            "annotation": "Juice WRLD is often known for crying out through his music about his struggles with drug addiction \u2013 the struggle which ultimately took his life. As he often cried out in his music and to his fans, Jarad battled with prescription drug dependency and depression."
-        },
-        {
-            "id": "64ba3063-b0f4-4631-97c4-516cde01d755",
-            "lyric": "I'ma be alone until it's finished",
-            "timestamp": 73.8,
-            "annotation": "In this line, \u201cit\u2019s finished\u201d is regarding the drugs that he consumes, and that the finish will be when the drugs manage to kill him. Earlier in the line, he said \u201cI'ma be alone\u201d."
-        },
-        {
-            "id": "a3764ed0-660b-4746-9a3e-a2de55c96d3f",
-            "lyric": "This is the part where I tell you I'm fine, but I'm lyin'",
-            "timestamp": 76.8,
-            "annotation": null
-        },
-        {
-            "id": "075a1382-4382-47c1-a745-0f6fee6f7011",
-            "lyric": "I just don't want you to worry",
-            "timestamp": 80.6,
-            "annotation": null
-        },
-        {
-            "id": "d2129640-198c-4023-b2eb-defbb418d7a0",
-            "lyric": "This is the part where I take all my feelings and hide 'em",
-            "timestamp": 83.3,
-            "annotation": null
-        },
-        {
-            "id": "74675273-349f-45ff-a5d7-77887688e746",
-            "lyric": "'Cause I don't want nobody to hurt me",
-            "timestamp": 87.0,
-            "annotation": null
-        },
-        {
-            "id": "301f93a8-9a52-4e77-9cbb-0fea59203dc4",
-            "lyric": "I can't breathe, I'm waiting for the exhale",
-            "timestamp": 88.9,
-            "annotation": null
-        },
-        {
-            "id": "366ba668-4a79-4411-b397-470aaad373be",
-            "lyric": "Toss my pain with my wishes in a wishing well",
-            "timestamp": 92.4,
-            "annotation": null
-        },
-        {
-            "id": "83c8e3fd-ce47-49cc-8c90-8df93a86651c",
-            "lyric": "Still no luck, but oh, well",
-            "timestamp": 95.2,
-            "annotation": null
-        },
-        {
-            "id": "d165c76a-2d52-4b56-a327-e1aaef725b46",
-            "lyric": "I still try even though I know I'm gon' fail",
-            "timestamp": 98.5,
-            "annotation": null
-        },
-        {
-            "id": "20b39a3b-f200-460a-8020-977f3a1ad95c",
-            "lyric": "It's stress on my shoulders like a anvil",
-            "timestamp": 102.1,
-            "annotation": null
-        },
-        {
-            "id": "d3badbab-1fa4-46db-a4c8-f7efe45ae2d4",
-            "lyric": "Perky got me itching like a anthill",
-            "timestamp": 105.6,
-            "annotation": null
-        },
-        {
-            "id": "67275e9b-cd36-4de0-b5b2-57097f9cc839",
-            "lyric": "Drugs killing me softly, Lauryn Hill",
-            "timestamp": 108.5,
-            "annotation": null
-        },
-        {
-            "id": "6576ea08-fe03-4897-a465-3c314032e306",
-            "lyric": "Sometimes I don't know how to feel",
-            "timestamp": 111.5,
-            "annotation": "Juice refers to having mixed emotions as he enjoys the satisfaction of taking pills yet knowing that the drugs are slowly taking over him and killing him \u201csoftly. \u201cJuice has rapped about having two-sided feelings on his drug addiction multiple times, and expanded on how they help him feel more within the chorus of his March 2019 track, \u201cFeeling,\" where he raps:I got a feelingPercs help me feel it, I feel it, uhProblems, I numb and conceal themKinda like my feelings, but I still feel them"
-        },
-        {
-            "id": "3a239f40-f4ff-41c1-992e-38d3d8e57470",
-            "lyric": "Sometimes I don't know how to feel",
-            "timestamp": 114.8,
-            "annotation": "Juice refers to having mixed emotions as he enjoys the satisfaction of taking pills yet knowing that the drugs are slowly taking over him and killing him \u201csoftly. \u201cJuice has rapped about having two-sided feelings on his drug addiction multiple times, and expanded on how they help him feel more within the chorus of his March 2019 track, \u201cFeeling,\" where he raps:I got a feelingPercs help me feel it, I feel it, uhProblems, I numb and conceal themKinda like my feelings, but I still feel them"
-        },
-        {
-            "id": "3243d2bb-af03-418f-9030-841266114b29",
-            "lyric": "Let's be for real",
-            "timestamp": 118.1,
-            "annotation": null
-        },
-        {
-            "id": "02cf647a-34a4-48f5-bb4d-5cf1eae84840",
-            "lyric": "If it wasn't for the pills, I wouldn't be here",
-            "timestamp": 119.5,
-            "annotation": null
-        },
-        {
-            "id": "e1b8fcea-84f3-4250-9014-bc7b085b9cbf",
-            "lyric": "But if I keep taking these pills, I won't be here, yeah",
-            "timestamp": 122.6,
-            "annotation": null
-        },
-        {
-            "id": "b98818fc-6944-497d-aac0-ef45f1778917",
-            "lyric": "I just told y'all my secret, yeah",
-            "timestamp": 126.9,
-            "annotation": null
-        },
-        {
-            "id": "2b070e4a-5749-445a-b0e0-d1bf14f393bd",
-            "lyric": "It's tearing me to pieces",
-            "timestamp": 130.4,
-            "annotation": null
-        },
-        {
-            "id": "5847e7fc-b86d-4c08-a334-aa9ff6f59123",
-            "lyric": "I really think I need them",
-            "timestamp": 133.6,
-            "annotation": null
-        },
-        {
-            "id": "4da27f39-6aa8-4dee-bcd6-5d6330c201c8",
-            "lyric": "I stopped taking the drugs and now the drugs take me",
-            "timestamp": 137.5,
-            "annotation": null
-        },
-        {
-            "id": "463fe906-00c6-4d2e-84d0-95e35114a5e7",
-            "lyric": "This is the part where I tell you I'm fine, but I'm lyin'",
-            "timestamp": 140.8,
-            "annotation": null
-        },
-        {
-            "id": "638cd095-1d0f-4b62-bd81-f3fb22ab3baa",
-            "lyric": "I just don't want you to worry",
-            "timestamp": 144.5,
-            "annotation": null
-        },
-        {
-            "id": "f0ef76e5-57d5-4259-9339-ed4a31755980",
-            "lyric": "This is the part where I take all my feelings and hide 'em",
-            "timestamp": 147.2,
-            "annotation": null
-        },
-        {
-            "id": "d527d58a-ce11-44af-a937-f46703a3f4d0",
-            "lyric": "'Cause I don't want nobody to hurt me",
-            "timestamp": 151.1,
-            "annotation": null
-        },
-        {
-            "id": "707b5152-8f4b-4ddd-a03c-641cb67aa92b",
-            "lyric": "I can't breathe, I'm waiting for the exhale",
-            "timestamp": 153.2,
-            "annotation": null
-        },
-        {
-            "id": "a1d5cd22-af6f-4452-baef-402d842df8a4",
-            "lyric": "Toss my pain with my wishes in a wishing well",
-            "timestamp": 156.5,
-            "annotation": null
-        },
-        {
-            "id": "7ce350b2-c2c5-42ab-8314-6d21c1d00217",
-            "lyric": "Still no luck, but oh, well",
-            "timestamp": 159.2,
-            "annotation": null
-        },
-        {
-            "id": "7a2bcbf6-80e1-44ff-aa44-65b5a750aafb",
-            "lyric": "I still try even though I know I'm gon' fail",
-            "timestamp": 162.6,
-            "annotation": null
-        },
-        {
-            "id": "589a0f94-1870-4e8d-b4b8-bfabb977a274",
-            "lyric": "It's stress on my shoulders like a anvil",
-            "timestamp": 166.2,
-            "annotation": null
-        },
-        {
-            "id": "d19fa2dd-b573-4e86-95d6-e6fe2413b7c1",
-            "lyric": "Perky got me itching like a anthill",
-            "timestamp": 169.6,
-            "annotation": null
-        },
-        {
-            "id": "e6f6f2da-ae6e-4bb2-b2db-6dd4b499686e",
-            "lyric": "Drugs killing me softly, Lauryn Hill",
-            "timestamp": 172.5,
-            "annotation": null
-        },
-        {
-            "id": "d6f6880c-b73f-4efe-bb4e-620d89b4081b",
-            "lyric": "Sometimes I don't know how to feel",
-            "timestamp": 175.5,
-            "annotation": "Juice refers to having mixed emotions as he enjoys the satisfaction of taking pills yet knowing that the drugs are slowly taking over him and killing him \u201csoftly. \u201cJuice has rapped about having two-sided feelings on his drug addiction multiple times, and expanded on how they help him feel more within the chorus of his March 2019 track, \u201cFeeling,\" where he raps:I got a feelingPercs help me feel it, I feel it, uhProblems, I numb and conceal themKinda like my feelings, but I still feel them"
-        },
-        {
-            "id": "9d4b1f8d-8f2c-4c1e-b4cf-872b21e4b3f0",
+            "id": "bafd5f4e-07aa-47af-9b13-d037aff4bd65",
             "lyric": "",
-            "timestamp": 177.8,
+            "timestamp": 70.1,
+            "annotation": null
+        },
+        {
+            "id": "b6d8043c-1081-4c4b-a672-66d8b347a370",
+            "lyric": "A paranoid man makes paranoid plans",
+            "timestamp": 72.6,
+            "annotation": null
+        },
+        {
+            "id": "b2e130b8-0460-4af2-ae2f-f349e98d022e",
+            "lyric": "I do what I can, but it's out of my hands",
+            "timestamp": 75.7,
+            "annotation": null
+        },
+        {
+            "id": "2db03f19-e24f-4f48-bec0-7f567c661bcc",
+            "lyric": "Strugglin' just to find my peace",
+            "timestamp": 78.8,
+            "annotation": null
+        },
+        {
+            "id": "e17b04cb-88ef-4e14-9105-e7a2c5ce7a4d",
+            "lyric": "",
+            "timestamp": 82.1,
+            "annotation": null
+        },
+        {
+            "id": "ba8a21fb-3b07-4038-b713-af2812064070",
+            "lyric": "Sometimes feel like I got no friends",
+            "timestamp": 85.5,
+            "annotation": null
+        },
+        {
+            "id": "34bed8fb-ce7e-46c6-8783-fc852c316d44",
+            "lyric": "Can't trust a soul, like I'm Snowden",
+            "timestamp": 88.4,
+            "annotation": null
+        },
+        {
+            "id": "91762567-ccc4-4538-a5f4-812ee953adde",
+            "lyric": "Right by the bed, keep it loaded",
+            "timestamp": 91.3,
+            "annotation": null
+        },
+        {
+            "id": "3b6cb2da-c6fe-48b6-b2a9-68cd1b013fa2",
+            "lyric": "Lord, have mercy if they broke in",
+            "timestamp": 94.2,
+            "annotation": null
+        },
+        {
+            "id": "ebb5ce83-8595-40b7-9d4e-cb3a14efed0c",
+            "lyric": "I don't ever sleep, yeah, I'm wide awake",
+            "timestamp": 97.0,
+            "annotation": null
+        },
+        {
+            "id": "47f13783-0af0-4cf0-a3ff-7d1225c52d5b",
+            "lyric": "If you try to pull up to my place",
+            "timestamp": 99.5,
+            "annotation": null
+        },
+        {
+            "id": "ccb8950c-e4d8-4426-8649-f9e8ca63f4ad",
+            "lyric": "Beam is gonna hit you a mile away",
+            "timestamp": 102.6,
+            "annotation": null
+        },
+        {
+            "id": "70dae59b-c775-4219-925f-76cdcf83eea6",
+            "lyric": "I promise, one of us gonna die today",
+            "timestamp": 105.5,
+            "annotation": null
+        },
+        {
+            "id": "80b1ca28-d178-4a4d-9216-d942e2be762a",
+            "lyric": "Helicopters in the sky",
+            "timestamp": 108.4,
+            "annotation": null
+        },
+        {
+            "id": "1f3697cf-cb38-456d-9f08-07583641f55d",
+            "lyric": "No, he can't escape the eyes",
+            "timestamp": 111.1,
+            "annotation": null
+        },
+        {
+            "id": "a789e8e9-128c-4002-8a82-cfd02eaefcd9",
+            "lyric": "Politicians and the lies",
+            "timestamp": 114.0,
+            "annotation": null
+        },
+        {
+            "id": "04f40103-a409-49a1-93a6-5741cfc24f18",
+            "lyric": "Tell me, what's the point in pickin' sides?",
+            "timestamp": 117.0,
+            "annotation": null
+        },
+        {
+            "id": "747a62d3-efab-429a-a8f9-2b430af80b79",
+            "lyric": "Tell me why I can get no relief (I can't get no sleep)",
+            "timestamp": 120.2,
+            "annotation": null
+        },
+        {
+            "id": "feaa5fa4-5685-4ef5-ba14-82e974071fed",
+            "lyric": "Wonderin' when they'll come for me",
+            "timestamp": 126.7,
+            "annotation": null
+        },
+        {
+            "id": "1e8f5c05-7c40-46da-a74d-2c7aa214cf9b",
+            "lyric": "",
+            "timestamp": 130.0,
+            "annotation": null
+        },
+        {
+            "id": "47b05b60-75f9-4bbf-a835-c17a7fef44d9",
+            "lyric": "A paranoid man makes paranoid plans",
+            "timestamp": 132.7,
+            "annotation": null
+        },
+        {
+            "id": "11c21a58-0583-4c5f-8458-18f1833d0b9d",
+            "lyric": "I do what I can, but it's out of my hands",
+            "timestamp": 136.0,
+            "annotation": null
+        },
+        {
+            "id": "df0a9162-2ab2-4795-9bcd-63386b7ae32a",
+            "lyric": "Strugglin' just to find my peace",
+            "timestamp": 138.6,
+            "annotation": null
+        },
+        {
+            "id": "ce56e56c-54a9-4e23-b672-aa2db6ad669f",
+            "lyric": "",
+            "timestamp": 141.9,
+            "annotation": null
+        },
+        {
+            "id": "084db487-c447-4244-97aa-3a7bc5af6c55",
+            "lyric": "Ayy, mind is runnin' all day",
+            "timestamp": 145.4,
+            "annotation": null
+        },
+        {
+            "id": "fee0aa54-0eff-4637-a85f-2cb74417e655",
+            "lyric": "Cost me more than money and I'm payin' the price, yeah",
+            "timestamp": 147.8,
+            "annotation": null
+        },
+        {
+            "id": "33d1ea99-dc5e-42a5-a4a0-9cb19e64f3d0",
+            "lyric": "I ain't goin' nowhere",
+            "timestamp": 151.2,
+            "annotation": null
+        },
+        {
+            "id": "2c3bb72e-ee64-41a6-bf3e-18761dbe5d00",
+            "lyric": "Killin' myself so I can make me a life, yeah",
+            "timestamp": 153.6,
+            "annotation": null
+        },
+        {
+            "id": "7002005d-8666-432a-8134-5a49ecff6882",
+            "lyric": "Minute after minute, never had a limit",
+            "timestamp": 156.6,
+            "annotation": null
+        },
+        {
+            "id": "d6869c20-6002-4eb5-b561-83ebd6f7f277",
+            "lyric": "Woke up every mornin', knew that I just had to get it",
+            "timestamp": 159.9,
+            "annotation": null
+        },
+        {
+            "id": "e6b0e9e1-633d-4e54-b386-8dd4e6aa2aed",
+            "lyric": "Windows always tinted, you ain't lookin' in it",
+            "timestamp": 163.0,
+            "annotation": null
+        },
+        {
+            "id": "c237efd8-87d3-406b-876a-2a955759314a",
+            "lyric": "Either way, I know they'll come for me again",
+            "timestamp": 165.7,
+            "annotation": null
+        },
+        {
+            "id": "06f71068-ea3a-4018-81ba-96f0ccdb742a",
+            "lyric": "Tell me why I can get no relief (I can't get no sleep)",
+            "timestamp": 168.8,
+            "annotation": null
+        },
+        {
+            "id": "43d764a0-1d0b-4d5f-a631-0e993dcd25c9",
+            "lyric": "Wonderin' when they'll come for me",
+            "timestamp": 174.6,
+            "annotation": null
+        },
+        {
+            "id": "0342dfa7-29b9-40fd-9fb0-65d901478d33",
+            "lyric": "",
+            "timestamp": 178.1,
+            "annotation": null
+        },
+        {
+            "id": "010aaff7-a410-48cd-bdc5-8c3aaf3dd833",
+            "lyric": "A paranoid man makes paranoid plans",
+            "timestamp": 180.7,
+            "annotation": null
+        },
+        {
+            "id": "9ae2cc87-2d25-4e53-9bad-473883892980",
+            "lyric": "I do what I can, but it's out of my hands",
+            "timestamp": 183.6,
+            "annotation": null
+        },
+        {
+            "id": "fa97d6e4-f115-4179-a4f8-94f7e18c1a37",
+            "lyric": "Strugglin' just to find my peace",
+            "timestamp": 186.8,
+            "annotation": null
+        },
+        {
+            "id": "c19f038f-240c-46fb-bd50-bc2a372dc218",
+            "lyric": "",
+            "timestamp": 188.0,
             "annotation": null
         }
     ]

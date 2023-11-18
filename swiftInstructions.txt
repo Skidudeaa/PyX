@@ -1,0 +1,84 @@
+Here is an outline of your tasks and responsibilities for this swiftui project:
+### Objective:
+The primary goal of this project is to create a dynamic lyric display application using SwiftUI. The application needs to read from a JSON file containing song metadata, including song title, artist, album, release date, description, lyrics, annotations,  timestamps, background color to use (bgcolor), and 4 different text colors to use. (i will include a sample of the json data at the end of your instructions so you can incorperate the structure into your swiftui code).  Along with displaying the lyrics and annotations in real-time according to the timestamps synced with a timer that needs to start when the program starts, the app also needs to have a visually appealing design, with custom background and text colors based on the metadata. Additional UI elements like a progress view and a title view are also required for enhanced user experience. There is to be no user interaction. this is a set it and forget it program that will need to be run for each song the user wishes to listen to.
+
+### Components:
+1. **JSON Parsing**:
+    - The `Song`, `TextColors`, and `LyricsAndAnnotations` structs are to be created to model the JSON data structure.
+    - The `loadAndParseJSON()` function is to be implemented to read the `shortSong.json` file and parse it into a `Song` object.
+  
+2. **Dynamic Lyrics and Annotations Display**:
+    - A timer should be used to update the lyrics and annotations dynamically.
+    - The `updateLyrics()` function needs to be created to update the `currentLyric` and `currentAnnotation` based on the elapsed time and the timestamps in the JSON.
+
+3. **Custom ProgressView**:
+    - A SwiftUI `ProgressView` needs to be designed to show the progress of the song.
+    - It updates in real-time and uses one of the text colors from the JSON data (`textColors.textColor3`).
+
+4. **TitleView**:
+    - A custom `TitleView` will be created to display the song's title, artist, and album.
+    - This view also uses one of the text colors from the JSON data (`textColors.textColor4`).
+
+5. **Styling and Theming**:
+    - Uses the `bgColor` from the JSON to set the background color of the entire view.
+    - Text colors for lyrics and annotations are also fetched from the `textColors` in the JSON.
+
+### Technologies Used:
+- SwiftUI for the UI components.
+- Swift's Codable protocol for JSON decoding.
+- Timer for real-time updates.
+
+This project should successfully achieve its goals by combining SwiftUI's powerful UI capabilities with Swift's Codable for JSON parsing, and Timer for real-time updates. The result should be a dynamic, data-driven, and visually appealing lyric display application.
+
+Here is a sample of the JSON data that will be used in this project: "{
+    "title": "Fell in Love with a Girl",
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "release_date": "2002-04-23",
+    "description": "\u201cFell In Love With A Girl\u201d was released as the second single off of  White Blood Cells . The video for this song was one of the first  brickfilms  to get mainstream attention.",
+    "bgColor": "000000",
+    "textColors": {
+        "textColor1": "e4e8e9",
+        "textColor2": "d2b8a5",
+        "textColor3": "b6babb",
+        "textColor4": "a89384"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "9ea07291-f019-4c8f-9497-e490274f92cd",
+            "lyric": "Fell in love with a girl",
+            "timestamp": 5.0,
+            "annotation": "Jack White mentioned the following statement in a 2007 interview with GQ Magazine, which confirmed his appreciation for red-haired women. Karen ElsonThis personal preference manifested itself in his 8-year marriage to redhead model Karen Elson, whom he maintained a good relationship with even after the divorce was finalized."
+        },
+        {
+            "id": "c0aea0b5-9738-4155-b256-8e5c29a06721",
+            "lyric": "I fell in love once and almost completely",
+            "timestamp": 7.0,
+            "annotation": null
+        },
+        {
+            "id": "c93f96e2-882b-4e16-9457-2e8f2678b50e",
+            "lyric": "Red hair with a curl",
+            "timestamp": 15.0,
+            "annotation": null
+        },
+        {
+            "id": "c0f041d9-2d18-436c-884f-af34dafd763e",
+            "lyric": "Mello-Roll for the flavor and the eyes for peepin'",
+            "timestamp": 20.0,
+            "annotation": "They sit and eat Mello-Roll Ice cream, bizarre little roll-shaped ice cream cones. They\u2019ve been off the market for decades, so this is our best hint that this song is set when Jack White was very young."
+        },
+        {
+            "id": "d8d95a9a-06f9-4bf5-a4bb-ed9c5fd9165a",
+            "lyric": "Can't keep away from the girl",
+            "timestamp": 26.0,
+            "annotation": null
+        },
+        {
+            "id": "98408607-af2e-4f2d-b8c7-6b96d65be79d",
+            "lyric": "These two sides of my brain need to have a meeting",
+            "timestamp": 32.1,
+            "annotation": "The practical left brain and the intuitive, romantic right brain are at war with each other. He knows this relationship is a bad idea but he cannot stop himself; the internal conflict is tearing him apart and he needs to find a way to reconcile his contradictory feelings."
+                }
+    ]
+}"

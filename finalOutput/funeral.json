@@ -1,0 +1,166 @@
+{
+    "title": "The Funeral",
+    "artist": "Band of Horses",
+    "album": "Everything All the Time",
+    "release_date": "2006-05-21",
+    "description": "An image of the original hand-written lyrics was posted by Band of Horses to their Instagram account March 22, 2016, with caption:",
+    "bgColor": "343c17",
+    "textColors": {
+        "textColor1": "fffffd",
+        "textColor2": "c7cf92",
+        "textColor3": "d6d7ce",
+        "textColor4": "a9b27a"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "773d28c9-e623-4b5b-ae7a-60b140188914",
+            "lyric": "I'm coming up only to hold you under",
+            "timestamp": 7.1,
+            "annotation": "While often read as a reflection on the neverending process of grieving, Ben Bridwell has said in an interview that the song is about his dread of fake, empty social occasions \u2013 this line then could either stress his frustration at the omniprevalence of such occasions, or reinforcing that he would rather attend a billion-day funeral than have to participate. The original handwritten lyric sheets reads \u2018Every occasion through one billion ways funeral\u2019, with an underlying pencil \u2018days\u2019 having been"
+        },
+        {
+            "id": "cc2e999e-33fe-4c64-b889-a03ca47fad2f",
+            "lyric": "And coming up only to show you're wrong",
+            "timestamp": 31.1,
+            "annotation": null
+        },
+        {
+            "id": "719be23a-84e4-4425-aa5c-ca57bf24f67b",
+            "lyric": "And to know you is hard, we wonder",
+            "timestamp": 41.7,
+            "annotation": "This is an interesting lyric in which a simple addition of a punctuation mark could change the whole meaning of the lyric, and even of the whole song. Here, the lyric implies that Ben is not \u201cgolden\u201d, not a good person, and everything is wrong."
+        },
+        {
+            "id": "abd55d3b-a73c-4780-a070-e93f0afe1028",
+            "lyric": "To know you all wrong, we were",
+            "timestamp": 51.7,
+            "annotation": null
+        },
+        {
+            "id": "44f6fbe8-e9b6-4179-9e13-857457d23b4d",
+            "lyric": "Ooh, ooh",
+            "timestamp": 61.7,
+            "annotation": null
+        },
+        {
+            "id": "e25492ac-2516-4e58-b268-80f8f750ddca",
+            "lyric": "Ooh, ooh",
+            "timestamp": 64.1,
+            "annotation": null
+        },
+        {
+            "id": "66e362e1-2a49-40a9-923a-c97df8d8cfd9",
+            "lyric": "Really too late to call, so we wait for",
+            "timestamp": 81.9,
+            "annotation": "I love this double entendre, because the phrase \u201cmorning to wake you\u201d can also be interpreted as \u201cmourning to wake you\u201d and I personally go with that. Reason being the song is literally called \u201cthe funeral\u201d."
+        },
+        {
+            "id": "64812bac-162d-46c3-b235-39ba1d71739a",
+            "lyric": "Morning to wake you is all we got",
+            "timestamp": 87.6,
+            "annotation": null
+        },
+        {
+            "id": "0d0a71c0-55f7-4f86-8be7-04d0edd1b815",
+            "lyric": "But to know me as hardly golden",
+            "timestamp": 99.3,
+            "annotation": null
+        },
+        {
+            "id": "3998e74c-438f-4c07-8318-9c7f1716d906",
+            "lyric": "Is to know me all wrong, they were",
+            "timestamp": 110.8,
+            "annotation": null
+        },
+        {
+            "id": "1e3f6034-837c-4dd1-a700-55b90fe3522b",
+            "lyric": "At every occasion, I'll be ready for the funeral",
+            "timestamp": 120.0,
+            "annotation": "As referenced in a previous annotation, this song is really open to interpretation. We can compare the tree to someone who is providing help, and if the addict doesn\u2019t hang onto this person they may meet their fate."
+        },
+        {
+            "id": "d236a191-4ebb-4448-abae-e0688a6647aa",
+            "lyric": "At every occasion once more, it's called the funeral",
+            "timestamp": 130.6,
+            "annotation": null
+        },
+        {
+            "id": "760f3d11-fca3-446c-bc33-c226045ca85f",
+            "lyric": "At every occasion, oh, I'm ready for the funeral",
+            "timestamp": 143.5,
+            "annotation": "The bleak, almost biblical imagery of the dead leaves \u2013 with a suggestion of suicide \u2013 mirrors the singer\u2019s despair at the hollowness of the occasion."
+        },
+        {
+            "id": "39d3946a-536a-4268-b20c-21a1c175469a",
+            "lyric": "At every occasion of one billion day funeral",
+            "timestamp": 154.9,
+            "annotation": null
+        },
+        {
+            "id": "e136abc8-c54e-481f-bddb-b7d79debbf54",
+            "lyric": "I'm coming up only to you show you down for",
+            "timestamp": 168.7,
+            "annotation": "While this song is more or less open to interpretation, the perspective I took when struggling with my own affairs stuck with me. Think of this verse coming from the perspective of yourself or your family. The times you realize and face you are addicted are short and upsetting\u2013you keep feeding yourself lies which eventually succumb to the truth (at times). Eventually, (Verse 2 top two) your caring family/friends/else have no expectation and effort to assist you as you may be far beyond anyone\u2019s "
+        },
+        {
+            "id": "268baf81-8e13-4183-abd4-b7139b24a130",
+            "lyric": "And coming up only to you show you're wrong",
+            "timestamp": 177.8,
+            "annotation": null
+        },
+        {
+            "id": "a243e5b2-fc0a-4711-a93c-ad1cfdebf065",
+            "lyric": "To the outside, the dead leaves lay on the lawn",
+            "timestamp": 187.3,
+            "annotation": null
+        },
+        {
+            "id": "916c7b73-01f2-45c5-b351-4114d19fb180",
+            "lyric": "'Fore they died, and had trees to hang there upon",
+            "timestamp": 196.8,
+            "annotation": null
+        },
+        {
+            "id": "d270e38c-5a1a-4cfa-a378-de94d02ce6bd",
+            "lyric": "Ooh, ooh",
+            "timestamp": 204.3,
+            "annotation": null
+        },
+        {
+            "id": "5c08504c-04a7-4023-93b4-40e8e6a05908",
+            "lyric": "Ooh, ooh",
+            "timestamp": 219.5,
+            "annotation": null
+        },
+        {
+            "id": "df651d2e-acd4-4846-b7b0-cf3cd94fcc7b",
+            "lyric": "At every occasion, I'll be ready for the funeral",
+            "timestamp": 221.1,
+            "annotation": "I listened to this one driving up to my grandmother\u2019s funeral. It cries out the way that death strips us to the bone if we fully let it."
+        },
+        {
+            "id": "30615b60-296e-4a51-9563-f4f46d98482a",
+            "lyric": "At every occasion once more, it's called the funeral",
+            "timestamp": 222.2,
+            "annotation": null
+        },
+        {
+            "id": "501dc637-e75a-477b-8d27-6ce3e26ae5eb",
+            "lyric": "At every occasion, oh, I'm ready for the funeral",
+            "timestamp": 222.5,
+            "annotation": null
+        },
+        {
+            "id": "f47b77fd-8c97-4a7c-9f3a-e22b33d31989",
+            "lyric": "At every occasion of one billion day funeral",
+            "timestamp": 223.1,
+            "annotation": null
+        },
+        {
+            "id": "bc5d9c90-f904-4a8c-8f79-1fe9a2ddfaef",
+            "lyric": "",
+            "timestamp": 223.7,
+            "annotation": null
+        }
+    ]
+}

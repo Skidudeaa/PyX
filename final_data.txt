@@ -1,0 +1,382 @@
+{
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "release_date": "1976-12-08",
+    "description": "One of the most mysterious and widely speculated songs in rock history, \u201cHotel California\u201d is best described in the words of its creators. In response to the insinuation that the first working title of the song was \u201cMexican Reggae,\u201d Don Felder laughed and  responded: During the 58th Grammys in February 2016  the Eagles were presented with their Grammy  from 1977 for Album of the Year because they didn\u2019t attend the Grammys in \u201877.",
+    "bgColor": "23110f",
+    "textColors": {
+        "textColor1": "fcfecd",
+        "textColor2": "fff8ee",
+        "textColor3": "d1cfa7",
+        "textColor4": "d2c9c1"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "4af098c5-28b0-4166-98f0-bf10201644bb",
+            "lyric": "On a dark desert highway",
+            "timestamp": 52.7,
+            "annotation": null
+        },
+        {
+            "id": "937ff506-54c5-4302-b8e6-9585fff7eff6",
+            "lyric": "Cool wind in my hair",
+            "timestamp": 56.0,
+            "annotation": null
+        },
+        {
+            "id": "624c781a-dd8f-435d-95cc-69d1b15eaa59",
+            "lyric": "Warm smell of colitas",
+            "timestamp": 59.2,
+            "annotation": null
+        },
+        {
+            "id": "eb9525b2-ab94-4695-8172-771611850716",
+            "lyric": "Rising up through the air",
+            "timestamp": 62.4,
+            "annotation": null
+        },
+        {
+            "id": "dd1cb650-2f84-44a6-b6f6-dbf7d75578ca",
+            "lyric": "Up ahead in the distance",
+            "timestamp": 65.8,
+            "annotation": "\u201cShe\u201d  could be many things; an actual woman, a bad decision, his past, his future. Basically though the bottom line is that \u201cshe\u201d is bad news that looks very good."
+        },
+        {
+            "id": "ef651abe-8dee-49fa-addf-411d4da347d0",
+            "lyric": "I saw a shimmering light",
+            "timestamp": 68.8,
+            "annotation": null
+        },
+        {
+            "id": "16c12bb9-5d23-43b1-9459-91be6350f4ec",
+            "lyric": "My head grew heavy and my sight grew dim",
+            "timestamp": 72.0,
+            "annotation": null
+        },
+        {
+            "id": "7daa57a3-cb5a-4d2f-b467-0d829e5b7dbc",
+            "lyric": "I had to stop for the night",
+            "timestamp": 75.4,
+            "annotation": null
+        },
+        {
+            "id": "e153a9c3-5574-4e35-be49-00143aeec9af",
+            "lyric": "There she stood in the doorway",
+            "timestamp": 78.8,
+            "annotation": "The candle is probably referring to a cigarette. \u201c Or the narrator is painting the woman as some kind of Ariadne figure."
+        },
+        {
+            "id": "9bbe16ad-be8c-4c05-a384-74009f0b1f08",
+            "lyric": "I heard the mission bell",
+            "timestamp": 81.8,
+            "annotation": null
+        },
+        {
+            "id": "bea296d5-4a83-4cc6-98cc-3b4e7285c3f2",
+            "lyric": "And I was thinkin' to myself",
+            "timestamp": 85.5,
+            "annotation": null
+        },
+        {
+            "id": "fd379982-6bf9-4397-a855-5bd47f8e3e15",
+            "lyric": "\"This could be heaven or this could be hell\"",
+            "timestamp": 87.6,
+            "annotation": null
+        },
+        {
+            "id": "10e6b224-1f55-4512-92e5-e458686d79f9",
+            "lyric": "Then she lit up a candle",
+            "timestamp": 91.7,
+            "annotation": null
+        },
+        {
+            "id": "4552db06-336a-4656-9c9a-1d19f6fb9851",
+            "lyric": "And she showed me the way",
+            "timestamp": 95.1,
+            "annotation": null
+        },
+        {
+            "id": "7b07a4e9-6028-499d-94c2-f18c7e9ffe96",
+            "lyric": "There were voices down the corridor",
+            "timestamp": 98.2,
+            "annotation": null
+        },
+        {
+            "id": "56e59832-ff49-4fc6-946b-1d95da6dab2d",
+            "lyric": "I thought I heard them say",
+            "timestamp": 101.2,
+            "annotation": null
+        },
+        {
+            "id": "fdfe7659-0ccd-4025-928d-457fe2c6aa9a",
+            "lyric": "\"Welcome to the Hotel California",
+            "timestamp": 104.9,
+            "annotation": null
+        },
+        {
+            "id": "591381ad-45f4-40a5-9ff1-2b65423ebc86",
+            "lyric": "Such a lovely place (such a lovely place)",
+            "timestamp": 110.5,
+            "annotation": "Everyone assumes that the music industry is fantastic once you make it, but in reality there are many negative aspects that can lure you in (drugs, alcohol, women, among other vices). Such a lovely place is used symbolic of the escapism that comes along with it all."
+        },
+        {
+            "id": "8ca33a60-c698-475e-b306-39ae46e1f0a2",
+            "lyric": "Such a lovely face",
+            "timestamp": 113.7,
+            "annotation": null
+        },
+        {
+            "id": "e11858fe-8adb-46cd-a1fc-00a066a6c8cb",
+            "lyric": "Plenty of room at the Hotel California",
+            "timestamp": 117.4,
+            "annotation": null
+        },
+        {
+            "id": "8980bb08-5485-4b99-8c4b-e517f49f0818",
+            "lyric": "Any time of year (any time of year)",
+            "timestamp": 123.7,
+            "annotation": null
+        },
+        {
+            "id": "6c07460e-9aec-4528-85b7-a8331a3a31ef",
+            "lyric": "You can find it here\"",
+            "timestamp": 126.9,
+            "annotation": null
+        },
+        {
+            "id": "0b9537e0-8e2d-482e-abee-3a97f1139fdc",
+            "lyric": "Her mind is Tiffany-twisted",
+            "timestamp": 130.7,
+            "annotation": "Tiffany twisted is a reference to the Tiffany\u2019s jewelry shop. He is refering to a wealthy, bejeweled, and glamourous woman who, like the bow around the box, has her mind tied up in the materialism of the life of luxury."
+        },
+        {
+            "id": "64a90418-f56f-4c88-8e16-5650900aef0d",
+            "lyric": "She got the Mercedes-Benz, uh",
+            "timestamp": 133.9,
+            "annotation": null
+        },
+        {
+            "id": "87101891-acb9-40db-afc7-64fc2a15dd2c",
+            "lyric": "She got a lot of pretty, pretty boys",
+            "timestamp": 137.2,
+            "annotation": null
+        },
+        {
+            "id": "eeeac57c-cca8-40c1-a284-74ebb4f8de29",
+            "lyric": "That she calls friends",
+            "timestamp": 140.9,
+            "annotation": null
+        },
+        {
+            "id": "4bea0c4f-9a70-49cc-a8ed-cd3ae0fffbd4",
+            "lyric": "How they dance in the courtyard",
+            "timestamp": 144.0,
+            "annotation": null
+        },
+        {
+            "id": "201cce95-b30a-47d3-905b-5673719e9b8d",
+            "lyric": "Sweet summer sweat",
+            "timestamp": 146.8,
+            "annotation": null
+        },
+        {
+            "id": "c821a584-5c13-413f-bc33-c1359ead2fdc",
+            "lyric": "Some dance to remember",
+            "timestamp": 150.3,
+            "annotation": null
+        },
+        {
+            "id": "f266d786-00ad-4189-96f8-c6865e0527bf",
+            "lyric": "Some dance to forget",
+            "timestamp": 153.6,
+            "annotation": null
+        },
+        {
+            "id": "cb993478-1ec6-498e-9813-2cb2c178be2a",
+            "lyric": "So I called up the Captain",
+            "timestamp": 156.9,
+            "annotation": null
+        },
+        {
+            "id": "3a9b5e7a-5ea6-4dc0-8164-79b7549d96d2",
+            "lyric": "\"Please bring me my wine\"",
+            "timestamp": 159.9,
+            "annotation": null
+        },
+        {
+            "id": "aa92efb6-cb1c-4fb2-ab78-455a271f4ea5",
+            "lyric": "He said, \"We haven't had that spirit here",
+            "timestamp": 162.5,
+            "annotation": null
+        },
+        {
+            "id": "123fa25b-af41-49de-ad5e-7b2aec216c12",
+            "lyric": "Since 1969\"",
+            "timestamp": 166.0,
+            "annotation": null
+        },
+        {
+            "id": "6818640b-e062-4766-bafe-2cb345cad480",
+            "lyric": "And still, those voices are calling",
+            "timestamp": 170.2,
+            "annotation": null
+        },
+        {
+            "id": "0fee3dc3-c292-4359-a153-8f1e033b0b83",
+            "lyric": "From far away",
+            "timestamp": 172.6,
+            "annotation": null
+        },
+        {
+            "id": "f7f868aa-f853-4eba-b88f-f125e8453e44",
+            "lyric": "Wake you up in the middle of the night",
+            "timestamp": 176.5,
+            "annotation": null
+        },
+        {
+            "id": "b63ce2c4-9f39-4f6c-b892-bf4338f5ce8e",
+            "lyric": "Just to hear them say",
+            "timestamp": 179.8,
+            "annotation": null
+        },
+        {
+            "id": "230148e0-a0eb-4a87-be70-168ae3f37350",
+            "lyric": "\"Welcome to the Hotel California",
+            "timestamp": 183.0,
+            "annotation": null
+        },
+        {
+            "id": "fea828f4-e6b8-4d5c-9724-fc8b96aae8fd",
+            "lyric": "Such a lovely place (such a lovely place)",
+            "timestamp": 188.8,
+            "annotation": null
+        },
+        {
+            "id": "875905f4-2af7-4138-ab5f-0ed8df9f4a77",
+            "lyric": "Such a lovely face",
+            "timestamp": 192.0,
+            "annotation": null
+        },
+        {
+            "id": "c5df4286-3bf5-4496-be5f-79e1476cce71",
+            "lyric": "They're livin' it up at the Hotel California",
+            "timestamp": 195.5,
+            "annotation": null
+        },
+        {
+            "id": "2ea0caf3-4d0d-4f22-afbc-eb5897bf77ce",
+            "lyric": "What a nice surprise (what a nice surprise)",
+            "timestamp": 202.0,
+            "annotation": null
+        },
+        {
+            "id": "a9a60532-340c-4e79-af4b-ac945affc2a7",
+            "lyric": "Bring your alibis\"",
+            "timestamp": 205.2,
+            "annotation": null
+        },
+        {
+            "id": "426b1823-f7b1-4ca0-8509-b4e43cc94599",
+            "lyric": "Mirrors on the ceiling",
+            "timestamp": 209.2,
+            "annotation": null
+        },
+        {
+            "id": "4711b88f-7a61-408c-b50c-6d0eb47e5c72",
+            "lyric": "The pink champagne on ice",
+            "timestamp": 212.3,
+            "annotation": null
+        },
+        {
+            "id": "9f264a24-b9b1-452b-9cce-d84813b89c9c",
+            "lyric": "And she said, \"We are all just prisoners here",
+            "timestamp": 214.5,
+            "annotation": null
+        },
+        {
+            "id": "f3385388-c1b2-4517-962e-048836eab928",
+            "lyric": "Of our own device\"",
+            "timestamp": 218.9,
+            "annotation": null
+        },
+        {
+            "id": "92880c58-a92f-49da-8f3f-95b37707b4c7",
+            "lyric": "And in the master's chambers",
+            "timestamp": 222.2,
+            "annotation": "There is an uncanny spookiness that goes with these lyrics. Master, chamber, and feast, are all words associated with high class things."
+        },
+        {
+            "id": "6781a139-2ce5-40d3-8afd-6a8b8afb518a",
+            "lyric": "They gathered for the feast",
+            "timestamp": 225.3,
+            "annotation": null
+        },
+        {
+            "id": "507a6b0a-79a6-4bdb-9d72-0c1699673f10",
+            "lyric": "They stab it with their steely knives",
+            "timestamp": 228.5,
+            "annotation": null
+        },
+        {
+            "id": "abf52ab4-b2c8-4d64-b3fb-51843a025bc5",
+            "lyric": "But they just can't kill the beast",
+            "timestamp": 231.3,
+            "annotation": null
+        },
+        {
+            "id": "45f34c31-dd9e-416b-8b4b-41cd92e1073a",
+            "lyric": "Last thing I remember",
+            "timestamp": 235.2,
+            "annotation": null
+        },
+        {
+            "id": "349f5ebf-651b-4c0e-bdfb-5540cc9f96a3",
+            "lyric": "I was running for the door",
+            "timestamp": 237.7,
+            "annotation": null
+        },
+        {
+            "id": "404d4d74-351c-4b0d-a432-b12b1abb46e7",
+            "lyric": "I had to find the passage back",
+            "timestamp": 242.0,
+            "annotation": null
+        },
+        {
+            "id": "b6a17412-568c-4a7f-9327-465bcea065d3",
+            "lyric": "To the place I was before",
+            "timestamp": 244.2,
+            "annotation": null
+        },
+        {
+            "id": "175c0340-6ddf-4695-a311-4cf5e5bb2ba6",
+            "lyric": "\"Relax,\" said the night man",
+            "timestamp": 248.1,
+            "annotation": "The image of the night man is that of an overnight guard, but he represents the part of the protagonist that wants to stay and continue partying. Alternately, in biochemistry, cells of the body can communicate by binding chemical signals to a \u2018receptor\u2019 on the cell."
+        },
+        {
+            "id": "73f0d96e-25d2-49e4-91cb-a1ead2cb43c6",
+            "lyric": "\"We are programmed to receive",
+            "timestamp": 250.7,
+            "annotation": null
+        },
+        {
+            "id": "52abfb8d-9829-46dd-9027-cc225a5dd636",
+            "lyric": "You can check out any time you like",
+            "timestamp": 254.7,
+            "annotation": null
+        },
+        {
+            "id": "d21cbec9-17f5-447c-983b-2d2435fbc166",
+            "lyric": "But you can never leave!\"",
+            "timestamp": 257.8,
+            "annotation": null
+        },
+        {
+            "id": "739b37c8-e0c3-40fa-a318-4a08f59ce736",
+            "lyric": "",
+            "timestamp": 260.3,
+            "annotation": null
+        }
+    ]
+}

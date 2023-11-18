@@ -1,0 +1,298 @@
+{
+    "title": "Spies",
+    "artist": "Coldplay",
+    "album": "Parachutes",
+    "release_date": "2000-07-10",
+    "description": "The song was inspired by the band\u2019s love of the James Bond films and longtime composer John Barry \u2013  The World is Not Enough  was also in production at the time of the song\u2019s writing.",
+    "bgColor": "000000",
+    "textColors": {
+        "textColor1": "e9a84c",
+        "textColor2": "df8f39",
+        "textColor3": "bb863d",
+        "textColor4": "b3722e"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "ae60cb07-afd8-4d60-ba7a-2e35e6155da5",
+            "lyric": "I awake to find no peace of mind",
+            "timestamp": 24.8,
+            "annotation": null
+        },
+        {
+            "id": "cb20f3e1-61a8-4a26-85e3-e59149176793",
+            "lyric": "I said, \"How do you live as a fugitive down here\"",
+            "timestamp": 30.3,
+            "annotation": "PROPOSED SUGGESTION:I think it\u2019s about how we are all running from something \u2013 our weaknesses, our demons. The paranoia of having spies everywhere might alternatively imply that we all pick on each other\u2019s weaknesses to push ourselves forward, thus we all live in fear; never free our true selves."
+        },
+        {
+            "id": "7afffad4-b581-40e4-ab75-909c4868417d",
+            "lyric": "\"Where I cannot see so clear?\"",
+            "timestamp": 39.5,
+            "annotation": null
+        },
+        {
+            "id": "f1da8d61-7c8d-45f1-8efe-1907895dce1b",
+            "lyric": "I said, \"What do I know?\"",
+            "timestamp": 44.0,
+            "annotation": null
+        },
+        {
+            "id": "9655eb85-efc9-435c-a245-a4dbc1a24e0b",
+            "lyric": "\"Show me the right way to go\"",
+            "timestamp": 47.5,
+            "annotation": null
+        },
+        {
+            "id": "9b39840f-94ae-41cc-bb4f-7796083985bf",
+            "lyric": "And the spies came out of the water",
+            "timestamp": 51.4,
+            "annotation": null
+        },
+        {
+            "id": "6204753d-384b-49e8-93e3-cd10874cfa4c",
+            "lyric": "But you're feeling so bad 'cause you know",
+            "timestamp": 58.0,
+            "annotation": null
+        },
+        {
+            "id": "47131281-617b-4d89-bb59-7f3a759aa47f",
+            "lyric": "That the spies hide out in every corner",
+            "timestamp": 64.8,
+            "annotation": null
+        },
+        {
+            "id": "1abcd181-c496-4ab4-a75c-97c6285eb45b",
+            "lyric": "But you can't touch them, no",
+            "timestamp": 70.7,
+            "annotation": null
+        },
+        {
+            "id": "0ca2977e-8d41-488e-9acf-e1817aa233b2",
+            "lyric": "'Cause they're all spies",
+            "timestamp": 74.7,
+            "annotation": null
+        },
+        {
+            "id": "c7c3aada-de7f-43c9-b69b-7ad654e42985",
+            "lyric": "",
+            "timestamp": 81.7,
+            "annotation": null
+        },
+        {
+            "id": "2c03a2a7-6136-47c3-828b-fd03b8d9522e",
+            "lyric": "They're all spies",
+            "timestamp": 88.2,
+            "annotation": null
+        },
+        {
+            "id": "3eaffdaa-92d6-4f75-a8ad-9b5e2f0ba02d",
+            "lyric": "",
+            "timestamp": 95.1,
+            "annotation": null
+        },
+        {
+            "id": "abe180db-5e87-470a-80fd-728e04fe429c",
+            "lyric": "I awake to see that no one is free",
+            "timestamp": 104.6,
+            "annotation": null
+        },
+        {
+            "id": "462cbe0f-09f9-437b-8b02-fe2219856c16",
+            "lyric": "We're all fugitives, look at the way we live down here",
+            "timestamp": 110.0,
+            "annotation": null
+        },
+        {
+            "id": "7e49f603-fd6c-4743-89d9-1c24e983e0e1",
+            "lyric": "I cannot sleep from fear, no",
+            "timestamp": 118.8,
+            "annotation": null
+        },
+        {
+            "id": "c868caf7-509f-4908-b1ee-f8d9e32dd5a5",
+            "lyric": "I said, \"Which way do I turn?\"",
+            "timestamp": 122.9,
+            "annotation": null
+        },
+        {
+            "id": "8c3d1ae7-cafd-485c-9def-271c28a1650d",
+            "lyric": "Oh, I forget everything I learn",
+            "timestamp": 126.5,
+            "annotation": null
+        },
+        {
+            "id": "114b7ca4-c513-44bf-b59f-67ec9562ec7b",
+            "lyric": "And the spies came out of the water",
+            "timestamp": 129.9,
+            "annotation": null
+        },
+        {
+            "id": "0ed8bf09-cbf7-4b9a-a033-2c984d1340fb",
+            "lyric": "And you're feeling so bad 'cause you know",
+            "timestamp": 136.4,
+            "annotation": null
+        },
+        {
+            "id": "e163ab7f-b388-4bde-a101-f2a93d9cf862",
+            "lyric": "That the spies hide out in every corner",
+            "timestamp": 143.1,
+            "annotation": null
+        },
+        {
+            "id": "2a71bad5-e772-4ffc-a51d-c1a1ca707e7b",
+            "lyric": "But you can't touch them, no",
+            "timestamp": 149.3,
+            "annotation": null
+        },
+        {
+            "id": "e0303ee2-879a-4aee-9985-04b8d6fc7786",
+            "lyric": "'Cause they're all spies",
+            "timestamp": 153.3,
+            "annotation": null
+        },
+        {
+            "id": "da9ee17c-8afa-4823-98c1-afffbaa9cc09",
+            "lyric": "",
+            "timestamp": 159.9,
+            "annotation": null
+        },
+        {
+            "id": "9733bae3-2fa0-449e-8c22-91a70803d8a5",
+            "lyric": "They're all spies",
+            "timestamp": 166.8,
+            "annotation": null
+        },
+        {
+            "id": "9348702b-9d39-48da-8c85-2b2b8e3017c5",
+            "lyric": "",
+            "timestamp": 171.2,
+            "annotation": null
+        },
+        {
+            "id": "25ad5304-0750-41be-bd45-87968cb49288",
+            "lyric": "And if we don't hide here",
+            "timestamp": 184.0,
+            "annotation": null
+        },
+        {
+            "id": "c884c0c4-f8f3-41fb-9695-3e04a35851c1",
+            "lyric": "They're gonna find us",
+            "timestamp": 187.0,
+            "annotation": null
+        },
+        {
+            "id": "5b74f938-7449-4b23-9dbf-325bdf8a06e7",
+            "lyric": "And if we don't hide now",
+            "timestamp": 190.3,
+            "annotation": null
+        },
+        {
+            "id": "7c121e9b-f6ff-4afc-81b0-ca2a3594e6d0",
+            "lyric": "They're gonna catch us where we sleep",
+            "timestamp": 193.5,
+            "annotation": null
+        },
+        {
+            "id": "6ef80f3c-a4f7-4bed-92b3-c1490108d872",
+            "lyric": "Ah, and if we don't hide here",
+            "timestamp": 196.5,
+            "annotation": null
+        },
+        {
+            "id": "353b7ec0-9fd0-4db6-9ed7-60aabd1f03b9",
+            "lyric": "They're gonna find us",
+            "timestamp": 199.9,
+            "annotation": null
+        },
+        {
+            "id": "f5251837-6892-431f-8ecf-4e7e042b53c1",
+            "lyric": "",
+            "timestamp": 207.9,
+            "annotation": null
+        },
+        {
+            "id": "aa95e08c-3478-443e-bae0-9a30c65e589e",
+            "lyric": "And the spies came out of the water",
+            "timestamp": 233.3,
+            "annotation": null
+        },
+        {
+            "id": "0e58a9d1-cf3a-4549-85e0-ae8093336e07",
+            "lyric": "But you're feeling so good 'cause you know",
+            "timestamp": 239.9,
+            "annotation": null
+        },
+        {
+            "id": "075c4a11-971f-4314-a9e6-53dd9fafa072",
+            "lyric": "That those spies hide out in every corner",
+            "timestamp": 246.5,
+            "annotation": null
+        },
+        {
+            "id": "50bf988a-34d4-4d67-a570-e5984b33bcdf",
+            "lyric": "They can't touch you, no",
+            "timestamp": 253.0,
+            "annotation": null
+        },
+        {
+            "id": "29075205-e2f3-42b4-b6ae-0a4e02f8afa8",
+            "lyric": "'Cause they're just spies",
+            "timestamp": 256.9,
+            "annotation": null
+        },
+        {
+            "id": "59d181bd-16a8-4f77-a34f-9d4ef671c3b7",
+            "lyric": "",
+            "timestamp": 264.0,
+            "annotation": null
+        },
+        {
+            "id": "a9469d92-af42-477d-ae7c-de10d5b74d3d",
+            "lyric": "They're just spies",
+            "timestamp": 270.4,
+            "annotation": null
+        },
+        {
+            "id": "f4a175d1-63c3-41a1-b17b-e9bf95b4a4b4",
+            "lyric": "",
+            "timestamp": 279.2,
+            "annotation": null
+        },
+        {
+            "id": "224e4ee8-21e2-4ea8-ac70-11620019f7bf",
+            "lyric": "They're just spies",
+            "timestamp": 283.3,
+            "annotation": null
+        },
+        {
+            "id": "9c02f42e-8d19-47b4-8733-420b31298dda",
+            "lyric": "",
+            "timestamp": 289.0,
+            "annotation": null
+        },
+        {
+            "id": "fdb6533f-43ab-47d7-833f-4837f972544b",
+            "lyric": "They're just spies",
+            "timestamp": 296.4,
+            "annotation": null
+        },
+        {
+            "id": "5df876ac-fc8e-4723-845b-ede6d8dd7ec2",
+            "lyric": "",
+            "timestamp": 302.0,
+            "annotation": null
+        },
+        {
+            "id": "63d06aab-7526-4974-b1ba-4ee17b0d7ca6",
+            "lyric": "They're just spies",
+            "timestamp": 309.2,
+            "annotation": null
+        },
+        {
+            "id": "8088beef-bab9-4ab0-919a-7e0745f74a4a",
+            "lyric": "",
+            "timestamp": 313.1,
+            "annotation": null
+        }
+    ]
+}

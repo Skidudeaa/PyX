@@ -1,0 +1,334 @@
+{
+    "title": "Wishing Well",
+    "artist": "Juice WRLD",
+    "album": "Legends Never Die",
+    "release_date": "2020-07-10",
+    "description": "On \u201cWishing Well,\u201c the late rapper Juice WRLD discusses substance abuse and fame, dropping references to his drug of choice,  Percocet . Juice seemingly predicted his own demise on his June 2018  tribute  to  XXXTENTACION  and  Lil Peep , who also died young: On December 8, 2019, Juice WRLD suffered an  accidental overdose at Midway International Airport  in Chicago.",
+    "bgColor": "543763",
+    "textColors": {
+        "textColor1": "fff9cb",
+        "textColor2": "f5bdb5",
+        "textColor3": "dcd2b6",
+        "textColor4": "d5a2a5"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "3bd5ca4f-0649-457e-b927-e2aa6a0cda8b",
+            "lyric": "I can't breathe (Chopsquad), I can't breathe, 999",
+            "timestamp": 5.9,
+            "annotation": ""
+        },
+        {
+            "id": "21b25f9b-09c2-4a37-8083-2d5b66d88bdd",
+            "lyric": "Waiting for the exhale",
+            "timestamp": 13.5,
+            "annotation": null
+        },
+        {
+            "id": "421ad729-f81f-443e-8180-ec4457a4c8ec",
+            "lyric": "I toss my pain with my wishes in a wishing well",
+            "timestamp": 18.6,
+            "annotation": "In this line, \u201cit\u2019s finished\u201d is regarding the drugs that he consumes, and that the finish will be when the drugs manage to kill him. Earlier in the line, he said \u201cI'ma be alone\u201d."
+        },
+        {
+            "id": "2b55db17-0b9b-4d39-8638-c10a20d94827",
+            "lyric": "",
+            "timestamp": 23.0,
+            "annotation": null
+        },
+        {
+            "id": "c1f6edbc-ed80-468e-87e2-3f008f16af52",
+            "lyric": "I can't breathe, I'm waiting for the exhale",
+            "timestamp": 25.1,
+            "annotation": "Juice WRLD is often known for crying out through his music about his struggles with drug addiction \u2013 the struggle which ultimately took his life. As he often cried out in his music and to his fans, Jarad battled with prescription drug dependency and depression."
+        },
+        {
+            "id": "06d2b52f-9bc1-4407-b895-5688834fe182",
+            "lyric": "Toss my pain with my wishes in a wishing well",
+            "timestamp": 28.3,
+            "annotation": null
+        },
+        {
+            "id": "3d9ae95d-772e-4ac5-b228-d2e049bf77ff",
+            "lyric": "Still no luck, but oh, well",
+            "timestamp": 31.1,
+            "annotation": "Juice refers to having mixed emotions as he enjoys the satisfaction of taking pills yet knowing that the drugs are slowly taking over him and killing him \u201csoftly. \u201cJuice has rapped about having two-sided feelings on his drug addiction multiple times, and expanded on how they help him feel more within the chorus of his March 2019 track, \u201cFeeling,\" where he raps:I got a feelingPercs help me feel it,"
+        },
+        {
+            "id": "9f20df27-58c0-453c-bb9a-8e244cc0e5fd",
+            "lyric": "I still try even though I know I'm gon' fail",
+            "timestamp": 34.8,
+            "annotation": null
+        },
+        {
+            "id": "58142ed6-866a-43fe-9157-0708537ac3e7",
+            "lyric": "Stress on my shoulders like a anvil",
+            "timestamp": 38.2,
+            "annotation": null
+        },
+        {
+            "id": "377df400-671d-4c21-b85c-faba66e4b681",
+            "lyric": "Perky got me itching like a anthill",
+            "timestamp": 41.7,
+            "annotation": "The drugs have destroyed his life yet he isn\u2019t sure that is the issue because he is addicted."
+        },
+        {
+            "id": "2d0973f6-bb62-405a-a63c-a4d33fefa522",
+            "lyric": "Drugs killing me softly, Lauryn Hill",
+            "timestamp": 44.5,
+            "annotation": null
+        },
+        {
+            "id": "b2507d30-54e6-4f2a-9a17-822cbcd648d4",
+            "lyric": "Sometimes I don't know how to feel",
+            "timestamp": 47.5,
+            "annotation": "In this line juice wrld is showing the feeling of apathy"
+        },
+        {
+            "id": "0139e08e-3877-4778-92d0-ef57f4eed97d",
+            "lyric": "Ring-ring, phone call from depression",
+            "timestamp": 50.8,
+            "annotation": null
+        },
+        {
+            "id": "9093aae5-4b38-4d98-853e-e311fccc18a9",
+            "lyric": "You used my past and my memories as a weapon",
+            "timestamp": 53.8,
+            "annotation": "While experiencing depression, a person\u2019s negative memories can often feel even worse, as they tend to ruminate over and over again over tense times, making the symptoms worsen. In this hypothetical phone call, Juice speaks to his other main struggle, addiction."
+        },
+        {
+            "id": "c91242e6-ab29-4287-afaa-bc36939fc107",
+            "lyric": "On the other line, I talk to addiction, huh",
+            "timestamp": 57.2,
+            "annotation": null
+        },
+        {
+            "id": "15f9a76d-00a1-453d-834a-c950c4898687",
+            "lyric": "Speaking of the devil, all the drugs, I miss them",
+            "timestamp": 60.8,
+            "annotation": null
+        },
+        {
+            "id": "ccc333d6-a8ed-4d8c-9460-e7de2ca3909c",
+            "lyric": "This can't be real, is it fiction?",
+            "timestamp": 64.1,
+            "annotation": null
+        },
+        {
+            "id": "224ec39f-bf5d-4fb0-8ef5-73f4ee6a837c",
+            "lyric": "Somethin' feels broke, need to fix it",
+            "timestamp": 66.9,
+            "annotation": null
+        },
+        {
+            "id": "30a8452b-cacb-4115-99be-fb728019351a",
+            "lyric": "I cry out for help, do they listen?",
+            "timestamp": 70.0,
+            "annotation": null
+        },
+        {
+            "id": "9737be63-e089-4122-ab1c-496972b04871",
+            "lyric": "I'ma be alone until it's finished",
+            "timestamp": 73.8,
+            "annotation": null
+        },
+        {
+            "id": "cabb7e3e-91ac-4375-b639-18f5440b689b",
+            "lyric": "This is the part where I tell you I'm fine, but I'm lyin'",
+            "timestamp": 76.8,
+            "annotation": "The pre-chorus notes Juice\u2019s struggles with showing his feelings and insecurities, which is an issue he\u2019s discussed numerous times prior \u2013 in both his music and on social media. For example, in his March 2019 hit \u201cFeeling,\u201c he similarly sang:Problems, I numb and conceal themKinda like my feelings, but I still feel themAnd in October 2018, he tweeted out:Step into my mind and body for 10 seconds I "
+        },
+        {
+            "id": "8132d20d-4302-4405-9839-616e4b57ca15",
+            "lyric": "I just don't want you to worry",
+            "timestamp": 80.6,
+            "annotation": null
+        },
+        {
+            "id": "492b2e18-4cc6-4ad9-be0d-2ca91069b6b5",
+            "lyric": "This is the part where I take all my feelings and hide 'em",
+            "timestamp": 83.3,
+            "annotation": null
+        },
+        {
+            "id": "97586ed1-58fa-4067-91d1-39d8e3a4b431",
+            "lyric": "'Cause I don't want nobody to hurt me",
+            "timestamp": 87.0,
+            "annotation": null
+        },
+        {
+            "id": "bfd58f0e-a823-4003-b6de-e6030872016a",
+            "lyric": "I can't breathe, I'm waiting for the exhale",
+            "timestamp": 88.9,
+            "annotation": null
+        },
+        {
+            "id": "b9a3c4ad-bcfa-436d-907d-7d5bab0797cd",
+            "lyric": "Toss my pain with my wishes in a wishing well",
+            "timestamp": 92.4,
+            "annotation": null
+        },
+        {
+            "id": "82fc7aff-5aad-4593-a3b9-7d614ea0dfd5",
+            "lyric": "Still no luck, but oh, well",
+            "timestamp": 95.2,
+            "annotation": null
+        },
+        {
+            "id": "09d5767f-55e8-442b-96d3-d0af4db9dcda",
+            "lyric": "I still try even though I know I'm gon' fail",
+            "timestamp": 98.5,
+            "annotation": null
+        },
+        {
+            "id": "144cca74-dd71-487e-bead-eff01f725197",
+            "lyric": "It's stress on my shoulders like a anvil",
+            "timestamp": 102.1,
+            "annotation": null
+        },
+        {
+            "id": "97bc67a4-efdc-4b3a-af46-bd27046fa5b0",
+            "lyric": "Perky got me itching like a anthill",
+            "timestamp": 105.6,
+            "annotation": null
+        },
+        {
+            "id": "e124bf0e-997f-46fd-a9b9-f73676b203d9",
+            "lyric": "Drugs killing me softly, Lauryn Hill",
+            "timestamp": 108.5,
+            "annotation": null
+        },
+        {
+            "id": "8f44abfe-97a6-479a-b15b-02310819482a",
+            "lyric": "Sometimes I don't know how to feel",
+            "timestamp": 111.5,
+            "annotation": null
+        },
+        {
+            "id": "77ee4fe2-04db-4fa1-813e-b7add6fdefa8",
+            "lyric": "Sometimes I don't know how to feel",
+            "timestamp": 114.8,
+            "annotation": null
+        },
+        {
+            "id": "d9a8affe-81f7-4b7f-89da-7b909eebc44a",
+            "lyric": "Let's be for real",
+            "timestamp": 118.1,
+            "annotation": null
+        },
+        {
+            "id": "b57db521-c58f-4473-927d-7447dfb6433f",
+            "lyric": "If it wasn't for the pills, I wouldn't be here",
+            "timestamp": 119.5,
+            "annotation": null
+        },
+        {
+            "id": "0bc1967f-0ecb-41fa-9377-d2b9a0ed6e90",
+            "lyric": "But if I keep taking these pills, I won't be here, yeah",
+            "timestamp": 122.6,
+            "annotation": null
+        },
+        {
+            "id": "d908e05c-b183-4fa1-9530-1485313743e8",
+            "lyric": "I just told y'all my secret, yeah",
+            "timestamp": 126.9,
+            "annotation": null
+        },
+        {
+            "id": "02cdee2b-2c7c-40a2-b45c-52dabb1fdb3f",
+            "lyric": "It's tearing me to pieces",
+            "timestamp": 130.4,
+            "annotation": null
+        },
+        {
+            "id": "94e29231-a3f8-4519-846f-400987b93f37",
+            "lyric": "I really think I need them",
+            "timestamp": 133.6,
+            "annotation": null
+        },
+        {
+            "id": "372252df-bd61-4fe3-a666-ef4058dea925",
+            "lyric": "I stopped taking the drugs and now the drugs take me",
+            "timestamp": 137.5,
+            "annotation": null
+        },
+        {
+            "id": "b097f579-0aa2-4a46-aeef-3d774d038027",
+            "lyric": "This is the part where I tell you I'm fine, but I'm lyin'",
+            "timestamp": 140.8,
+            "annotation": null
+        },
+        {
+            "id": "df1a2bef-1096-4ddd-a338-00ec171afca8",
+            "lyric": "I just don't want you to worry",
+            "timestamp": 144.5,
+            "annotation": null
+        },
+        {
+            "id": "c98cabec-fca9-4e3e-8f7f-7494455dcb01",
+            "lyric": "This is the part where I take all my feelings and hide 'em",
+            "timestamp": 147.2,
+            "annotation": null
+        },
+        {
+            "id": "8f32eb8b-da8b-4816-9a8f-3665d9da8661",
+            "lyric": "'Cause I don't want nobody to hurt me",
+            "timestamp": 151.1,
+            "annotation": null
+        },
+        {
+            "id": "48147254-7e1d-46ff-ae46-300f1d2399e1",
+            "lyric": "I can't breathe, I'm waiting for the exhale",
+            "timestamp": 153.2,
+            "annotation": null
+        },
+        {
+            "id": "caec37d7-cd83-4f8f-9c40-277ddb64becf",
+            "lyric": "Toss my pain with my wishes in a wishing well",
+            "timestamp": 156.5,
+            "annotation": null
+        },
+        {
+            "id": "be63d1da-3dad-429a-b727-edd4994dc42b",
+            "lyric": "Still no luck, but oh, well",
+            "timestamp": 159.2,
+            "annotation": null
+        },
+        {
+            "id": "99400eec-b2cf-4e24-8611-3b77f2f31b6b",
+            "lyric": "I still try even though I know I'm gon' fail",
+            "timestamp": 162.6,
+            "annotation": null
+        },
+        {
+            "id": "44383ccc-bb67-4401-a4bd-9f6e667b73d7",
+            "lyric": "It's stress on my shoulders like a anvil",
+            "timestamp": 166.2,
+            "annotation": null
+        },
+        {
+            "id": "a5021d4d-34b8-4ba5-b17e-6cfcb9bbb117",
+            "lyric": "Perky got me itching like a anthill",
+            "timestamp": 169.6,
+            "annotation": null
+        },
+        {
+            "id": "88cd6f5d-cde4-4995-953b-2a135fe63a9d",
+            "lyric": "Drugs killing me softly, Lauryn Hill",
+            "timestamp": 172.5,
+            "annotation": null
+        },
+        {
+            "id": "059f3eb2-8cf8-4204-8d3c-3e184e54e939",
+            "lyric": "Sometimes I don't know how to feel",
+            "timestamp": 175.5,
+            "annotation": null
+        },
+        {
+            "id": "7f323f1f-ee68-425f-a8a9-c4a954cd22b9",
+            "lyric": "",
+            "timestamp": 177.8,
+            "annotation": null
+        }
+    ]
+}

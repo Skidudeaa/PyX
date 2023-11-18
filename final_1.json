@@ -1,0 +1,352 @@
+{
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "release_date": "2001-10-09",
+    "description": "\u201cIn the End\u201d is mainly based on one person\u2019s failure. Its most possible meaning is that it\u2019s about time wasted on trying to build a relationship with a girl who doesn\u2019t want to be with you.",
+    "bgColor": "9b948c",
+    "textColors": {
+        "textColor1": "0e0103",
+        "textColor2": "1b1b1b",
+        "textColor3": "2a1f1e",
+        "textColor4": "343331"
+    },
+    "lyrics_and_annotations": [
+        {
+            "id": "46e5a8df-2ad6-4af7-912e-9d56b71629bd",
+            "lyric": "It starts with one",
+            "timestamp": 14.6,
+            "annotation": null
+        },
+        {
+            "id": "7afc46a3-54a7-4be1-b5fa-44f360ac2c69",
+            "lyric": "One thing I don't know why",
+            "timestamp": 16.2,
+            "annotation": null
+        },
+        {
+            "id": "13b28b99-7959-41cc-a7f0-318fef2afdfd",
+            "lyric": "It doesn't even matter how hard you try",
+            "timestamp": 18.4,
+            "annotation": null
+        },
+        {
+            "id": "7c43b0c4-9040-42c1-bd76-c21420e01c3d",
+            "lyric": "Keep that in mind, I designed this rhyme",
+            "timestamp": 20.4,
+            "annotation": null
+        },
+        {
+            "id": "8da733fe-895a-4020-8820-fb8e50a7f2e4",
+            "lyric": "To explain in due time",
+            "timestamp": 22.7,
+            "annotation": null
+        },
+        {
+            "id": "30d00583-c2c4-4c0a-a5b7-d9135ca35954",
+            "lyric": "All I know",
+            "timestamp": 24.1,
+            "annotation": null
+        },
+        {
+            "id": "10d6b898-3c16-496b-8c35-ad64eb9959ad",
+            "lyric": "Time is a valuable thing",
+            "timestamp": 25.9,
+            "annotation": "This idea is illustrated by the story The Pit and the Pendulum by Edgar Allan Poe. Both the poem and this lyric pay homage to the value of time in reference to life and death."
+        },
+        {
+            "id": "045057b6-dc66-4638-a006-31b937bccc16",
+            "lyric": "Watch it fly by as the pendulum swings",
+            "timestamp": 27.5,
+            "annotation": null
+        },
+        {
+            "id": "9f23528a-aa17-4bfb-addd-e49b1a8027c0",
+            "lyric": "Watch it count down to the end of the day",
+            "timestamp": 29.8,
+            "annotation": null
+        },
+        {
+            "id": "e39223e4-d774-46d6-b7fa-5ad236911226",
+            "lyric": "The clock ticks life away",
+            "timestamp": 32.3,
+            "annotation": null
+        },
+        {
+            "id": "5a795998-c24d-4563-b96f-2a1f50150c77",
+            "lyric": "It's so unreal",
+            "timestamp": 33.3,
+            "annotation": null
+        },
+        {
+            "id": "de3c701d-f03a-4f6c-854c-b4ac0d97563c",
+            "lyric": "Didn't look out below",
+            "timestamp": 35.2,
+            "annotation": null
+        },
+        {
+            "id": "f5ed7f3e-8dd2-46e6-b739-429319388117",
+            "lyric": "Watch the time go right out the window",
+            "timestamp": 36.4,
+            "annotation": null
+        },
+        {
+            "id": "50725ea2-a35a-485a-93f4-d29d25f0657b",
+            "lyric": "Tryin' to hold on, did-didn't even know",
+            "timestamp": 38.9,
+            "annotation": null
+        },
+        {
+            "id": "e3445d3a-ac4f-4368-949f-cce8b171d58a",
+            "lyric": "I wasted it all just to watch you go",
+            "timestamp": 40.9,
+            "annotation": null
+        },
+        {
+            "id": "f6910aac-d829-4ea8-8594-2118fd3f2922",
+            "lyric": "I kept everything inside and even though I tried",
+            "timestamp": 44.3,
+            "annotation": null
+        },
+        {
+            "id": "e771f2b9-2835-4b6b-af38-e4152fd4e797",
+            "lyric": "It all fell apart",
+            "timestamp": 46.7,
+            "annotation": null
+        },
+        {
+            "id": "7ed08602-0497-4040-badb-34242c53d947",
+            "lyric": "What it meant to me will eventually",
+            "timestamp": 48.2,
+            "annotation": null
+        },
+        {
+            "id": "70bcd53e-c658-4cb4-bf5b-324015437e59",
+            "lyric": "Be a memory of a time when-",
+            "timestamp": 50.0,
+            "annotation": null
+        },
+        {
+            "id": "259b3b91-9e54-409b-88a2-4c6075655047",
+            "lyric": "I tried so hard and got so far",
+            "timestamp": 51.8,
+            "annotation": null
+        },
+        {
+            "id": "64c311ce-49e7-454c-be16-a8bca5f08e86",
+            "lyric": "But in the end, it doesn't even matter",
+            "timestamp": 56.4,
+            "annotation": null
+        },
+        {
+            "id": "8c84bb01-77d6-4172-86d3-e43d389b0971",
+            "lyric": "I had to fall to lose it all",
+            "timestamp": 60.5,
+            "annotation": null
+        },
+        {
+            "id": "ab12b140-7c48-4945-b607-2d2ca93570de",
+            "lyric": "But in the end, it doesn't even matter",
+            "timestamp": 65.5,
+            "annotation": null
+        },
+        {
+            "id": "84760551-d939-466a-913a-0019d8df82a8",
+            "lyric": "One thing, I don't know why",
+            "timestamp": 71.2,
+            "annotation": null
+        },
+        {
+            "id": "0a32a652-76b1-4acc-8cb0-a1f4c2a262dd",
+            "lyric": "It doesn't even matter how hard you try",
+            "timestamp": 73.5,
+            "annotation": null
+        },
+        {
+            "id": "07680a92-cf10-4a22-ad3c-710b1b7c0062",
+            "lyric": "Keep that in mind, I designed this rhyme",
+            "timestamp": 75.4,
+            "annotation": null
+        },
+        {
+            "id": "3e1a7a1c-093a-4ea9-906f-5295aa5e9c53",
+            "lyric": "To remind myself how I tried so hard",
+            "timestamp": 77.5,
+            "annotation": null
+        },
+        {
+            "id": "531ecd79-1f2a-4d5d-ba6a-1916be35e172",
+            "lyric": "In spite of the way you were mockin' me",
+            "timestamp": 80.8,
+            "annotation": null
+        },
+        {
+            "id": "240c9229-6160-45d8-b381-6e4e80111399",
+            "lyric": "Acting like I was part of your property",
+            "timestamp": 83.3,
+            "annotation": null
+        },
+        {
+            "id": "33761123-1df1-4a89-a277-b9bc83241ffc",
+            "lyric": "Remembering all the times you fought with me",
+            "timestamp": 85.0,
+            "annotation": null
+        },
+        {
+            "id": "3e793e15-0678-4f91-b178-1ea0115a65ce",
+            "lyric": "I'm surprised it got so far",
+            "timestamp": 87.0,
+            "annotation": null
+        },
+        {
+            "id": "55e94f8b-0288-4ac3-8be6-afba2a366466",
+            "lyric": "Things aren't the way they were before",
+            "timestamp": 89.8,
+            "annotation": null
+        },
+        {
+            "id": "39467542-b655-43b0-bee4-2e09814d25d3",
+            "lyric": "You wouldn't even recognize me anymore",
+            "timestamp": 91.6,
+            "annotation": null
+        },
+        {
+            "id": "bc835d6f-5f4a-405a-94b8-b4354f6c681a",
+            "lyric": "Not that you knew me back then",
+            "timestamp": 94.3,
+            "annotation": null
+        },
+        {
+            "id": "5e1ec76e-ddde-4347-98e7-53c42643c06d",
+            "lyric": "But it all comes back to me in the end",
+            "timestamp": 95.7,
+            "annotation": null
+        },
+        {
+            "id": "72b7197a-8a7e-47ac-b443-5a62748a06ad",
+            "lyric": "You kept everything inside and even though I tried",
+            "timestamp": 99.0,
+            "annotation": null
+        },
+        {
+            "id": "f5b625d9-3377-40ee-8fc5-429189e2500b",
+            "lyric": "It all fell apart",
+            "timestamp": 101.8,
+            "annotation": null
+        },
+        {
+            "id": "d6da23ec-404f-4007-b0d3-d00c7117928e",
+            "lyric": "What it meant to me will eventually",
+            "timestamp": 103.2,
+            "annotation": null
+        },
+        {
+            "id": "fe12f36e-f953-4d78-815c-715c9eae8975",
+            "lyric": "Be a memory of a time when-",
+            "timestamp": 105.0,
+            "annotation": null
+        },
+        {
+            "id": "d89f43fa-ac5c-475d-93af-e2505305420b",
+            "lyric": "I tried so hard and got so far",
+            "timestamp": 106.6,
+            "annotation": null
+        },
+        {
+            "id": "471877e8-d840-46bd-8481-c5227f318f78",
+            "lyric": "But in the end, it doesn't even matter",
+            "timestamp": 111.2,
+            "annotation": null
+        },
+        {
+            "id": "5dc8bb73-af9c-4101-8634-fc2059bccb61",
+            "lyric": "I had to fall to lose it all",
+            "timestamp": 115.3,
+            "annotation": null
+        },
+        {
+            "id": "b9798504-8206-45b1-9232-19666296eff7",
+            "lyric": "But in the end, it doesn't even matter",
+            "timestamp": 120.4,
+            "annotation": null
+        },
+        {
+            "id": "1dd4e255-5143-433d-9423-46e5dc084ada",
+            "lyric": "I've put my trust in you",
+            "timestamp": 126.9,
+            "annotation": null
+        },
+        {
+            "id": "7af30df0-242f-4b94-86a5-98ed9c45a483",
+            "lyric": "Pushed as far as I can go",
+            "timestamp": 131.4,
+            "annotation": null
+        },
+        {
+            "id": "a1e19190-b663-4308-9e0c-a889c716bd83",
+            "lyric": "For all this",
+            "timestamp": 136.0,
+            "annotation": null
+        },
+        {
+            "id": "04fbff3e-0370-4e6c-9f73-4d9281154fc7",
+            "lyric": "There's only one thing you should know",
+            "timestamp": 138.2,
+            "annotation": null
+        },
+        {
+            "id": "1662a4d0-3e9e-4323-a481-98d1bfd243a1",
+            "lyric": "I've put my trust in you",
+            "timestamp": 145.2,
+            "annotation": null
+        },
+        {
+            "id": "5b56ff7a-68c9-4c78-a230-af4b0f57e508",
+            "lyric": "Pushed as far as I can go",
+            "timestamp": 149.8,
+            "annotation": null
+        },
+        {
+            "id": "bccf6058-c0ad-4e48-b349-2691c25d28fd",
+            "lyric": "For all this",
+            "timestamp": 154.2,
+            "annotation": null
+        },
+        {
+            "id": "ef604ac9-f612-4c33-a16b-bf35f2bff137",
+            "lyric": "There's only one thing you should know",
+            "timestamp": 156.4,
+            "annotation": null
+        },
+        {
+            "id": "f2ab7229-b194-4f3d-88e2-e8cfb1fd3f15",
+            "lyric": "I tried so hard and got so far",
+            "timestamp": 163.2,
+            "annotation": null
+        },
+        {
+            "id": "e1f3858c-822e-4495-ad34-3ccdf44e3e44",
+            "lyric": "But in the end, it doesn't even matter",
+            "timestamp": 168.4,
+            "annotation": null
+        },
+        {
+            "id": "211bad0d-ef43-4d50-b909-bea1dc4fe597",
+            "lyric": "I had to fall to lose it all",
+            "timestamp": 172.6,
+            "annotation": null
+        },
+        {
+            "id": "5c7326d8-2dc5-4cf1-9b65-6f3b2019f6f5",
+            "lyric": "But in the end, it doesn't even matter",
+            "timestamp": 177.6,
+            "annotation": null
+        },
+        {
+            "id": "fc8230ef-cbb1-4b41-bb3e-1b9ab6fa61b9",
+            "lyric": "",
+            "timestamp": 183.8,
+            "annotation": null
+        }
+    ]
+}
